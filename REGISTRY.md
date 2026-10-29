@@ -43,6 +43,7 @@ No repetir estos animales, versiculos ni temas de cuerpo.
 - gecko
 - martin pescador
 - okapi (lote 43, 2026-10-29)
+- pangolin / Manis (lote 50, 2026-10-29)
 
 ## Refugio ya usado
 - Mateo 11:28
@@ -60,6 +61,7 @@ No repetir estos animales, versiculos ni temas de cuerpo.
 - Juan 14
 - Isaias 43
 - Isaias 40:28-31 (lote 43, 2026-10-29)
+- Isaias 41:10 no temas yo estoy contigo (lote 50, 2026-10-29)
 
 ## Instagram cuerpo ya usado
 - suspiro fisiologico
@@ -72,6 +74,7 @@ No repetir estos animales, versiculos ni temas de cuerpo.
 - epiglotis
 - paladar / yemas y agua
 - tres tipos de lagrimas (lote 43, 2026-10-29)
+- arrugas de los dedos en agua / reflejo de agarre (lote 50, 2026-10-29)
 
 
 ## Lote 48 (2026-10-29) — no repetir
@@ -131,3 +134,12 @@ El MP4 está en el release lote49-20261029. create_post falló: access token cou
 - ajo al corte
 - Habacuc: aunque la higuera no florezca
 - prudencia no alcanza, fiate de Jehova
+
+## Lote 50 (2026-10-29) — publicado en Buffer (shareNow, sent)
+Release: lote50-20261029
+### Animales
+- pangolin / Manis. Post 6ae33f313843f63a485761ca. IA AL ALCANCE.
+### Refugio
+- Isaias 41:10. Post 6ae34026650dab96a371da66. Refugio en la Palabra.
+### Instagram cuerpo
+- arrugas de los dedos en el agua. Post 6ae33f3b1d52e172a104c37b. michel88854.

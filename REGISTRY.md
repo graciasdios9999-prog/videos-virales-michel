@@ -108,3 +108,26 @@ No repetir estos animales, versiculos ni temas de cuerpo.
 - nudillos burbuja
 - clavo de olor
 - apendice
+
+
+## Lote 49 (2026-10-29) — producido, NO publicado en Buffer
+El MP4 está en el release lote49-20261029. create_post falló: access token could not be validated. No repetir el tema.
+### Animales
+- cangrejo de roca / familia Grapsidae (no es cangrejo herradura ni ermitaño)
+### Refugio
+- Exodo 14:14 RV1909 Jehova peleara por vosotros y vosotros estareis quedos
+### Instagram cuerpo
+- reflejo de inmersion / bradicardia del trigemino (no es terapia)
+
+## Vistos en Buffer el 2026-10-29 y no repetir
+- elefante asiatico / Elephas maximus
+- elefante africano / Loxodonta africana
+- tigre blanco
+- menta / mentol / TRPM8
+- huellas dactilares
+- hipo / diafragma
+- estornudo fotico
+- curcuma
+- ajo al corte
+- Habacuc: aunque la higuera no florezca
+- prudencia no alcanza, fiate de Jehova

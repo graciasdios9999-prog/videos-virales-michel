@@ -72,3 +72,39 @@ No repetir estos animales, versiculos ni temas de cuerpo.
 - epiglotis
 - paladar / yemas y agua
 - tres tipos de lagrimas (lote 43, 2026-10-29)
+
+
+## Lote 48 (2026-10-29) — no repetir
+### Animales
+- narval / Monodon monoceros
+- pez luna / Mola mola
+- tarsero / Tarsius
+- quetzal resplandeciente / Pharomachrus
+- proteo / olm / Proteus anguinus
+- pez arquero / Toxotes
+- babirusa / Babyrousa
+- hoatzin / Opisthocomus
+- saiga / Saiga tatarica
+- albatros errante / Diomedea exulans
+
+### Refugio
+- Filipenses 4 paz que guarda
+- corazon quebrantado (cerca esta)
+- Jeremias 29 planes de esperanza
+- Sofonias 3:17 cantico
+- Salmo 42 sed del alma
+- Juan 16:33 animo victoria
+- Deuteronomio 31:8 va delante
+- Salmo 103 corona de amor
+- Marcos 4 tormenta calla
+- Apocalipsis 21 enjugara lagrimas
+
+### Instagram cuerpo
+- bostezo contagioso
+- huesecillos del oido (martillo yunque estribo)
+- manzanilla
+- romero
+- higado regeneracion
+- nudillos burbuja
+- clavo de olor
+- apendice

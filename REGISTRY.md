@@ -143,3 +143,42 @@ Release: lote50-20261029
 - Isaias 41:10. Post 6ae34026650dab96a371da66. Refugio en la Palabra.
 ### Instagram cuerpo
 - arrugas de los dedos en el agua. Post 6ae33f3b1d52e172a104c37b. michel88854.
+
+## Lote 52 (2026-10-29) — MP4 en release lote52-20261029
+Buffer create_post devolvió: access token could not be validated (WKE=unauthenticated:bad-credentials). NO hay id de post. No repetir el tema.
+
+### Animales
+- kakapo / Strigops habroptilus
+- picozapato / shoebill / Balaeniceps rex
+- tuatara / Sphenodon punctatus
+- dragon de mar foliado / Phycodurus eques
+- mono narigudo / Nasalis larvatus
+- topo de nariz estrellada / Condylura cristata
+- ave secretario / Sagittarius serpentarius
+- rana de cristal / Hyalinobatrachium
+- licaon / Lycaon pictus
+- kiwi / Apteryx
+- piquero de patas azules / Sula nebouxii
+- casuario / Casuarius
+- iguana marina / Amblyrhynchus cristatus (largo)
+
+### Refugio
+- Salmo 30:5 lloro de noche, alegria de manana
+- Nehemias 8:10 gozo de Jehova es fortaleza
+- 1 Pedro 5:7 echando la solicitud
+- Hebreos 11:1 fe sustancia
+- Isaias 26:3 paz completa
+- Salmo 37:5 encomienda tu camino
+- 2 Timoteo 1:7 no espiritu de temor
+- Salmo 118:24 este es el dia
+- Juan 15:5 la vid
+- Santiago 1:17 toda buena dadiva
+- Salmo 4:8 en paz me acostare (largo)
+
+### Instagram
+- congelamiento cerebral / hielo en la frente
+- borborigmo / rugido del estomago
+- parpadeo frente a la pantalla
+- canela (no es tratamiento)
+- jamaica / Hibiscus sabdariffa
+- oregano / Origanum vulgare

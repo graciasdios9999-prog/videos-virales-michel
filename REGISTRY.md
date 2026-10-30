@@ -381,3 +381,45 @@ buffer___create_post y buffer___get_account devolvieron: access token could not 
 ### VALERIA
 - efecto Ben Franklin / pedir un favor pequeño. MP4 favor-pequeno.mp4. 0:40. Título: Si te piden un favor, mira la cuerda. Sin id de Buffer.
 - efecto foco / spotlight (Gilovich, camiseta). MP4 efecto-foco.mp4. 0:33. Título: El error que crees que todos vieron. Sin id de Buffer.
+
+## Lote 63 (2026-10-30) — MP4 en release, Buffer sin id
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote63-20261030
+buffer___list_channels y buffer___create_post devolvieron: access token could not be validated (WKE=unauthenticated:bad-credentials). Reintentos hechos, no fue 429. No hay id de post. No repetir estos temas. Instagram no está conectado. Metraje Mixkit, no Commons. No se publicó va-tilo: el plano no mostraba el árbol.
+
+### Animales IA AL ALCANCE
+- cebra / Equus quagga. Rayas individuales. 0:59. Título: 2026 La raya que no esconde a la cebra. Sin id de Buffer. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/ia-cebra.mp4
+- canguro rojo. Cola como apoyo, no wallaby. 0:59. Título: 2026 La cola que funciona como pata. Sin id de Buffer. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/ia-canguro.mp4
+- delfín mular. No es orca. 0:54. Título: 2026 Duerme y sigue nadando. Sin id de Buffer. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/ia-delfin.mp4
+- águila. Vista a distancia. 0:54. Título: 2026 El punto que tú no ves. Sin id de Buffer. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/ia-aguila.mp4
+- erizo. Espuma de autounción. 0:53. Título: 2026 Se unta una espuma que él mismo hace. Sin id de Buffer. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/ia-erizo.mp4
+- ardilla. Escondites falsos. 0:52. Título: 2026 El escondite que era una mentira. Sin id de Buffer. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/ia-ardilla.mp4
+- cabra. Pupila rectangular. 0:54. Título: 2026 La pupila que es una raya. Sin id de Buffer. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/ia-cabra.mp4
+- serpiente. Lengua y órgano de Jacobson. No es un how-to de mordida. 0:57. Título: 2026 Huele el aire con la lengua. Sin id de Buffer. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/ia-serpiente.mp4
+- reno. Ojo y tapetum de invierno. 0:56. Título: 2026 Los ojos que cambian con el invierno. Sin id de Buffer. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/ia-reno.mp4
+- loro. Siringe, no cuerdas humanas. 0:55. Título: 2026 Repite tu voz sin tener tus cuerdas. Sin id de Buffer. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/ia-loro.mp4
+- antílope. Stotting. Horizontal. No es ñu, gerenuk ni saiga. 1:48. Título: 2026 El salto que no es huida. Sin id de Buffer. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/largo-antilope.mp4
+
+### Refugio en la Palabra
+- Salmo 40. 1:10. Título: 2026 Esperar no es quedarte vacío. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/fe-salmo40.mp4
+- Salmo 18. 1:00. Título: 2026 Tu miedo no es más alto que la roca. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/fe-salmo18.mp4
+- Jeremías 17. 1:05. Título: 2026 La raíz que bebe en año seco. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/fe-jeremias17.mp4
+- Salmo 90. Horizontal.. 1:48. Título: 2026 Enséñanos a contar los días. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/largo-salmo90.mp4
+- Salmo 107. 1:11. Título: 2026 La ola no firma tu final. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/fe-salmo107.mp4
+- Mateo 28:20. 1:14. Título: 2026 No caminas el último tramo solo. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/fe-mateo28.mp4
+- Salmo 147. 1:12. Título: 2026 Hay quien liga lo que se rompió. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/fe-salmo147.mp4
+- Hebreos 12:2. 1:15. Título: 2026 Quita los ojos del ruido. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/fe-hebreos12.mp4
+- Romanos 5:8. 1:12. Título: 2026 El amor llegó antes de tu arreglo. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/fe-romanos5.mp4
+- Joel 2:25. 1:13. Título: 2026 Los años comidos no son la última cosecha. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/fe-joel2.mp4
+- Salmo 138. 1:12. Título: 2026 Tu historia todavía tiene autor. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/fe-salmo138.mp4
+
+### VALERIA
+- proyección. 0:52. Título: 2026 Te acusa de lo que hace. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/va-proyeccion.mp4
+- refuerzo intermitente. 0:52. Título: 2026 El cariño que llega como ruleta. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/va-intermitente.mp4
+- doble vínculo. 0:52. Título: 2026 Las dos órdenes que se anulan. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/va-doble-vinculo.mp4
+- disonancia cognitiva. 0:51. Título: 2026 Defiendes lo que te duele. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/va-disonancia.mp4
+- FOG miedo obligación culpa. 0:53. Título: 2026 Miedo, deuda y culpa en la misma frase. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/va-fog.mp4
+- té Camellia, sin cura ni dosis. 0:59. Título: 2026 La hoja que se vuelve taza y no es un médico. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/va-te.mp4
+- flor en agua, sin receta clínica. 0:56. Título: 2026 La flor en el agua no es una receta. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/va-flor.mp4
+- anclaje del primer número. Horizontal. No es guía de estafa.. 1:42. Título: 2026 El primer número no es la verdad. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/largo-anclaje.mp4
+- efecto halo. 0:49. Título: 2026 La primera impresión te miente bonito. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/va-halo.mp4
+

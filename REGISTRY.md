@@ -301,3 +301,44 @@ No se publicó el MP4 salmo139 de este lote porque el Salmo 139 ya salió en el 
 - pimienta negra / Piper nigrum
 - cilantro / Coriandrum sativum
 - azafrán / Crocus sativus (largo 16:9)
+
+
+## Lote 60 (2026-10-30) — no repetir
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote60-20261030
+Buffer: los cuatro primeros create_post salieron sent. Después get_account y create_post devolvieron access token could not be validated. No inventar id para el resto.
+
+### Animales
+- basilisco / Basiliscus basiliscus. Post 6ae4b8e91c3539c1f4e3b7b7. IA AL ALCANCE. sent. 57s.
+- gavial / Gavialis gangeticus. Post 6ae4b9e89394ea34c1210f34. IA AL ALCANCE. sent. 53s.
+- matamata / Chelus fimbriata. Post 6ae4baf1cd8290b9b9fa128a. IA AL ALCANCE. sent. 50s.
+- escarabajo bombardero / Brachinus. Post 6ae4baf610a950f1372cd32a. IA AL ALCANCE. sent. 52s.
+- pez piedra / Synanceia. MP4 en release. Sin id de Buffer (bad-credentials).
+- guácharo / Steatornis caripensis. MP4 en release. Sin id.
+- colugo / Galeopterus variegatus. MP4 en release. Sin id.
+- cuervo de Nueva Caledonia / Corvus moneduloides. MP4 en release. Sin id.
+- calamar vampiro / Vampyroteuthis infernalis. MP4 en release. Sin id.
+- cangrejo cocotero / Birgus latro. MP4 en release. Sin id.
+
+### Refugio (si el MP4 ya está en el release, no repetir el versículo)
+- Job 19:25
+- Jeremías 33:3
+- Zacarías 4:6
+- Salmo 119:105
+- Juan 11:25
+- Efesios 2:8
+- 2 Corintios 5:17
+- Números 6:24
+- 1 Corintios 10:13
+- Hebreos 4:16
+
+### Valeria (no repetir aunque el MP4 llegue después)
+- hoovering
+- portería móvil / moving goalposts
+- piedra gris
+- chivo expiatorio
+- monos voladores
+- cumplido venenoso / negging
+- lavanda
+- laurel / Laurus nobilis
+- anís estrellado / Illicium verum
+- linaza / Linum

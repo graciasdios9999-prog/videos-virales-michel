@@ -191,3 +191,20 @@ Buffer create_post devolvió: access token could not be validated (WKE=unauthent
 - Juan 3:16-17 RV1909 de tal manera amo
 ### Instagram cuerpo
 - punto ciego / disco optico / Mariotte
+
+
+## Lote 55 (2026-10-30)
+Buffer: token inválido después de los dos primeros create_post. Solo bisonte y oso polar tienen id de post. El resto está en el release lote55-20261030 y NO está publicado en Buffer.
+### Animales con MP4 de 180s
+- bisonte americano / Bison bison. Post 6ae42b69a83a7fb63c96fe8e. IA AL ALCANCE. sent.
+- oso polar / Ursus maritimus. Post 6ae42c1e4b8768bfb2dfcebb. IA AL ALCANCE. sent.
+- pavo real / Pavo cristatus. MP4 en release. Sin id de Buffer (bad-credentials).
+- jaguar / Panthera onca. MP4 en release. Sin id de Buffer.
+- cóndor de California / Gymnogyps californianus. MP4 en release. Sin id de Buffer.
+- panda gigante / Ailuropoda melanoleuca. MP4 en release. Sin id de Buffer.
+- lobo marino de California / Zalophus californianus. MP4 en release. Sin id de Buffer.
+### Sin MP4 suficiente (no publicar)
+- macaco japonés, lémur catta, manatí, gorila, hormiguero gigante: Commons no dio 180s de video libre usable.
+### Refugio e Instagram
+- Instagram no está conectado. No se inventó id.
+- Refugio: no se publicó en este lote.

@@ -365,3 +365,19 @@ Buffer: guepardo publicado. El resto de este lote, si el MP4 existe, no se repit
 - Salmo 145:18
 - Génesis 1:31
 - Apocalipsis 22:17
+
+
+## Lote 64 (2026-10-30) — MP4 en release, Buffer sin id
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote64-20261030
+buffer___create_post y buffer___get_account devolvieron: access token could not be validated (WKE=unauthenticated:bad-credentials). Reintento hecho. No hay id de post. No repetir estos temas. Instagram no está en list_channels.
+
+### Animales
+- hiena manchada / Crocuta crocuta. MP4 hiena-manchada.mp4. 1:16. Título: 2026 La risa de la sabana no es alegría. Sin id de Buffer.
+- panda rojo / Ailurus fulgens. MP4 panda-rojo.mp4. 1:22. Título: 2026 El pulgar que no pertenece a un oso. No es panda gigante ni mapache. Sin id de Buffer.
+
+### Refugio
+- Juan 6:26-27 y Juan 6:35 RV1909, pan de vida. MP4 juan635.mp4. 2:37. Título: 2026 Llenaste el plato y seguías con hambre. Sin id de Buffer.
+
+### VALERIA
+- efecto Ben Franklin / pedir un favor pequeño. MP4 favor-pequeno.mp4. 0:40. Título: Si te piden un favor, mira la cuerda. Sin id de Buffer.
+- efecto foco / spotlight (Gilovich, camiseta). MP4 efecto-foco.mp4. 0:33. Título: El error que crees que todos vieron. Sin id de Buffer.

@@ -259,3 +259,45 @@ Release: lote57-20261030
 ### VALERIA
 - isopraxis / espejo postural. Post 6ae4579836e83ed16365f3f7. VALERIA. sent. 32s.
 - Instagram michel88854 no está en list_channels. No se inventó id.
+
+
+## Lote 58 (2026-10-30) — MP4 en release, SIN id de Buffer
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote58-20261030
+Buffer create_post y get_account devolvieron: access token could not be validated (WKE=unauthenticated:bad-credentials). No hay id de post. No repetir estos temas. Instagram no está en Buffer.
+No se publicó el MP4 salmo139 de este lote porque el Salmo 139 ya salió en el lote 57.
+
+### Animales
+- dragón de Komodo / Varanus komodoensis
+- tejón de la miel / Mellivora capensis
+- murciélago vampiro / Desmodus rotundus
+- diablo espinoso / Moloch horridus
+- lobo de crin / Chrysocyon brachyurus
+- gerenuk / Litocranius walleri
+- binturong / Arctictis binturong
+- loris lento / Nycticebus
+- anguila eléctrica / Electrophorus
+- pez pulmonado africano / Protopterus
+- fosa / Cryptoprocta ferox (largo 16:9)
+
+### Refugio
+- Miqueas 6:8 juicio, misericordia, andar humilde
+- Nahúm 1:7 bueno en el día de la angustia
+- Salmo 55:22 echa sobre Jehová tu carga
+- Isaías 30:15 quietud y confianza
+- Salmo 32:8 te haré entender el camino
+- Filipenses 1:6 el que comenzó la obra
+- 2 Corintios 4:17 tribulación y peso de gloria
+- Juan 8:36 si el Hijo os libertare
+- Salmo 16:8 a mi diestra no seré conmovido
+- Salmo 63:1 de madrugada te buscaré (reemplazo; el 139 ya estaba publicado)
+- Salmo 51:10 crea en mí un corazón limpio (largo 16:9)
+
+### Valeria
+- triangulación
+- DARVO
+- future faking / futuro falso
+- breadcrumbing / migajas
+- comino / Cuminum cyminum (cocina, no cura)
+- pimienta negra / Piper nigrum
+- cilantro / Coriandrum sativum
+- azafrán / Crocus sativus (largo 16:9)

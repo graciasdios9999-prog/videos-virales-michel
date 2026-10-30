@@ -208,3 +208,43 @@ Buffer: token inválido después de los dos primeros create_post. Solo bisonte y
 ### Refugio e Instagram
 - Instagram no está conectado. No se inventó id.
 - Refugio: no se publicó en este lote.
+
+## Lote 56 (2026-10-30) — producido, NO publicado
+Release: lote56-20261030
+https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote56-20261030
+Buffer get_account y create_post devolvieron: access token could not be validated (WKE=unauthenticated:bad-credentials). No hay id de post. No repetir estos temas. Instagram no está en Buffer.
+
+### Animales
+- pez gota / Psychrolutes marcidus (short 56s)
+- rata topo desnuda / Heterocephalus glaber
+- tiburón duende / Mitsukurina owstoni
+- camarón pistola / Alpheus
+- ave lira soberbia / Menura novaehollandiae
+- celacanto / Latimeria
+- sapo de Surinam / Pipa pipa
+- demonio de Tasmania / Sarcophilus harrisii
+- oso hormiguero gigante / Myrmecophaga tridactyla
+- dugongo / Dugong dugon
+- saltarín del fango / Periophthalmus (largo 16:9)
+
+### Refugio
+- Salmo 56:3 en el día que temo
+- Salmo 62 el alma se aquieta
+- Salmo 73:26 la roca del corazón
+- Isaías 54:10 aunque el monte se mueva
+- Mateo 7:7 pedid buscad llamad
+- Lucas 12 gorrión contado
+- Romanos 15:13 Dios de esperanza
+- Hebreos 13:5 no te desampararé
+- 1 Juan 4:18 el amor echa fuera el miedo
+- 1 Tesalonicenses 5:18 dad gracias en todo
+- Colosenses 3:15 la paz gobierne (largo 16:9)
+
+### Valeria
+- luz de gas / gaslighting como defensa, no manual
+- bombardeo de amor
+- ley del hielo / silencio punitivo
+- tomillo / Thymus vulgaris (cocina, no cura)
+- albahaca / Ocimum basilicum
+- cardamomo verde / Elettaria cardamomum
+- hinojo / Foeniculum vulgare (largo 16:9)

@@ -342,3 +342,26 @@ Buffer: los cuatro primeros create_post salieron sent. Después get_account y cr
 - laurel / Laurus nobilis
 - anís estrellado / Illicium verum
 - linaza / Linum
+
+
+## Lote 62 (2026-10-30) — en producción
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote62-20261030
+Buffer: guepardo publicado. El resto de este lote, si el MP4 existe, no se repite aunque create_post haya devuelto access token could not be validated. Instagram no está en list_channels. No publicar cuerpo humano en VALERIA.
+
+### Animales
+- guepardo / Acinonyx jubatus. Post 6ae4f194b84259308b997d1e. IA AL ALCANCE. sent. 3:00. Título: 2026 El felino que corre y no puede rugir.
+- castor / Castor canadensis. MP4 en release. Sin id de Buffer todavía. 3:00. Título: 2026 El roedor que reescribe el río.
+- hipopótamo / Hippopotamus amphibius. MP4 en release. Sin id. 3:00. Título: 2026 El gigante del río que no nada.
+- lobo gris / Canis lupus. MP4 en release. Sin id. 3:00. Título: 2026 El lobo que no pelea por ser alfa. No es lobo de crin ni lobo marino.
+
+### Refugio en curso (no repetir el versículo)
+- Salmo 19
+- Salmo 34
+- Salmo 84
+- Juan 1:4-5
+- Lucas 15
+- Isaías 55:6
+- Mateo 5:14
+- Salmo 145:18
+- Génesis 1:31
+- Apocalipsis 22:17

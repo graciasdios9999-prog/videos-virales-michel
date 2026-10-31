@@ -427,7 +427,7 @@ buffer___list_channels y buffer___create_post devolvieron: access token could no
 - efecto halo. 0:49. Título: 2026 La primera impresión te miente bonito. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/va-halo.mp4
 
 ## Lote 66 (2026-10-30) — MP4 en main/lote66
-Buffer: pendiente de id. Instagram no está conectado. No repetir.
+Buffer: FALLO. buffer___list_channels y buffer___create_post devolvieron access token could not be validated (WKE=unauthenticated:bad-credentials). No es 429. No hay id de post. Instagram no está conectado. No repetir.
 
 ### Animales IA AL ALCANCE
 - cangrejo ermitaño / Paguroidea. Concha prestada, abdomen blando, cadena de vacantes. 1:35. Título: 2026 Esa concha nunca fue suya. https://raw.githubusercontent.com/graciasdios9999-prog/videos-virales-michel/main/lote66/ia-ermita.mp4

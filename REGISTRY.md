@@ -439,3 +439,35 @@ Buffer: FALLO. buffer___list_channels y buffer___create_post devolvieron access 
 ### VALERIA
 - efecto Forer / Barnum 1948. Advertencia, no tutorial de engaño. 0:41. Título: 2026 El test que describe a todos. https://raw.githubusercontent.com/graciasdios9999-prog/videos-virales-michel/main/lote66/va-forer.mp4
 - piloerección / músculos erectores del pelo. No es diagnóstico. 0:38. Título: 2026 Se te erizó la piel sin frío. https://raw.githubusercontent.com/graciasdios9999-prog/videos-virales-michel/main/lote66/va-piel.mp4
+
+## Lote 67 (2026-10-31) — MP4 en release, Buffer sin id
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote67-20261031
+buffer___list_channels, buffer___create_post y google_drive_upload_artifact devolvieron: access token could not be validated (WKE=unauthenticated:bad-credentials). No es 429. No hay Retry-After. No hay id de post. No repetir estos temas, títulos ni guiones. Instagram y TikTok no se pudieron alcanzar (mismo token).
+
+### Animales IA AL ALCANCE (categoryId 15) — sin postId
+- Maratus volans. Título: 2026 Este macho baila y puede terminar comido. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/ia_maratus.mp4
+- Macropinna microstoma / pez barreleye. Título: 2026 Los ojos de este pez están dentro de la cabeza. Ilustración, no film de MBARI. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/ia_barreleye.mp4
+- mixino / hagfish. Título: 2026 Este animal ahoga al depredador con baba. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/ia_hagfish.mp4
+- pichiciego menor / Chlamyphorus truncatus. Título: 2026 El armadillo rosa casi no sale a la luz. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/ia_pichi.mp4
+- Kiwa hirsuta / cangrejo yeti. Título: 2026 Esta pinza cultiva su propia comida. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/ia_yeti.mp4
+
+### Refugio en la Palabra (categoryId 27, RV1909) — sin postId
+- Salmo 126. Título: 2026 Sembraste llorando y la gavilla no es el final. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/fe_s126.mp4
+- Marcos 10:27. Título: 2026 Para ti es imposible y la frase no termina ahí. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/fe_m10.mp4
+- Salmo 13. Título: 2026 Hasta cuándo: el salmo no te manda a callar. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/fe_s13.mp4
+- Isaías 61. Título: 2026 La ceniza no es el uniforme para siempre. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/fe_i61.mp4
+- Juan 10. Título: 2026 Si oyes esa voz nadie te arranca de esa mano. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/fe_j10.mp4
+
+### VALERIA (categoryId 22) — sin postId
+- costo hundido (Arkes y Blumer 1985). Título: 2026 Ya pagaste: por eso sigues sentado. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/va_sunk.mp4
+- efecto espectador (Darley y Latané). Título: 2026 Cuanta más gente mira, menos manos se mueven. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/va_bystander.mp4
+- ilusión de frecuencia (Zwicky). Título: 2026 No se multiplicó: empezaste a verlo. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/va_freq.mp4
+- sesgo de confirmación (Wason 1960). Título: 2026 Buscas prueba de lo que ya decidiste. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/va_confirm.mp4
+- mera exposición (Zajonc 1968). Título: 2026 Lo ves tanto que empiezas a creerle. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/va_expo.mp4
+
+### Instagram reels (no publicados; TikTok solo r1–r3, tampoco enviados)
+- ig_r1 tirón hipnagógico. Título: El salto que te despierta al quedarte dormido. TikTok sí, una vez. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/ig_r1.mp4
+- ig_r2 trompa de Eustaquio. TikTok sí, una vez. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/ig_r2.mp4
+- ig_r3 mioquimia del párpado. TikTok sí, una vez. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/ig_r3.mp4
+- ig_r4 miel / Cochrane, no es cura, no lactantes. TikTok NO. Tarjeta de color, no metraje de miel. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/ig_r4.mp4
+- ig_r5 luz de la mañana / núcleo supraquiasmático, no es cura. TikTok NO. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/ig_r5.mp4

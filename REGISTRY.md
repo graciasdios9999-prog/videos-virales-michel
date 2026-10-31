@@ -471,3 +471,29 @@ buffer___list_channels, buffer___create_post y google_drive_upload_artifact devo
 - ig_r3 mioquimia del párpado. TikTok sí, una vez. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/ig_r3.mp4
 - ig_r4 miel / Cochrane, no es cura, no lactantes. TikTok NO. Tarjeta de color, no metraje de miel. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/ig_r4.mp4
 - ig_r5 luz de la mañana / núcleo supraquiasmático, no es cura. TikTok NO. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote67-20261031/ig_r5.mp4
+
+
+## Lote 68 (2026-10-31) — MP4 en release, Buffer sin id
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote68-20261031
+buffer___list_channels y buffer___create_post devolvieron: access token could not be validated (WKE=unauthenticated:bad-credentials). Reintento hecho. No es 429. No hay id de post. No repetir estos temas. Drive tampoco: mismo token. Cola de Cuba no se pudo leer.
+
+### Animales
+- ciervo. Astas de hueso, no cuernos. MP4 ia-ciervo.mp4. 1:04. Título: El ciervo tira las astas y las vuelve a crecer #Shorts #2026. Sin id.
+- orca / Orcinus orca. No es ballena. MP4 ia-orca.mp4. 1:07. Título: La orca no es una ballena: es el delfín más grande #Shorts. Sin id.
+- ganso. Formación en V. MP4 ia-ganso.mp4. 1:06. Título: El ganso vuela en V para no gastar el aire solo #Shorts. Sin id.
+- oso pardo / Ursus arctos. No es oso polar. MP4 ia-oso-pardo.mp4. 1:01. Título: El oso pardo no es el oso polar: huele a kilómetros #Shorts. Sin id.
+- libélula / Odonata. Intercepción. MP4 ia-libelula.mp4. 1:01. Título: La libélula calcula dónde va a estar la presa #Shorts #2026. Sin id.
+
+### Refugio
+- Salmo 130 RVR1960. MP4 re-salmo130.mp4. 1:10. Título: Salmo 130 Desde lo profundo clamo a Jehová #Fe #2026. Sin id.
+- Malaquías 3:6 RVR1960. MP4 re-malaquias.mp4. 1:08. Título: Malaquías 3:6 Jehová no cambia #Biblia #2026. Sin id.
+- Juan 8:12 RVR1960. MP4 re-juan8.mp4. 1:09. Título: Juan 8:12 Yo soy la luz del mundo #Biblia #2026. Sin id.
+- Juan 10:11 RVR1960. MP4 re-juan10.mp4. 1:08. Título: Juan 10:11 Yo soy el buen pastor #Fe #2026. Sin id.
+- Gálatas 6:9 RVR1960. MP4 re-galatas6.mp4. 1:11. Título: Gálatas 6:9 No te canses de hacer el bien #Fe #2026. Sin id.
+
+### VALERIA
+- error fundamental de atribución. MP4 va-atribucion.mp4. 0:49. Título: El error de juzgar al otro por un solo acto #Shorts. Sin id.
+- catastrofizar. MP4 va-catastrofe.mp4. 0:49. Título: Un silencio no es el peor final: es catastrofizar #Shorts. Sin id.
+- efecto Dunning-Kruger. MP4 va-dunning.mp4. 0:49. Título: Cuando menos sabes, más segura se siente la certeza #Shorts. Sin id.
+- ilusión de transparencia. MP4 va-transparencia.mp4. 0:49. Título: Sientes el nervio y crees que todos lo están viendo #Shorts. Sin id.
+- sesgo de autoservicio. MP4 va-autoservicio.mp4. 0:48. Título: Si sale bien es talento; si sale mal, es el contexto #Shorts. Sin id.

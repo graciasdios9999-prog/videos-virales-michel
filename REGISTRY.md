@@ -666,7 +666,7 @@ Los MP4 de más de 3 minutos y horizontales (lote70: foca, oveja, reyes, isaias,
 La sección anterior titulada "Lote 75" lista shorts del release lote74 (rino, koala, tapir, zorro, tinaja, pozo, cárcel, Karpman, vínculo, consenso) ya programados el 1 nov. No son este lote. No repetir tampoco estos 15 temas nuevos.
 
 IA AL ALCANCE (6abb15f5ea19ca0bde1c22f5) category 15. shareNow. status sent. error null.
-- alce / Alces alces. Post 6ae64e0b1ee172cd6dbfd90f. sent 2026-10-31T20:22:38Z. Título: 2026 Esa pala no es un adorno. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote75-20261031/ia_alce.mp4
+- alce / Alces alces. Post 6ae64e0b1ee172cd6dbfd90f. sent 2026-10-31T20:22:38Z. Título: 2026 Ese ciervo es un alce y come bajo el agua. YouTube https://www.youtube.com/shorts/CzWiQxllIf4. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote75-20261031/ia_alce.mp4
 - aligátor / Alligator mississippiensis. Post 6ae64e3837c1acd2a0cbb704. sent 2026-10-31T20:23:22Z. Título: 2026 Ese diente del caimán no es el último. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote75-20261031/ia_aligator.mp4
 - emú / Dromaius novaehollandiae. Post 6ae64e3ecf3a3112f3c08ed3. sent 2026-10-31T20:23:28Z. Título: 2026 El nido del emú no lo cuida quien crees. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote75-20261031/ia_emu.mp4
 - facóquero / Phacochoerus africanus. Post 6ae64e45cf3a3112f3c0903c. sent 2026-10-31T20:23:35Z. 59s. Título: 2026 El facóquero come de rodillas y no es un chiste. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote75-20261031/ia_faco.mp4

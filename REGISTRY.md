@@ -497,3 +497,24 @@ buffer___list_channels y buffer___create_post devolvieron: access token could no
 - efecto Dunning-Kruger. MP4 va-dunning.mp4. 0:49. Título: Cuando menos sabes, más segura se siente la certeza #Shorts. Sin id.
 - ilusión de transparencia. MP4 va-transparencia.mp4. 0:49. Título: Sientes el nervio y crees que todos lo están viendo #Shorts. Sin id.
 - sesgo de autoservicio. MP4 va-autoservicio.mp4. 0:48. Título: Si sale bien es talento; si sale mal, es el contexto #Shorts. Sin id.
+
+## Lote 69 (2026-10-31) — 5 shorts programados en Buffer. Largos NO publicados.
+Credito de voz agotado antes de narrar los 5 videos de mas de 5 minutos (foca, oveja, 1 Reyes 19, Isaias 53, congelacion). No hay id de esos largos. No repetir los shorts de este lote.
+
+### Animales
+- conejo / lagomorfo. No es roedor. Post 6ae5a71b1891472093c07051. IA AL ALCANCE. scheduled. 62s. Titulo: 2026 Ese conejo no es un roedor. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote69-20261031/conejo.mp4
+- mariquita / Coccinellidae. Hemolinfa amarga. Post 6ae5a721ceb491e585e642be. IA AL ALCANCE. scheduled. 66s. Titulo: 2026 El amarillo de la mariquita es un aviso. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote69-20261031/mariquita.mp4
+- gaviota / Laridae. Glandula de sal. Post 6ae5a726b84259308bc6eb1d. IA AL ALCANCE. scheduled. 65s. Titulo: 2026 La gaviota que bebe agua de mar. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote69-20261031/gaviota.mp4
+
+### Refugio
+- Eclesiastes 3:1 y 3:11 RV1909. Post 6ae5a72b1891472093c07800. Refugio en la Palabra. scheduled. 65s. Titulo: 2026 Hay sazon: Eclesiastes 3. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote69-20261031/ecles.mp4
+
+### VALERIA
+- reactancia / Brehm 1966. Post 6ae5a731eaa24d6f9a638522. valeria. scheduled. 71s. Titulo: 2026 El no que te lo hace desear mas. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote69-20261031/react.mp4
+
+### Reservados sin publicar (no repetir el guion; no hay post)
+- foca verdadera (no lobo marino). Narracion incompleta.
+- oveja domestica. Sin voz completa.
+- 1 Reyes 19 silbo. Sin voz.
+- Isaias 53 RV1909. Sin voz.
+- congelacion / inmovilidad, no es terapia. Sin voz.

@@ -548,3 +548,44 @@ buffer___create_post devolvió: The access token could not be validated. [WKE=un
 - Salmo 98: el metraje de Commons salió de contaminación y de Marte, no del mar. Descartado.
 
 Instagram no está en list_channels de My organization (6ab1dd0b88b55d24ffd171d7). Canales: IA AL ALCANCE, Refugio en la Palabra, valeria. No se inventó id. No se publicó cuerpo humano en VALERIA.
+
+
+## Lote 72 (2026-10-31) — shorts nuevos, URLs en release lote72-20261031
+Base: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote72-20261031/
+No repetir estos animales, versículos ni temas. Salmo 100 NO se volvió a publicar (ya estaba en lote 71).
+
+### IA AL ALCANCE
+- quokka / Setonix brachyurus. 66s. Título: 2026 Esa sonrisa de quokka no es felicidad.
+- pudú del sur / Pudu puda. 64s. Título: 2026 El ciervo que te llega a la rodilla.
+- morsa / Odobenus rosmarus. 61s. Título: 2026 Ese colmillo de morsa no es decoración.
+- nictibio / Nyctibius. 56s. Título: 2026 Esa rama acaba de parpadear.
+- pinzón vampiro / Geospiza septentrionalis. No es murciélago. 61s. Título: 2026 Este pinzón no come semilla: pica sangre.
+- fénec / Vulpes zerda. 59s. Título: 2026 Esas orejas de fénec no son un adorno.
+- camarón mantis / Odontodactylus. No es mantis insecto. 56s. Título: 2026 El camarón que golpea más rápido que un parpadeo.
+- nautilo / Nautilus. 56s. Título: 2026 Esta concha no es un caracol: tiene cámaras.
+- Glaucus atlanticus / dragón azul. No es dragón de mar foliado. 55s. Título: 2026 Este azul del mar roba el veneno y lo guarda.
+- kagú / Rhynochetos jubatus. 56s. Título: 2026 Este ave casi no vuela y ladra en el bosque.
+
+### Refugio (paráfrasis dominio público, no Salmo 100)
+- Hageo 2. 75s.
+- Jonás 2. 69s.
+- Rut 1. 68s.
+- Ester 4. 67s.
+- 1 Samuel 16. 68s.
+- 2 Reyes 6. 66s.
+- Salmo 131. 66s.
+- Miqueas 7. 68s.
+- Ezequiel 36. 72s.
+- 2 Crónicas 20. 71s.
+
+### VALERIA
+- aversión a la pérdida (Kahneman/Tversky). No es guía para manipular.
+- efecto de dotación.
+- sesgo de retrospectiva (Fischhoff).
+- ilusión de control (Langer).
+- efecto de encuadre.
+- salvia cocina, no es tratamiento.
+- valeriana, no es pastilla ni dosis.
+- boldo, no limpia el hígado.
+- eucalipto, no se bebe el aceite.
+- regaliz / glicirricina, no es caramelo sin límite.

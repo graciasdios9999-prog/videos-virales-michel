@@ -3,6 +3,8 @@
 No repetir estos animales, versiculos ni temas de cuerpo.
 
 ## Animales ya usados
+- cangrejo ermitaño / Paguroidea / Pagurus / Coenobita / Dardanus
+- beluga / Delphinapterus leucas
 - ajolote / axolotl
 - ornitorrinco
 - capibara
@@ -46,6 +48,7 @@ No repetir estos animales, versiculos ni temas de cuerpo.
 - pangolin / Manis (lote 50, 2026-10-29)
 
 ## Refugio ya usado
+- Isaías 49:14-16 RVR1960
 - Mateo 11:28
 - Josue 1:9
 - 2 Corintios 12:9
@@ -423,3 +426,16 @@ buffer___list_channels y buffer___create_post devolvieron: access token could no
 - anclaje del primer número. Horizontal. No es guía de estafa.. 1:42. Título: 2026 El primer número no es la verdad. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/largo-anclaje.mp4
 - efecto halo. 0:49. Título: 2026 La primera impresión te miente bonito. Sin id. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote63-20261030/va-halo.mp4
 
+## Lote 66 (2026-10-30) — MP4 en main/lote66
+Buffer: pendiente de id. Instagram no está conectado. No repetir.
+
+### Animales IA AL ALCANCE
+- cangrejo ermitaño / Paguroidea. Concha prestada, abdomen blando, cadena de vacantes. 1:35. Título: 2026 Esa concha nunca fue suya. https://raw.githubusercontent.com/graciasdios9999-prog/videos-virales-michel/main/lote66/ia-ermita.mp4
+- beluga / Delphinapterus leucas. Melón, sin aleta dorsal, cervicales libres. No es sonrisa. 1:04. Título: 2026 Esa frente blanca no te sonríe. https://raw.githubusercontent.com/graciasdios9999-prog/videos-virales-michel/main/lote66/ia-beluga.mp4
+
+### Refugio en la Palabra
+- Isaías 49:14-16 RVR1960. 2:56. Título: 2026 Aunque ella te olvide. https://raw.githubusercontent.com/graciasdios9999-prog/videos-virales-michel/main/lote66/refugio-isaias49.mp4
+
+### VALERIA
+- efecto Forer / Barnum 1948. Advertencia, no tutorial de engaño. 0:41. Título: 2026 El test que describe a todos. https://raw.githubusercontent.com/graciasdios9999-prog/videos-virales-michel/main/lote66/va-forer.mp4
+- piloerección / músculos erectores del pelo. No es diagnóstico. 0:38. Título: 2026 Se te erizó la piel sin frío. https://raw.githubusercontent.com/graciasdios9999-prog/videos-virales-michel/main/lote66/va-piel.mp4

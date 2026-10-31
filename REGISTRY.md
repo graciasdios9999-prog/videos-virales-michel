@@ -703,3 +703,17 @@ buffer___get_account, buffer___create_post y search_connected_tools devolvieron:
 
 ### No publicado aquí
 - orangután de Borneo / Pongo pygmaeus. MP4 local no subido: lote76 ya trae ia_orangutan.mp4.
+
+## Lote 76 (2026-10-31) — 3:00 verticales
+### Animales publicados en Buffer (shareNow, sent)
+- manatí antillano / Trichechus manatus. Post 6ae65cdd37c1acd2a0cfbb48. IA AL ALCANCE. 3:00. Título: 2026 El gigante que reemplaza sus dientes para siempre. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_manati.mp4
+- leopardo de las nieves / onza / Panthera uncia. Post 6ae65d8f1ee172cd6dc3c628. 3:00. Título: 2026 El gran gato que no puede rugir. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_onza.mp4
+- chinchilla de cola larga / Chinchilla lanigera. Post 6ae65e7337c1acd2a0d03b3b. 3:00. Título: 2026 El roedor que teme más al agua que al frío. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_chinchilla.mp4
+- órice / gemsbok / Oryx gazella. Post 6ae65f78ab019b908726ded0. 3:00. Título: 2026 El antílope que deja subir su propia fiebre. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_oryx.mp4
+### MP4 en release, Buffer sin id (access token could not be validated)
+- orangután de Borneo / Pongo pygmaeus. 3:00. Título: 2026 La cama que no se usa dos veces. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_orangutan.mp4
+- zorro rojo / Vulpes vulpes. 3:00. Título: 2026 El salto que escucha debajo del pasto. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_zorro.mp4
+### Refugio MP4 en release, Buffer sin id (mismo fallo de token)
+- Éxodo 3 zarza RV1909. 3:00. Título: 2026 La zarza ardía y no se acababa. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/fe_zarza.mp4
+- Lucas 2 pastores de noche RV1909. 3:00. Título: 2026 La noticia no llegó al palacio. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/fe_pastores.mp4
+Instagram: no hay canal con ese nombre en la organización. No se publicó cuerpo humano.

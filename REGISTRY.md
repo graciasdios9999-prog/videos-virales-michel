@@ -605,3 +605,44 @@ buffer___create_post y buffer___get_account devolvieron: The access token could 
 
 ### VALERIA
 - regla del pico y el final (Kahneman y Fredrickson). No es guía para manipular. 35s. Título: 2026 El cierre te reescribe el día. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote73-20261031/pico.mp4
+
+
+## Lote 74 (2026-10-31) — MP4 en release, SIN id de Buffer
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote74-20261031
+buffer___create_post y buffer___get_account devolvieron: access token could not be validated (WKE=unauthenticated:bad-credentials). Reintento hecho. No es 429. No hay Retry-After. No hay id de post. No repetir estos temas. Instagram no está en list_channels.
+
+### Animales IA AL ALCANCE
+- rinoceronte negro / Diceros bicornis. 71s. Título: 2026 Ese cuerno no es hueso. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/ia_rino.mp4
+- koala / Phascolarctos cinereus. 58s. Título: 2026 Ese oso no es un oso. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/ia_koala.mp4
+- tapir amazónico / Tapirus terrestris. 53s. Título: 2026 La trompa que no es elefante. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/ia_tapir.mp4
+- tucán toco / Ramphastos toco. 54s. Título: 2026 El pico que está vacío. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/ia_tucan.mp4
+- rana dorada venenosa / Phyllobates terribilis. 49s. Título: 2026 El veneno que no nace con ella. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/ia_rana.mp4
+- lagarto de cuello / Chlamydosaurus kingii. 58s. Título: 2026 Esa capa no es para volar. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/ia_cuello.mp4
+- zorro volador / Pteropus. 59s. Título: 2026 Ese murciélago no quiere sangre. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/ia_zorro.mp4
+- ñu azul / Connochaetes taurinus. 54s. Título: 2026 El río no es un baile. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/ia_nu.mp4
+- caracal / Caracal caracal. 53s. Título: 2026 Ese gato no es un lince. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/ia_caracal.mp4
+- halcón peregrino / Falco peregrinus. 53s. Título: 2026 No se cae: está cazando. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/ia_halcon.mp4
+
+### Refugio
+- Génesis 50:20 RV1909. 87s. Título: 2026 Lo torcieron y no fue el final. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/fe_jose.mp4
+- Daniel 3 RV1909. 85s. Título: 2026 En el fuego había un cuarto. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/fe_horno.mp4
+- 1 Reyes 17 RV1909. 90s. Título: 2026 La tinaja no obedeció al hambre. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/fe_tinaja.mp4
+- Juan 4 RV1909. 91s. Título: 2026 El pozo no era la sed. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/fe_pozo.mp4
+- Hechos 16 RV1909. 90s. Título: 2026 A medianoche cantaron presos. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/fe_carcel.mp4
+- Salmo 8 RV1909. 90s. Título: 2026 Qué es el hombre bajo esa luna. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/fe_luna.mp4
+- Isaías 9:6 RV1909. 85s. Título: 2026 Un niño y un nombre que pesa. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/fe_nino.mp4
+- Santiago 4:8 RV1909. 84s. Título: 2026 Acércate: la frase tiene vuelta. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/fe_cerca.mp4
+- Efesios 3:20 RV1909. 87s. Título: 2026 Pediste poco y hay más. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/fe_mas.mp4
+- Apocalipsis 3:20 RV1909. 83s. Título: 2026 Esa puerta no se abre sola. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/fe_puerta.mp4
+
+### VALERIA
+- falso consenso. 63s. Título: 2026 Crees que todos piensan igual. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_consenso.mp4
+- sesgo de negatividad. 64s. Título: 2026 Un golpe pesa más que cinco luces. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_neg.mp4
+- triángulo de Karpman. 64s. Título: 2026 Los tres papeles se rotan. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_karpman.mp4
+- vínculo traumático. 62s. Título: 2026 El alivio no prueba el cariño. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_vinculo.mp4
+- efecto contraste. 59s. Título: 2026 La segunda opción te está mintiendo. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_contraste.mp4
+- melisa / Melissa officinalis. 62s. Título: 2026 Huele a limón y no es médico. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_melisa.mp4
+- diente de león / Taraxacum. 58s. Título: 2026 Esa flor del parque no limpia nada. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_diente.mp4
+- caléndula / Calendula officinalis. 58s. Título: 2026 El naranja no es una cura. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_calendula.mp4
+- pasiflora / Passiflora incarnata. 59s. Título: 2026 La flor reloj no es una pastilla. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_pasi.mp4
+- eneldo / Anethum graveolens. 58s. Título: 2026 Está en tu cocina y no es consulta. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_eneldo.mp4

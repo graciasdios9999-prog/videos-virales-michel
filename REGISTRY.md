@@ -518,3 +518,14 @@ Credito de voz agotado antes de narrar los 5 videos de mas de 5 minutos (foca, o
 - 1 Reyes 19 silbo. Sin voz.
 - Isaias 53 RV1909. Sin voz.
 - congelacion / inmovilidad, no es terapia. Sin voz.
+
+
+## lote 70 — 2026-10-31 (renderizado, NO publicado en Buffer)
+Buffer create_post devolvió: The access token could not be validated. [WKE=unauthenticated:bad-credentials]. Sin post id. No simular.
+- foca verdadera (elefante marino en playa, foca en agua) — 341.93s — foca_largo.mp4
+- oveja doméstica — 392.57s — oveja.mp4
+- 1 Reyes 19 RV1909 (silbo) — 347.57s — reyes.mp4
+- Isaías 53 RV1909 — 381.50s — isaias.mp4
+- congelación / inmovilidad tónica, no es guía para manipular — 359.90s — freeze.mp4
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote70-20261031/
+No repetir animal, versículo ni guion de este lote.

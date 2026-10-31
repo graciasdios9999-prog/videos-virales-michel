@@ -589,3 +589,19 @@ No repetir estos animales, versículos ni temas. Salmo 100 NO se volvió a publi
 - boldo, no limpia el hígado.
 - eucalipto, no se bebe el aceite.
 - regaliz / glicirricina, no es caramelo sin límite.
+
+
+## Lote 73 (2026-10-31) — MP4 en release, Buffer SIN id
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote73-20261031/
+buffer___create_post y buffer___get_account devolvieron: The access token could not be validated. [WKE=unauthenticated:bad-credentials]. Reintento hecho. No es 429. No hay Retry-After. No hay id de post. No repetir estos temas. Instagram no está en list_channels.
+
+### IA AL ALCANCE
+- grulla común / Grus grus. 81s. Título: 2026 Ese rojo no es una pluma. QC 95. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote73-20261031/grulla.mp4
+- puercoespín norteamericano / Erethizon dorsatum. No es erizo ni Hystrix. 68s. Título: 2026 No te lanzó las púas. QC 97. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote73-20261031/puerco.mp4
+
+### Refugio en la Palabra
+- Daniel 3:17-18 RV1909. 77s. Título: 2026 Y si no: Daniel 3. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote73-20261031/daniel.mp4
+- Génesis 50:20 RV1909. 81s. Título: 2026 El mal no firmó el final. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote73-20261031/genesis.mp4
+
+### VALERIA
+- regla del pico y el final (Kahneman y Fredrickson). No es guía para manipular. 35s. Título: 2026 El cierre te reescribe el día. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote73-20261031/pico.mp4

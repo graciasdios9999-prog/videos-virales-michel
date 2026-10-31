@@ -529,3 +529,22 @@ Buffer create_post devolvió: The access token could not be validated. [WKE=unau
 - congelación / inmovilidad tónica, no es guía para manipular — 359.90s — freeze.mp4
 Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote70-20261031/
 No repetir animal, versículo ni guion de este lote.
+
+
+## Lote 71 (2026-10-31)
+### Publicados en Buffer (shareNow, sent) — no repetir
+- caballo / Equus caballus. Post 6ae5d1d31891472093ccf6e8. IA AL ALCANCE. sent. 3:00. Título: 2026 Duerme de pie y no es pereza. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote71-20261031/caballo.mp4
+- vaca / Bos taurus. Un estómago, cuatro cámaras. Post 6ae5d3321891472093cd4493. IA AL ALCANCE. sent. 3:00. Título: 2026 La vaca no tiene cuatro estómagos. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote71-20261031/vaca.mp4
+
+### MP4 de 3:00 en el release, SIN id de Buffer
+buffer___create_post devolvió: The access token could not be validated. [WKE=unauthenticated:bad-credentials]. Reintento hecho. No es 429. No hay Retry-After. No hay id de post. No repetir el tema.
+- garza real / Ardea cinerea. 3:00. Título: 2026 Si el cuello va doblado no es cigüeña. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote71-20261031/garza.mp4
+- Salmo 100 RV1909. 3:00. Título: 2026 Entra por sus puertas con grito. Voz Jorge. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote71-20261031/salmo100.mp4
+
+### Descartados, sin MP4 final
+- gallina: narración corta (atempo bajo 0.90) y metraje de granja industrial mezclado. No publicar ese corte.
+- ánade real: narración corta. Sin MP4.
+- jabalí: guion corto. Sin MP4.
+- Salmo 98: el metraje de Commons salió de contaminación y de Marte, no del mar. Descartado.
+
+Instagram no está en list_channels de My organization (6ab1dd0b88b55d24ffd171d7). Canales: IA AL ALCANCE, Refugio en la Palabra, valeria. No se inventó id. No se publicó cuerpo humano en VALERIA.

@@ -646,3 +646,18 @@ buffer___create_post y buffer___get_account devolvieron: access token could not 
 - caléndula / Calendula officinalis. 58s. Título: 2026 El naranja no es una cura. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_calendula.mp4
 - pasiflora / Passiflora incarnata. 59s. Título: 2026 La flor reloj no es una pastilla. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_pasi.mp4
 - eneldo / Anethum graveolens. 58s. Título: 2026 Está en tu cocina y no es consulta. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_eneldo.mp4
+
+
+## Lote 75 (2026-10-31) — 10 shorts programados en Buffer (customScheduled, cada hora)
+Los MP4 de más de 3 minutos y horizontales (lote70: foca, oveja, reyes, isaias, freeze) fueron rechazados por Buffer: YouTube Shorts exige vertical y máximo 3 minutos. No hay id de esos largos. No repetir estos 10 temas.
+
+- rinoceronte negro / Diceros bicornis. Post 6ae62ebe21c807e9d57a453d. IA AL ALCANCE. scheduled 2026-11-01T03:30:00Z. 71s. Título: 2026 Ese cuerno no es hueso. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/ia_rino.mp4
+- koala / Phascolarctos cinereus. Post 6ae62ede21c807e9d57a501e. IA AL ALCANCE. scheduled 2026-11-01T06:30:00Z. 58s. Título: 2026 Ese oso no es un oso. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/ia_koala.mp4
+- tapir amazónico / Tapirus terrestris. Post 6ae62ef5cf3a3112f3b80706. IA AL ALCANCE. scheduled 2026-11-01T07:30:00Z. 53s. Título: 2026 La trompa que no es elefante. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/ia_tapir.mp4
+- zorro volador / Pteropus. Post 6ae62f0c37c1acd2a0c2da47. IA AL ALCANCE. scheduled 2026-11-01T10:30:00Z. 59s. Título: 2026 Ese murciélago no quiere sangre. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/ia_zorro.mp4
+- 1 Reyes 17 RV1909. Post 6ae62ec8cf3a3112f3b7fcba. Refugio en la Palabra. scheduled 2026-11-01T04:30:00Z. 90s. Título: 2026 La tinaja no obedeció al hambre. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/fe_tinaja.mp4
+- Juan 4 RV1909. Post 6ae62efb37c1acd2a0c2d5c5. Refugio en la Palabra. scheduled 2026-11-01T08:30:00Z. 91s. Título: 2026 El pozo no era la sed. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/fe_pozo.mp4
+- Hechos 16 RV1909. Post 6ae62f121ee172cd6db709f6. Refugio en la Palabra. scheduled 2026-11-01T11:30:00Z. 90s. Título: 2026 A medianoche cantaron presos. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/fe_carcel.mp4
+- triángulo de Karpman. Post 6ae62eceab019b90871971bf. valeria. scheduled 2026-11-01T05:30:00Z. 64s. Título: 2026 Los tres papeles se rotan. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_karpman.mp4
+- vínculo traumático. Post 6ae62f0221c807e9d57a6221. valeria. scheduled 2026-11-01T09:30:00Z. 62s. Título: 2026 El alivio no prueba el cariño. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_vinculo.mp4
+- falso consenso. Post 6ae62f1937c1acd2a0c2ddb5. valeria. scheduled 2026-11-01T12:30:00Z. 63s. Título: 2026 Crees que todos piensan igual. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote74-20261031/va_consenso.mp4

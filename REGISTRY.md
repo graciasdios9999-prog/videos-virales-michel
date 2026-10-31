@@ -685,3 +685,21 @@ VALERIA (6ae3d9782f1f5ed648175da4) category 22. shareNow falló: canal sin autor
 - Zeigarnik 1927. Post 6ae64f15cf3a3112f3c0d668. status scheduled. dueAt 2026-11-01T22:00:00Z (16:00 America/Chicago). error residual: lost authorization. Título: 2026 Lo que no cierras te sigue de noche. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote75-20261031/va_abierta.mp4
 - dicotomía del control, Epicteto. Post 6ae64f1a21c807e9d583556b. status error. NO programado: límite 10/10 de posts scheduled. error: lost authorization. Título: 2026 No todo lo que duele está en tus manos. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote75-20261031/va_control.mp4
 - pratfall, Aronson 1966. Post 6ae64f21f0984eef332cbcfa. status scheduled. dueAt 2026-11-02T00:00:00Z (18:00 America/Chicago del 1 nov). error residual: lost authorization. Título: 2026 La grieta no siempre te aleja. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote75-20261031/va_grieta.mp4
+
+
+## Lote 77 (2026-10-31) — MP4 en release, Buffer SIN id
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote77-20261031
+buffer___get_account, buffer___create_post y search_connected_tools devolvieron: access token could not be validated (WKE=unauthenticated:bad-credentials). Reintento hecho. No es 429. No hay id de post. Drive tampoco: el mismo token. No repetir estos temas. Orangután no se sube en este lote: el release lote76-20261031 ya tiene ia_orangutan.mp4.
+
+### Animales
+- coatí de nariz blanca / Nasua narica y coatí sudamericano / Nasua nasua. 61s. Título: 2026 Baja de cabeza y no es un mapache. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote77-20261031/ia_coati.mp4
+- salamandra común / Salamandra salamandra. 66s. Título: 2026 Ese amarillo no es belleza. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote77-20261031/ia_salamandra.mp4
+
+### Refugio
+- Marcos 5:25-34 RVR1960. 91s. Título: 2026 Doce años y solo tocó el borde. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote77-20261031/fe_marcos5.mp4
+
+### VALERIA
+- conformidad de Asch, 1951. 36s. Título: 2026 Todos señalan la línea corta. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote77-20261031/va_asch.mp4
+
+### No publicado aquí
+- orangután de Borneo / Pongo pygmaeus. MP4 local no subido: lote76 ya trae ia_orangutan.mp4.

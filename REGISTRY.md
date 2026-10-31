@@ -687,33 +687,11 @@ VALERIA (6ae3d9782f1f5ed648175da4) category 22. shareNow falló: canal sin autor
 - pratfall, Aronson 1966. Post 6ae64f21f0984eef332cbcfa. status scheduled. dueAt 2026-11-02T00:00:00Z (18:00 America/Chicago del 1 nov). error residual: lost authorization. Título: 2026 La grieta no siempre te aleja. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote75-20261031/va_grieta.mp4
 
 
-## Lote 77 (2026-10-31) — MP4 en release, Buffer SIN id
-Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote77-20261031
-buffer___get_account, buffer___create_post y search_connected_tools devolvieron: access token could not be validated (WKE=unauthenticated:bad-credentials). Reintento hecho. No es 429. No hay id de post. Drive tampoco: el mismo token. No repetir estos temas. Orangután no se sube en este lote: el release lote76-20261031 ya tiene ia_orangutan.mp4.
-
-### Animales
-- coatí de nariz blanca / Nasua narica y coatí sudamericano / Nasua nasua. 61s. Título: 2026 Baja de cabeza y no es un mapache. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote77-20261031/ia_coati.mp4
-- salamandra común / Salamandra salamandra. 66s. Título: 2026 Ese amarillo no es belleza. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote77-20261031/ia_salamandra.mp4
-
-### Refugio
-- Marcos 5:25-34 RVR1960. 91s. Título: 2026 Doce años y solo tocó el borde. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote77-20261031/fe_marcos5.mp4
-
-### VALERIA
-- conformidad de Asch, 1951. 36s. Título: 2026 Todos señalan la línea corta. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote77-20261031/va_asch.mp4
-
-### No publicado aquí
-- orangután de Borneo / Pongo pygmaeus. MP4 local no subido: lote76 ya trae ia_orangutan.mp4.
-
-## Lote 76 (2026-10-31) — 3:00 verticales
-### Animales publicados en Buffer (shareNow, sent)
-- manatí antillano / Trichechus manatus. Post 6ae65cdd37c1acd2a0cfbb48. IA AL ALCANCE. 3:00. Título: 2026 El gigante que reemplaza sus dientes para siempre. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_manati.mp4
-- leopardo de las nieves / onza / Panthera uncia. Post 6ae65d8f1ee172cd6dc3c628. 3:00. Título: 2026 El gran gato que no puede rugir. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_onza.mp4
-- chinchilla de cola larga / Chinchilla lanigera. Post 6ae65e7337c1acd2a0d03b3b. 3:00. Título: 2026 El roedor que teme más al agua que al frío. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_chinchilla.mp4
-- órice / gemsbok / Oryx gazella. Post 6ae65f78ab019b908726ded0. 3:00. Título: 2026 El antílope que deja subir su propia fiebre. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_oryx.mp4
-### MP4 en release, Buffer sin id (access token could not be validated)
-- orangután de Borneo / Pongo pygmaeus. 3:00. Título: 2026 La cama que no se usa dos veces. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_orangutan.mp4
-- zorro rojo / Vulpes vulpes. 3:00. Título: 2026 El salto que escucha debajo del pasto. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_zorro.mp4
-### Refugio MP4 en release, Buffer sin id (mismo fallo de token)
-- Éxodo 3 zarza RV1909. 3:00. Título: 2026 La zarza ardía y no se acababa. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/fe_zarza.mp4
-- Lucas 2 pastores de noche RV1909. 3:00. Título: 2026 La noticia no llegó al palacio. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/fe_pastores.mp4
-Instagram: no hay canal con ese nombre en la organización. No se publicó cuerpo humano.
+## Lote 76 (2026-10-31) — MP4 en release lote76-20261031, SIN id de Buffer
+create_post devolvió: access token could not be validated (WKE=unauthenticated:bad-credentials). No hay id de post. No decir que están publicados. No repetir el tema.
+### Animales con MP4 listo
+- pingüino emperador / Aptenodytes forsteri. 75s. Título: 2026 El padre no come y el huevo no toca el hielo. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_emperador.mp4
+- águila calva / Haliaeetus leucocephalus. 79s. Título: 2026 Un insecticida casi apagó al símbolo. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_aguila_calva.mp4
+- chimpancé / Pan troglodytes. 84s. Título: 2026 Cazan en grupo y no es un accidente. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_chimpance.mp4
+### Intentados sin MP4 usable (Commons 429 o metraje insuficiente). No darlos por publicados. Se pueden reintentar si no quedaron en un corto:
+- ballena azul: el webm usable pesa 68MB y Commons respondió 429. No repetir el guion si se llega a publicar; si no hay MP4, se puede rehacer.

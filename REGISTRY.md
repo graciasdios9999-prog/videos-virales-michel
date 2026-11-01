@@ -812,3 +812,25 @@ Buffer: FALLO. search_connected_tools y buffer___get_account devolvieron: The ac
 
 ### Descartado, no marcar como publicado
 - muflón, Ovis orientalis musimon. Render local 304.63s pero NO está en el release: los clips de Haltern mezclan gamo (Dama dama) con muflón. Se puede reintentar la especie solo con metraje limpio. No usar el mp4 ia_muflon.mp4.
+
+
+## Lote 91 (2026-11-01) — RENDERIZADO Y EN RELEASE. NO PUBLICADO EN BUFFER.
+Buffer: FALLO. search_connected_tools, buffer___list_channels, buffer___get_account devolvieron: The access token could not be validated. [WKE=unauthenticated:bad-credentials]. No es 429. No hay Retry-After. No hay id de create_post. No decir publicados. No se pudo leer la cola scheduled/draft (mismo error), así que no se borró ningún post. No hay contenido de Cuba en este lote. Instagram/TikTok no conectados. VALERIA sigue desconectado según el intento anterior; este turno ni siquiera llegó a create_post. Release: lote91-20261101. El próximo intento debe publicar ESTOS mp4, no rehacer el guion. Panda rojo re-render 60.20s (antes 59.06) con la frase extra "No es un mapache." Asset reemplazado en el mismo release.
+### IA AL ALCANCE category 15. Voz es-MX-JorgeNeural. 9:16.
+- Acinonyx jubatus 67.08s. Título: 2026 El guepardo no ruge: acelera y se apaga #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/ia_guepardo.mp4
+- Orcinus orca 63.67s. Título: 2026 La orca es un delfín enorme, no una ballena #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/ia_orca.mp4
+- Ailurus fulgens 60.20s. Título: 2026 El panda rojo no es un oso ni un panda #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/ia_panda.mp4
+- Mycteria leucocephala 65.81s. Título: 2026 Esa cigüeña no trae bebés: caza a ciegas #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/ia_pintada.mp4
+- Anisoptera 67.92s. Título: 2026 La libélula no guarda las alas ni tiene aguijón #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/ia_libelula.mp4
+### Refugio en la Palabra category 27. Voz es-US-AlonsoNeural (sin créditos Orion). RVR1960. Stripe solo aquí.
+- 62.69s. Título: 2026 Salmo 18: una roca que no se renta #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/fe_roca.mp4
+- 56.21s. Título: 2026 Números 6: la paz que se pide de frente #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/fe_paz.mp4
+- 56.11s. Título: 2026 Efesios 2: la gracia no se cobra por obras #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/fe_gracia.mp4
+- 51.31s. Título: 2026 Romanos 12: no te amoldes, renueva la mente #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/fe_mente.mp4
+- 51.24s. Título: 2026 Isaías 55: sus caminos van más alto #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/fe_cielo.mp4
+### VALERIA category 22. Voz es-MX-DaliaNeural. 30–45s. NO publicados.
+- 38.16s. Título: 2026 El primer número te fija el juicio #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/va_ancla.mp4
+- 37.73s. Título: 2026 Cambias el recuerdo para no soltar el acto #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/va_disonancia.mp4
+- 36.26s. Título: 2026 Saber poco también infla la seguridad #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/va_dunning.mp4
+- 34.75s. Título: 2026 Solo guardas lo que ya querías creer #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/va_confirma.mp4
+- 39.62s. Título: 2026 Crees que tu nervio se ve, y casi no #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/va_vidrio.mp4

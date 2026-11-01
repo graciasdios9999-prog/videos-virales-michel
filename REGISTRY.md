@@ -46,6 +46,11 @@ No repetir estos animales, versiculos ni temas de cuerpo.
 - martin pescador
 - okapi (lote 43, 2026-10-29)
 - pangolin / Manis (lote 50, 2026-10-29)
+- wapití / Cervus canadensis (lote 85, 2026-11-01)
+- lechuza común / Tyto alba (lote 85, 2026-11-01)
+- pez león / Pterois volitans (lote 85, 2026-11-01)
+- guanaco / Lama guanicoe (lote 85, 2026-11-01)
+- buitre leonado / Gyps fulvus (lote 85, 2026-11-01)
 
 ## Refugio ya usado
 - Isaías 49:14-16 RVR1960
@@ -65,6 +70,11 @@ No repetir estos animales, versiculos ni temas de cuerpo.
 - Isaias 43
 - Isaias 40:28-31 (lote 43, 2026-10-29)
 - Isaias 41:10 no temas yo estoy contigo (lote 50, 2026-10-29)
+- Salmo 104:1-2 RVR1960 (lote 85)
+- Salmo 136:1 RVR1960 (lote 85)
+- Salmo 150:6 RVR1960 (lote 85)
+- Juan 1:5 RVR1960 (lote 85)
+- Lucas 1:37 RVR1960 (lote 85)
 
 ## Instagram cuerpo ya usado
 - suspiro fisiologico
@@ -745,3 +755,39 @@ buffer___create_post (probado una vez con ia_orangutan) y search_connected_tools
 - coatí, babuino, impala, mandril, ñandú, tiburón ballena.
 
 Instagram no está en list_channels. No se inventó id. VALERIA: el token de Buffer cayó antes de crear posts de este lote.
+
+
+## Lote 85 (2026-11-01) — 10 shorts shareNow sent en Buffer. VALERIA no publicado. No repetir temas.
+
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote85-20261101
+Voz IA y Refugio: es-MX-JorgeNeural. VALERIA: es-MX-DaliaNeural. Cortes ~2s. Subtítulos centrados. B-roll video Wikimedia Commons, sin repetir rangos.
+
+### IA AL ALCANCE (6abb15f5ea19ca0bde1c22f5) category 15. status sent, sharedNow.
+- wapití / Cervus canadensis. No es alce. Post 6ae72405cf3a3112f3f4570c. sent. 68.81s. Título: 2026 Ese bramido no es un alce #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/ia_wapiti.mp4
+- lechuza común / Tyto alba. No es búho cornudo. Post 6ae7241837c1acd2a0ffb246. sent. 64.22s. Título: 2026 Esta lechuza caza sin ver al ratón #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/ia_lechuza.mp4
+- pez león / Pterois volitans. Post 6ae7241e21c807e9d5b68fbb. sent. 65.59s. Título: 2026 El pez león no ataca: espera #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/ia_pezleon.mp4
+- guanaco / Lama guanicoe. No es llama. Post 6ae72437f0984eef33610bbd. sent. 65.78s. Título: 2026 Ese guanaco no es una llama suelta #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/ia_guanaco.mp4
+- buitre leonado / Gyps fulvus. Post 6ae7243d1ee172cd6df3d777. sent. 61.97s. Título: 2026 El buitre leonado no espera a que todo huela mal #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/ia_buitre.mp4
+
+### Refugio en la Palabra (6ab1ecc9ea19ca0bdeaf3f13) category 27. RVR1960. Stripe en descripción. status sent.
+- Salmo 104:1-2. Post 6ae724431ee172cd6df3d843. sent. 66.98s. Título: 2026 El salmo empieza con un manto de luz #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/fe_104.mp4
+- Salmo 136:1. Post 6ae7244a21c807e9d5b699ff. sent. 55.44s. Título: 2026 Hay un estribillo que no se cansa #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/fe_136.mp4
+- Salmo 150:6. Post 6ae72460cf3a3112f3f469db. sent. 60.60s. Título: 2026 Si todavía respiras, el salmo te incluyó #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/fe_150.mp4
+- Juan 1:5. Post 6ae72467cf3a3112f3f46ad2. sent. 58.01s. Título: 2026 La oscuridad no tuvo la última palabra #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/fe_juan15.mp4
+- Lucas 1:37. Post 6ae7246dcf3a3112f3f46eda. sent. 62.06s. Título: 2026 Una frase corta y un límite que se cae #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/fe_lucas.mp4
+
+### VALERIA (6ae3d9782f1f5ed648175da4) category 22. MP4 en el release. NO publicados.
+shareNow de va_rubor devolvió status error, id 6ae72473ab019b90875778fe, mensaje "An unknown error has occurred". sentAt null. No contar como publicado. Los otros cuatro no se enviaron: al reintentar, search_connected_tools y buffer___get_account devolvieron access token could not be validated (WKE=unauthenticated:bad-credentials). No es 429. No hay id sent/scheduled de estos cinco.
+- rubor, Darwin. 57.23s. Título: 2026 El rubor no es una confesión firmada #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/va_rubor.mp4
+- indefensión aprendida, Seligman. 64.46s. Título: 2026 Cuando dejas de intentar aunque ya hay puerta #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/va_jaula.mp4
+- amor fati, Epicteto (pasado cerrado, no dicotomía ya usada). 62.21s. Título: 2026 Amar el hecho no es quedarte en el daño #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/va_fati.mp4
+- profecía autocumplida / Pigmalión, Rosenthal. 57.48s. Título: 2026 Te tratan como si ya hubieras fallado #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/va_etiqueta.mp4
+- microexpresiones, Ekman, como desmentido no como detector de mentiras. 59.62s. Título: 2026 Un tic en la boca no es una confesión #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote85-20261101/va_tic.mp4
+
+### Largos de más de 5 minutos
+No publicados. No hay un banco de un solo animal con 300s de metraje único sin repetir clips. El archivo File:Huge waves-VarnaPort-Bulgaria.webm (331s, faith_sea) quedó reservado y el guion de Salmo 95 está en jobs/fe_largo95_script.txt, sin voz ni render. No se inventan 5 largos por canal.
+
+### Descartados, no usar como la especie del título
+- banco gazelle: los frames eran impala.
+- banco oryx: el frame era chacales.
+- serval: solo ~16s usables.

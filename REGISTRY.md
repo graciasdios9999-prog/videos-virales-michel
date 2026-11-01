@@ -696,34 +696,28 @@ create_post devolvió: access token could not be validated (WKE=unauthenticated:
 ### Intentados sin MP4 usable (Commons 429 o metraje insuficiente). No darlos por publicados. Se pueden reintentar si no quedaron en un corto:
 - ballena azul: el webm usable pesa 68MB y Commons respondió 429. No repetir el guion si se llega a publicar; si no hay MP4, se puede rehacer.
 
-## Lote 79 (2026-11-01) — un publicado con id; el resto MP4 en release lote79-20261031, SIN id nuevo
-buffer___get_account y buffer___list_channels del 2026-11-01 devolvieron: access token could not be validated (WKE=unauthenticated:bad-credentials). No hay id nuevo. No decir que están publicados. No repetir el tema.
 
-### IA AL ALCANCE — publicado
-- coyote / Canis latrans. Post 6ae6c1e137c1acd2a0e88208. sent 2026-11-01T04:36:53Z. 2:58. Título: 2026 Ese aullido no te está cazando. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_coyote.mp4
 
-### IA AL ALCANCE — MP4 listo, SIN id de Buffer
-- puma / Puma concolor. 2:58. Título: 2026 Un felino, cuarenta nombres, cero testigos. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_puma.mp4
-- abejaruco europeo / Merops apiaster. 2:59. Título: 2026 Desarma la abeja antes de tragarla. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_abeja.mp4
-- espátula / Platalea leucorodia. 2:59. Título: 2026 Esa cuchara no es un flamenco. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_espata.mp4
-- carpintero de cresta roja / Dryocopus pileatus. 2:59. Título: 2026 Ese martillo es la cabeza del carpintero. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_pica.mp4
-- zorro rojo / Vulpes vulpes (no es fénec ni zorro volador). 2:59. Título: 2026 El salto del zorro no es al azar. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_zorro.mp4
-- leopardo / Panthera pardus. 2:59. Título: 2026 El leopardo sube la cena al árbol. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_leopardo.mp4
-- íbice alpino / Capra ibex. 2:59. Título: 2026 El íbice sube donde la piedra dice no. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_ibice.mp4
-- guacamayo azul y amarillo / Ara ararauna. 2:59. Título: 2026 Este guacamayo baja a comer barro. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_guaca.mp4
-- orangután / Pongo. 2:59. Título: 2026 Casi no pisa el suelo y fabrica. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_orang.mp4
+## Lote 82 (2026-11-01) — MP4 en release lote82-20261101, SIN id de Buffer
+buffer___create_post (probado una vez con ia_orangutan) y search_connected_tools devolvieron: access token could not be validated (WKE=unauthenticated:bad-credentials). No es 429. No se reintentó el resto para no martillar. No hay id de post. No decir publicados. No se pudo revisar ni borrar la cola (el post de presos 6ae62f121ee172cd6db709f6 ya se había borrado en un paso anterior si Buffer lo confirmó entonces). Drive tampoco: mismo token. URLs directas .mp4.
 
-### Refugio — MP4 usable, SIN id de Buffer
-- Éxodo 3 zarza. 2:59. Título: 2026 Esa zarza arde y no se vuelve ceniza. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/fe_zarza.mp4
-- Jeremías 18 alfarero. 2:59. Título: 2026 El barro no le discute la forma al torno. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/fe_alfarero.mp4
-- Mateo 3 paloma. 2:59. Título: 2026 Bajó como paloma y el cielo no se quedó mudo. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/fe_paloma.mp4
-- Mateo 21 pollino. 2:59. Título: 2026 El rey no pidió un caballo de desfile. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/fe_burro.mp4
+### IA AL ALCANCE category 15. JorgeNeural. 60-90s.
+- orangután de Borneo / Pongo pygmaeus. 60s. Título: Ese orangután no es un chimpancé disfrazado. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/ia_orangutan.mp4
+- milú / Elaphurus davidianus. 64s. Título: El milú no es un ciervo cualquiera. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/ia_milu.mp4
+- leopardo / Panthera pardus. 62s. Título: El leopardo sube la cena al árbol. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/ia_leopardo.mp4
+- guacamayo azul y amarillo / Ara ararauna. 67s. Título: El pico del guacamayo es una prensa. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/ia_guacamayo.mp4
+- carpintero / Dryocopus. 72s. Título: El carpintero no lleva un casco escondido. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/ia_carpintero.mp4
 
-### Descartados, no publicar, se pueden rehacer con otro B-roll
-- 1 Reyes 18 Carmelo: entró un incendio de casa (Kempele). No usar ese mp4.
-- Hechos 27: el clip era cartel de texto, no el mar. No usar fe_mar.mp4.
-- Lucas 9 arado: entró un dibujo animado y una quitanieves. No usar fe_arado.mp4.
-- Lucas 24 pan, Mateo 20 viña y Mateo 18 templo: metraje libre insuficiente para 3:00. Sin mp4 usable.
+### Refugio en la Palabra category 27. AlonsoNeural (Orion sin créditos). RV1960. Stripe en la descripción.
+- Isaías 41:10. 73s. Título: No temas: su diestra te sostiene. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/fe_notemas.mp4
+- Proverbios 3:5-6. 64s. Título: No apoyes tu vida en tu prudencia. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/fe_fiate.mp4
+- Josué 1:9. 60s. Título: Esfuérzate: él va en el camino. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/fe_esfuerza.mp4
+- Isaías 40:31. 62s. Título: Quien espera en Jehová renueva fuerza. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/fe_alas.mp4
+- Romanos 8:38-39. 63s. Título: Nada creado te separa de su amor. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/fe_amor.mp4
 
-### Instagram
-- No hay canal Instagram en la cuenta. No se publicó nada de cuerpo ni de Cuba.
+### VALERIA category 22. DaliaNeural. Defensa, no manual.
+- puerta en la cara, Cialdini 1975. 60s. Título: El pedido enorme hace pequeño el segundo. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/va_cara.mp4
+- licencia moral, Monin y Miller 2001. 64s. Título: Tu buena acción no te dio un permiso. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/va_licencia.mp4
+- mundo justo, Lerner. 65s. Título: El mundo justo culpa para no temblar. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/va_justo.mp4
+- escasez, Cialdini. 60s. Título: Si se acaba hoy, el apuro decide por ti. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/va_reloj.mp4
+- reciprocidad, Cialdini. 67s. Título: El regalo que no pediste ya te cobra. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/va_deuda.mp4

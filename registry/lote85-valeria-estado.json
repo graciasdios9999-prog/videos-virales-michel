@@ -1,0 +1,17 @@
+{
+  "lote": 85,
+  "date": "2026-11-01",
+  "valeriaChannelId": "6ae3d9782f1f5ed648175da4",
+  "isDisconnected": true,
+  "published": false,
+  "http429": false,
+  "note": "IA y Refugio del lote 85 ya estaban sent. No duplicar. VALERIA no salió a YouTube. MP4 y txt en Drive carpeta 2026-11-01 VALERIA lote85 sin publicar.",
+  "posts": [
+    {"id": "va_rubor", "title": "2026 El rubor no es una confesión firmada #Shorts", "postId": "6ae72473ab019b90875778fe", "status": "error", "published": false},
+    {"id": "va_jaula", "title": "2026 Cuando dejas de intentar aunque ya hay puerta #Shorts", "postId": "6ae748bfab019b9087621a53", "status": "error", "published": false},
+    {"id": "va_fati", "title": "2026 Amar el hecho no es quedarte en el daño #Shorts", "postId": null, "status": "drive-manual", "published": false},
+    {"id": "va_etiqueta", "title": "2026 Te tratan como si ya hubieras fallado #Shorts", "postId": null, "status": "drive-manual", "published": false},
+    {"id": "va_tic", "title": "2026 Un tic en la boca no es una confesión #Shorts", "postId": null, "status": "drive-manual", "published": false}
+  ],
+  "driveFolder": "https://drive.google.com/drive/folders/1ex_BNdibbu_I_hOQy4ruCwdaXLfNISRG"
+}

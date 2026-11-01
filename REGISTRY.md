@@ -695,3 +695,35 @@ create_post devolvió: access token could not be validated (WKE=unauthenticated:
 - chimpancé / Pan troglodytes. 84s. Título: 2026 Cazan en grupo y no es un accidente. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote76-20261031/ia_chimpance.mp4
 ### Intentados sin MP4 usable (Commons 429 o metraje insuficiente). No darlos por publicados. Se pueden reintentar si no quedaron en un corto:
 - ballena azul: el webm usable pesa 68MB y Commons respondió 429. No repetir el guion si se llega a publicar; si no hay MP4, se puede rehacer.
+
+## Lote 79 (2026-11-01) — un publicado con id; el resto MP4 en release lote79-20261031, SIN id nuevo
+buffer___get_account y buffer___list_channels del 2026-11-01 devolvieron: access token could not be validated (WKE=unauthenticated:bad-credentials). No hay id nuevo. No decir que están publicados. No repetir el tema.
+
+### IA AL ALCANCE — publicado
+- coyote / Canis latrans. Post 6ae6c1e137c1acd2a0e88208. sent 2026-11-01T04:36:53Z. 2:58. Título: 2026 Ese aullido no te está cazando. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_coyote.mp4
+
+### IA AL ALCANCE — MP4 listo, SIN id de Buffer
+- puma / Puma concolor. 2:58. Título: 2026 Un felino, cuarenta nombres, cero testigos. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_puma.mp4
+- abejaruco europeo / Merops apiaster. 2:59. Título: 2026 Desarma la abeja antes de tragarla. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_abeja.mp4
+- espátula / Platalea leucorodia. 2:59. Título: 2026 Esa cuchara no es un flamenco. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_espata.mp4
+- carpintero de cresta roja / Dryocopus pileatus. 2:59. Título: 2026 Ese martillo es la cabeza del carpintero. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_pica.mp4
+- zorro rojo / Vulpes vulpes (no es fénec ni zorro volador). 2:59. Título: 2026 El salto del zorro no es al azar. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_zorro.mp4
+- leopardo / Panthera pardus. 2:59. Título: 2026 El leopardo sube la cena al árbol. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_leopardo.mp4
+- íbice alpino / Capra ibex. 2:59. Título: 2026 El íbice sube donde la piedra dice no. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_ibice.mp4
+- guacamayo azul y amarillo / Ara ararauna. 2:59. Título: 2026 Este guacamayo baja a comer barro. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_guaca.mp4
+- orangután / Pongo. 2:59. Título: 2026 Casi no pisa el suelo y fabrica. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/ia_orang.mp4
+
+### Refugio — MP4 usable, SIN id de Buffer
+- Éxodo 3 zarza. 2:59. Título: 2026 Esa zarza arde y no se vuelve ceniza. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/fe_zarza.mp4
+- Jeremías 18 alfarero. 2:59. Título: 2026 El barro no le discute la forma al torno. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/fe_alfarero.mp4
+- Mateo 3 paloma. 2:59. Título: 2026 Bajó como paloma y el cielo no se quedó mudo. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/fe_paloma.mp4
+- Mateo 21 pollino. 2:59. Título: 2026 El rey no pidió un caballo de desfile. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote79-20261031/fe_burro.mp4
+
+### Descartados, no publicar, se pueden rehacer con otro B-roll
+- 1 Reyes 18 Carmelo: entró un incendio de casa (Kempele). No usar ese mp4.
+- Hechos 27: el clip era cartel de texto, no el mar. No usar fe_mar.mp4.
+- Lucas 9 arado: entró un dibujo animado y una quitanieves. No usar fe_arado.mp4.
+- Lucas 24 pan, Mateo 20 viña y Mateo 18 templo: metraje libre insuficiente para 3:00. Sin mp4 usable.
+
+### Instagram
+- No hay canal Instagram en la cuenta. No se publicó nada de cuerpo ni de Cuba.

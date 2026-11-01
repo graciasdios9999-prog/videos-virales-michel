@@ -721,3 +721,27 @@ buffer___create_post (probado una vez con ia_orangutan) y search_connected_tools
 - mundo justo, Lerner. 65s. Título: El mundo justo culpa para no temblar. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/va_justo.mp4
 - escasez, Cialdini. 60s. Título: Si se acaba hoy, el apuro decide por ti. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/va_reloj.mp4
 - reciprocidad, Cialdini. 67s. Título: El regalo que no pediste ya te cobra. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote82-20261101/va_deuda.mp4
+
+
+## Lote 83 (2026-11-01) — publicados con id de Buffer (shareNow, sent). No repetir.
+
+### IA AL ALCANCE category 15. Voz es-CO-SalomeNeural. Vertical. B-roll video Commons.
+- puma / Puma concolor. Post 6ae6eb8ecf3a3112f3e60809. sent. 62s. Título: 2026 Ese felino grande no ruge. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote83-20261101/ia_puma.mp4
+- alpaca / Vicugna pacos. No es llama. Post 6ae6ec81f0984eef33526de4. sent. 52s. Título: 2026 Esa alpaca no es una llama. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote83-20261101/ia_alpaca.mp4
+- cormorán grande / Phalacrocorax carbo. Post 6ae6ed98f0984eef3352b129. sent. 59s. Título: 2026 Se zambulle y no se ahoga. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote83-20261101/ia_cormoran.mp4
+- coyote / Canis latrans. No es lobo. Post 6ae6ed9d21c807e9d5a8c896. sent. 55s. Título: 2026 Ese aullido no es un lobo flaco. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote83-20261101/ia_coyote.mp4
+
+### Refugio en la Palabra category 27. Voz es-MX-JorgeNeural. RV1909.
+- Salmo 1. Post 6ae6eda2f0984eef3352b1ef. sent. 88s. Título: 2026 El árbol que no pidió ruido. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote83-20261101/fe_salmo1.mp4
+
+### MP4 en el release, SIN id de post (Buffer: access token could not be validated, no es 429). No decir publicados.
+- Salmo 33. 85s. Título: 2026 El cielo no se armó solo. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote83-20261101/fe_salmo33.mp4
+- Salmo 92. 82s. Título: 2026 Lo plantado en la casa. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote83-20261101/fe_salmo92.mp4
+
+### Renderizado y NO publicado: b-roll no coincidía (Marte, discurso). No usar ese MP4.
+- Salmo 25. fe_salmo25.mp4. No repetir el versículo si se rehace con metraje de senda real.
+
+### Intentados sin b-roll de video suficiente. No hay post. Se pueden reintentar.
+- coatí, babuino, impala, mandril, ñandú, tiburón ballena.
+
+Instagram no está en list_channels. No se inventó id. VALERIA: el token de Buffer cayó antes de crear posts de este lote.

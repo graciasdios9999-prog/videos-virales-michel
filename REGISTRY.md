@@ -791,3 +791,24 @@ No publicados. No hay un banco de un solo animal con 300s de metraje único sin 
 - banco gazelle: los frames eran impala.
 - banco oryx: el frame era chacales.
 - serval: solo ~16s usables.
+
+
+## Lote 86 (2026-11-01) — RENDERIZADO Y EN RELEASE. NO PUBLICADO EN BUFFER.
+
+Buffer: FALLO. search_connected_tools y buffer___get_account devolvieron: The access token could not be validated. [WKE=unauthenticated:bad-credentials]. No es 429. No hay Retry-After. No hay id de post. No decir publicados. Instagram no está conectado. Release: lote86-20261101. El próximo intento debe publicar ESTOS mp4, no rehacer el guion.
+
+### Shorts 60–90s (no repetir especie, verso ni tema)
+- oso negro, Ursus americanus (no pardo). 67.70s. Título: 2026 Ese oso negro no es un oso pardo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote86-20261101/ia_oso_negro.mp4
+- mofeta rayada, Mephitis mephitis. 64.82s. Título: 2026 La mofeta avisa antes de disparar #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote86-20261101/ia_mofeta.mp4
+- camello bactriano, Camelus bactrianus (dos jorobas, grasa no agua). 64.22s. Título: 2026 Dos jorobas y no es un tanque de agua #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote86-20261101/ia_bactriano.mp4
+- efecto señuelo, Huber Payne Puto 1982. 64.42s. Título: 2026 La opción fea no quiere que la elijas #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote86-20261101/va_senuelo.mp4
+- Salmo 93, Reina-Valera 1909 (no RVR1960). 68.42s. Título: 2026 El río alza la voz y no manda #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote86-20261101/fe_salmo93.mp4
+
+### Largos >5 min (no repetir)
+- armiño, Mustela erminea, punta negra de la cola. 311.71s. Título: 2026 El blanco del armiño esconde una punta negra. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote86-20261101/ia_armino.mp4
+- heurística de disponibilidad, Tversky y Kahneman 1973. 331.20s. Título: 2026 Si lo recuerdas fácil, no es el promedio. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote86-20261101/va_disponibilidad.mp4
+- interocepción (no diagnóstico, no rubor). 330.77s. Título: 2026 Tu cuerpo vota antes de la frase. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote86-20261101/va_interocepcion.mp4
+- Deuteronomio 33:27, Reina-Valera 1909. 328.78s. Título: 2026 Un refugio que no se alquila por el mes. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote86-20261101/fe_deut33.mp4
+
+### Descartado, no marcar como publicado
+- muflón, Ovis orientalis musimon. Render local 304.63s pero NO está en el release: los clips de Haltern mezclan gamo (Dama dama) con muflón. Se puede reintentar la especie solo con metraje limpio. No usar el mp4 ia_muflon.mp4.

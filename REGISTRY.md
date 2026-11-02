@@ -834,3 +834,26 @@ Buffer: FALLO. search_connected_tools, buffer___list_channels, buffer___get_acco
 - 36.26s. Título: 2026 Saber poco también infla la seguridad #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/va_dunning.mp4
 - 34.75s. Título: 2026 Solo guardas lo que ya querías creer #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/va_confirma.mp4
 - 39.62s. Título: 2026 Crees que tu nervio se ve, y casi no #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/va_vidrio.mp4
+
+
+## Lote 92 (2026-11-01) — publicacion Buffer de shorts lote91 no repetir
+Cuba/Patria/presos/Castro/Diaz-Canel: revisada la cola scheduled y draft de los 3 YouTube. No habia posts de ese tema. No se borro nada. TikTok no conectado. No se publico en Facebook.
+### IA AL ALCANCE enviados shareNow (ids reales)
+- Orcinus orca. Post 6ae7d6e6902c3fb1dec62fe7. sent. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/ia_orca.mp4
+- Ailurus fulgens. Post 6ae7d6ebd016796999fb8931. sent. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/ia_panda.mp4
+- Mycteria leucocephala. Post 6ae7d6f201fa08ffbe756d4d. sent. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/ia_pintada.mp4
+- Anisoptera. Post 6ae7d6f82da2578c188dd7f2. sent. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote91-20261101/ia_libelula.mp4
+Guepardo ya estaba sent antes de este lote (6ae7d53c48ce42a6b4341565). Quinto short nuevo de animales de este turno: NO producido.
+### Refugio enviados shareNow RVR1960 Stripe 7sY28l
+- Salmo 18. Post 6ae7d70ad016796999fb8d91. sent.
+- Numeros 6. Post 6ae7d70f01fa08ffbe75793a. sent.
+- Efesios 2. Post 6ae7d71401fa08ffbe757a53. sent.
+- Romanos 12. Post 6ae7d71ad016796999fb8f76. sent.
+- Isaias 55. Post 6ae7d71f902c3fb1dec63948. sent.
+### VALERIA NO publicado. YouTube perdio autorizacion en Buffer.
+- ancla 6ae7d72f2da2578c188ddfe5 error unknown, sin sentAt
+- disonancia 6ae7d73548ce42a6b4349ae3 programado 2026-11-02T16:30:00Z PERO error de autorizacion sigue. No contar como publicado.
+- dunning 6ae7d73b902c3fb1dec64076 error autorizacion
+- confirma 6ae7d740779ee9f13cc31001 error autorizacion
+- vidrio 6ae7d746779ee9f13cc311ee error autorizacion
+Copias en Drive carpeta publicar manual videos y textos en descripcion para videos. Refrescar el canal VALERIA en Buffer antes de reintentar.

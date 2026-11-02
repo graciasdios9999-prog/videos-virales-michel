@@ -870,3 +870,32 @@ Buffer: FALLO. search_connected_tools, buffer___get_account y buffer___create_po
 ### VALERIA (6ae3d9782f1f5ed648175da4) category 22. Voces Aurora y Luna. 30–45s. NO publicado. El canal ya había perdido autorización de YouTube en el lote 92; este turno ni siquiera autenticó Buffer.
 - prueba social, Cialdini (no falso consenso del lote 74, no reciprocidad ni escasez ni puerta en la cara). 41.33s. Título: 2026 Si todos miran, tú ya giras #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote94-20261101/va_social.mp4
 - efecto IKEA, Norton Mochon Ariely 2012. 33.65s. Título: 2026 Armaste la mesa y el precio mintió #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote94-20261101/va_ikea.mp4
+
+## Lote 94 (2026-11-02) — producidos, NO publicados
+Buffer devolvió `unauthenticated:bad-credentials` al crear posts. No hay id de buffer___create_post. No contar como publicados. URLs estables del release lote94-20261102.
+
+### Animales nuevos (no repetir)
+- gelada / Theropithecus gelada
+- quebrantahuesos / Gypaetus barbatus
+- ibis escarlata / Eudocimus ruber
+- gallito de las rocas / Rupicola peruvianus
+- marabú / Leptoptilos crumenifer
+- oso malayo / Helarctos malayanus
+- paloma coronada de Victoria / Goura victoria
+- eland común / Taurotragus oryx
+- cuón / dhole / Cuon alpinus
+- sifaka / Propithecus
+
+### Refugio RV1909 nuevos (no repetir)
+- Miqueas 6:8
+- Salmo 4:8
+- Salmo 56:3-4
+- Isaías 30:15
+- Nahúm 1:7
+- Mateo 5:9
+
+### Valeria nuevos (no repetir)
+- ceguera por inatención
+- sesgo del statu quo
+- sábila / aloe vera gel vs látex
+- hibisco / flor de Jamaica antocianinas

@@ -911,3 +911,16 @@ Buffer create_post y get_account devolvieron: access token could not be validate
 ### VALERIA category 22. Voces Aurora y Luna. 30–45s. NO publicado. El canal ya había perdido autorización de YouTube y, en este turno, el token de Buffer cayó para los tres canales antes de create_post.
 - falacia de planificación, Kahneman y Tversky 1979. 31.42s. Título: 2026 Tu plazo solo vive en un día perfecto #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote95-20261102/va_plan.mp4
 - sesgo de supervivencia, Abraham Wald. 32.04s. Título: 2026 Solo miras a los que llegaron #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote95-20261102/va_wald.mp4
+
+
+## Lote 100 (2026-11-02) — un post en Buffer; el token cayó después
+buffer___create_post del primero salió sent. Los cuatro siguientes y get_account devolvieron: access token could not be validated (WKE=unauthenticated:bad-credentials). No es 429. Reintento hecho. No hay id para esos cuatro. No decir que están publicados. MP4 en release lote100-20261102. No repetir el tema.
+
+### IA AL ALCANCE category 15. shareNow. sent.
+- fragata grande / Fregata minor (no es Fregata magnificens). Post 6ae8beab2810e4a79d3be04f. sent. 1:12. Título: 2026 Ese globo rojo no es un adorno #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote100-20261102/ia_fragata.mp4
+
+### MP4 listos, SIN id de Buffer
+- grulla coronada cuelligrís / Balearica regulorum (no es Grus grus). 1:13. Título: 2026 Esa corona no es de metal #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote100-20261102/ia_grulla.mp4
+- Isaías 12:2 RVR1960. 1:09. Título: 2026 Isaías 12: la canción ya tiene dueño #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote100-20261102/fe_isaias12.mp4
+- error fundamental de atribución (Lee Ross 1977). 0:43. Título: 2026 Lo sentenciaste en dos segundos #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote100-20261102/va_atribucion.mp4
+- paradoja de la elección (Barry Schwartz). 0:40. Título: 2026 Más opciones y no eliges #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote100-20261102/va_eleccion.mp4

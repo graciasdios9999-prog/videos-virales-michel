@@ -899,3 +899,15 @@ Buffer devolvió `unauthenticated:bad-credentials` al crear posts. No hay id de 
 - sesgo del statu quo
 - sábila / aloe vera gel vs látex
 - hibisco / flor de Jamaica antocianinas
+
+
+## Lote 95 (2026-11-02) — MP4 en release lote95-20261102. SIN id de Buffer.
+Buffer create_post y get_account devolvieron: access token could not be validated (WKE=unauthenticated:bad-credentials). No es 429. No hay Retry-After. No hay id de post. No decir publicados. Reintentar estos MP4, no rehacer el guion. Tag Amazon michelgonza02-20. isAiGenerated true, madeForKids false. Stripe solo en fe_146: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+### IA AL ALCANCE category 15. Voces Leo y Helios. 9:16.
+- íbice alpino / Capra ibex (no es la cabra doméstica del lote 63). 62.19s. Título: 2026 Esos cuernos no se caen cada año #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote95-20261102/ia_ibex.mp4
+- koi / Cyprinus rubrofuscus (no goldfish). 62.19s. Título: 2026 Ese rojo no es un goldfish #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote95-20261102/ia_koi.mp4
+### Refugio en la Palabra category 27. Voz Orion. RVR1960.
+- Salmo 146. 72.70s. Título: 2026 Salmo 146: no dejes el peso en un hombre #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote95-20261102/fe_146.mp4
+### VALERIA category 22. Voces Aurora y Luna. 30–45s. NO publicado. El canal ya había perdido autorización de YouTube y, en este turno, el token de Buffer cayó para los tres canales antes de create_post.
+- falacia de planificación, Kahneman y Tversky 1979. 31.42s. Título: 2026 Tu plazo solo vive en un día perfecto #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote95-20261102/va_plan.mp4
+- sesgo de supervivencia, Abraham Wald. 32.04s. Título: 2026 Solo miras a los que llegaron #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote95-20261102/va_wald.mp4

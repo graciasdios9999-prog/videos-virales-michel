@@ -3,6 +3,8 @@
 No repetir estos animales, versiculos ni temas de cuerpo.
 
 ## Animales ya usados
+- coatí / Nasua (render lote94, NO publicado en Buffer)
+- ñandú / Rhea americana (render lote94, NO publicado en Buffer)
 - cangrejo ermitaño / Paguroidea / Pagurus / Coenobita / Dardanus
 - beluga / Delphinapterus leucas
 - ajolote / axolotl
@@ -857,3 +859,14 @@ Guepardo ya estaba sent antes de este lote (6ae7d53c48ce42a6b4341565). Quinto sh
 - confirma 6ae7d740779ee9f13cc31001 error autorizacion
 - vidrio 6ae7d746779ee9f13cc311ee error autorizacion
 Copias en Drive carpeta publicar manual videos y textos en descripcion para videos. Refrescar el canal VALERIA en Buffer antes de reintentar.
+
+## Lote 94 (2026-11-01) — RENDERIZADO Y EN RELEASE. NO PUBLICADO EN BUFFER.
+Buffer: FALLO. search_connected_tools, buffer___get_account y buffer___create_post devolvieron: The access token could not be validated. [WKE=unauthenticated:bad-credentials]. No es 429. No hay Retry-After. No hay id de create_post. No decir publicados. Reintentado dos veces en el mismo turno. Instagram no se usa (reemplazado por VALERIA). No hay Cuba. Release: lote94-20261101. El próximo intento debe publicar ESTOS mp4, no rehacer el guion. Descripciones en el mismo release (coati.txt, nandu.txt, fe.txt, social.txt, ikea.txt). Tag Amazon michelgonza02-20. Stripe solo en fe. isAiGenerated true, madeForKids false, schedulingType automatic, mode shareNow.
+### IA AL ALCANCE (6abb15f5ea19ca0bde1c22f5) category 15. Voz Leo. 9:16.
+- coatí / Nasua. 61.49s. Título: 2026 Esa cola en alto no es un saludo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote94-20261101/ia_coati.mp4
+- ñandú / Rhea americana (no avestruz). 57.34s. Título: 2026 Ese avestruz no está en África #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote94-20261101/ia_nandu.mp4
+### Refugio en la Palabra (6ab1ecc9ea19ca0bdeaf3f13) category 27. Voz Orion. RVR1960. Stripe 7sY28l6Jrgsg72V7Un7bW0B.
+- Salmo 127. 174.19s. Título: 2026 Si Jehová no edifica, el martillo es ruido #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote94-20261101/fe_salmo127.mp4
+### VALERIA (6ae3d9782f1f5ed648175da4) category 22. Voces Aurora y Luna. 30–45s. NO publicado. El canal ya había perdido autorización de YouTube en el lote 92; este turno ni siquiera autenticó Buffer.
+- prueba social, Cialdini (no falso consenso del lote 74, no reciprocidad ni escasez ni puerta en la cara). 41.33s. Título: 2026 Si todos miran, tú ya giras #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote94-20261101/va_social.mp4
+- efecto IKEA, Norton Mochon Ariely 2012. 33.65s. Título: 2026 Armaste la mesa y el precio mintió #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote94-20261101/va_ikea.mp4

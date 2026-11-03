@@ -952,3 +952,33 @@ Buffer token cayó con unauthenticated:bad-credentials al crear el sexto en ráf
 - urraca común / Pica pica. 45.72s. 2026 Esa cola no es un cuervo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_magpie.mp4
 - guajolote silvestre / Meleagris gallopavo. 45.89s. 2026 Esa cola no es un pavo real #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_turkey.mp4
 - garcilla bueyera / Bubulcus ibis. 50.30s. 2026 Esa garza no espera al pez #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_egret.mp4
+
+
+## Lote 117 (2026-11-03) — MP4 listos, SIN id de Buffer
+Buffer (get_account y create_post): access token could not be validated. [WKE=unauthenticated:bad-credentials]. No es 429. No hay Retry-After. No hay id de post. No marcar como publicados.
+Instagram: no hay canal conectado (el plan tiene 3 canales y están los tres de YouTube). No se inventa un id de Instagram.
+Wikimedia devolvió 429 con Retry-After=10 y luego política de robots (https://w.wiki/4wJS). Se reintentó una vez tras ese plazo y falló. Un solo reintento posterior, ya enfriado, respondió 200. No hubo ráfaga.
+B-roll: solo video de Wikimedia Commons, no fotos. Voz edge-tts es-MX-JorgeNeural (fe) y es-MX-DaliaNeural (Valeria). Citas cortas Reina-Valera 1909.
+Plantas: las categorías de perejil, sésamo, mostaza, nuez moscada, vainilla, cacao y cebollino no tenían video (solo ogg de pronunciación). No se fabricó un corto de planta con metraje que no fuera la planta.
+
+### Refugio en la Palabra — sin id
+- Salmo 133 RV1909. 88.97s. Título: 2026 Esa vela no alumbra para el cajón #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote117-20261103/fe_s133.mp4
+- Salmo 65 RV1909. 83.41s. Título: 2026 El aguacero no te pidió permiso #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote117-20261103/fe_s65.mp4
+- Salmo 67 RV1909. 77.82s. Título: 2026 La bahía no fabricó su propia mañana #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote117-20261103/fe_s67.mp4
+- Salmo 61 RV1909. 76.67s. Título: 2026 Tu corazón desmaya y la peña no #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote117-20261103/fe_s61.mp4
+- Salmo 124 RV1909. 73.76s. Título: 2026 El río no te va a firmar el rescate #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote117-20261103/fe_s124.mp4
+- Salmo 122 RV1909. 73.26s. Título: 2026 Te dijeron iremos y el camino ya existe #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote117-20261103/fe_s122.mp4
+- Salmo 86 RV1909. 76.00s. Título: 2026 El amanecer no revisa tu expediente #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote117-20261103/fe_s86.mp4
+- Salmo 134 RV1909. 82.59s. Título: 2026 De noche las manos siguen teniendo oficio #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote117-20261103/fe_s134.mp4
+- Salmo 148 RV1909. 88.98s. Título: 2026 El alba no se alaba sola #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote117-20261103/fe_s148.mp4
+- Salmo 96 RV1909, video largo 16:9 (no Short). 156.51s. Título: 2026 Salmo 96: el alba no recicla el miedo de ayer. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote117-20261103/fe_largo96.mp4
+
+### Valeria — sin id
+- Falacia del jugador (el segundero no debe el siguiente tic; no es guía de apuestas). 52.66s. Título: 2026 El segundero no te debe el siguiente tic #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote117-20261103/va_jugador.mp4
+
+### IA AL ALCANCE lote 116 que sigue SIN id (el token cayó antes de crearlos)
+- ostrero / Haematopus. 51.10s. 2026 Ese pico naranja es una palanca #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_oyster.mp4
+- vencejo común / Apus apus. 45.53s. 2026 Ese grito no es una golondrina #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_swift.mp4
+- urraca común / Pica pica. 45.72s. 2026 Esa cola no es un cuervo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_magpie.mp4
+- guajolote silvestre / Meleagris gallopavo. 45.89s. 2026 Esa cola no es un pavo real #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_turkey.mp4
+- garcilla bueyera / Bubulcus ibis. 50.30s. 2026 Esa garza no espera al pez #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_egret.mp4

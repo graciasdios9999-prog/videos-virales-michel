@@ -1014,3 +1014,20 @@ El tag lote118-20261103 ya existía con ia_coyote.mp4 (coyote ya estaba en el re
 - Salmo 43. 82.23s. 2026 Esa llama no es tu propiedad #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote119-20261103/fe_llama.mp4
 - Salmo 52. 75.80s. 2026 Ese olivo no corre tu prisa #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote119-20261103/fe_olivo.mp4
 - Salmo 89. 82.07s. 2026 Esas luces no se clavaron solas #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote119-20261103/fe_cielo.mp4
+
+
+## Lote 120 (2026-11-03) — MP4 en release lote120-20261103. SIN id de Buffer
+Buffer get_account y create_post: access token could not be validated. [WKE=unauthenticated:bad-credentials]. No es 429. No hay Retry-After. Se reintentó get_account y create_post. No hay id. No marcar como publicados.
+Instagram no está conectado. VALERIA (6ae3d9782f1f5ed648175da4) figuraba isDisconnected al listar canales; el post tampoco se creó por el token.
+B-roll Wikimedia Commons (CC BY / CC BY-SA / CC0). Voz edge-tts es-MX-JorgeNeural (fauna y Refugio) y es-MX-DaliaNeural (VALERIA). Cortes ~2.4 s. QC fauna 95.
+
+### IA AL ALCANCE — sin id. category 15
+- estornino pinto / Sturnus vulgaris. 66.19s. 2026 Esa nube negra no tiene jefe #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote120-20261103/ia_sturnus.mp4
+- focha común / Fulica atra. 69.72s. 2026 Ese escudo blanco no es un pato #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote120-20261103/ia_fulica.mp4
+
+### Refugio en la Palabra — sin id. RV1909. category 27
+- Salmo 20. 145.87s. 2026 Ellos confían en carros. Tú, en el nombre #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote120-20261103/fe_salmo20.mp4
+- Salmo 149 (vv. 1-5 y cierre del 9). 114.60s. 2026 La canción nueva no espera al domingo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote120-20261103/fe_salmo149.mp4
+
+### VALERIA — sin id
+- ceguera al cambio / Simons y Levin 1998. 44.26s. 2026 Te cambiaron a la persona y seguiste #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote120-20261103/va_cambio.mp4

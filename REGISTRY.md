@@ -924,3 +924,15 @@ buffer___create_post del primero salió sent. Los cuatro siguientes y get_accoun
 - Isaías 12:2 RVR1960. 1:09. Título: 2026 Isaías 12: la canción ya tiene dueño #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote100-20261102/fe_isaias12.mp4
 - error fundamental de atribución (Lee Ross 1977). 0:43. Título: 2026 Lo sentenciaste en dos segundos #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote100-20261102/va_atribucion.mp4
 - paradoja de la elección (Barry Schwartz). 0:40. Título: 2026 Más opciones y no eliges #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote100-20261102/va_eleccion.mp4
+
+
+## lote104 2026-11-03 (MP4 listos, SIN post id de Buffer)
+Buffer get_account, list_channels y create_post: access token could not be validated (WKE=unauthenticated:bad-credentials). No es 429. No hay Retry-After. No hay id. No marcar publicados.
+- abubilla / Upupa epops. 179.98s. 2026 Esa cresta no es un peinado. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote104-20261103/ia_hoopoe.mp4
+- abejaruco europeo / Merops apiaster. 180s. 2026 Sale del barro y no es un loro. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote104-20261103/ia_bee.mp4
+- charrán ártico / Sterna paradisaea. 180s. 2026 Este pico rojo no es de gaviota. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote104-20261103/ia_tern.mp4
+- takin / Budorcas taxicolor. 180s. 2026 Parece vaca y no lo es. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote104-20261103/ia_takin.mp4
+- mirlo acuático / Cinclus cinclus. 179.98s. 2026 Este pájaro camina bajo el río. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote104-20261103/ia_dipper.mp4
+- horizonte sol luna mar roca (sin versículo numerado repetido). 180s. Voz Dalia porque JorgeNeural no devolvió audio. 2026 El horizonte no se apaga. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote104-20261103/fe_horizonte.mp4
+- nubes que pasan. 180s. 2026 La nube no es el final. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote104-20261103/fe_nubes.mp4
+Instagram: canal no conectado. No se publicó cuerpo ni plantas.

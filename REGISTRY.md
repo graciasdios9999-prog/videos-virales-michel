@@ -936,3 +936,19 @@ Buffer get_account, list_channels y create_post: access token could not be valid
 - horizonte sol luna mar roca (sin versículo numerado repetido). 180s. Voz Dalia porque JorgeNeural no devolvió audio. 2026 El horizonte no se apaga. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote104-20261103/fe_horizonte.mp4
 - nubes que pasan. 180s. 2026 La nube no es el final. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote104-20261103/fe_nubes.mp4
 Instagram: canal no conectado. No se publicó cuerpo ni plantas.
+
+
+## Lote 116 (2026-11-03) — IA AL ALCANCE shareNow sent (5) y MP4 listos sin id (5)
+Buffer token cayó con unauthenticated:bad-credentials al crear el sexto en ráfaga. No es 429. No hay Retry-After. No marcar como publicados los que no tienen id. Instagram no está conectado (límite 3 canales YouTube).
+### Publicados (status sent)
+- pato mandarín / Aix galericulata. 58.68s. Post 6aea0085985f73e58256171f. Título: 2026 Ese abanico naranja no es pintura #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_mandarin.mp4
+- águila pescadora / Pandion haliaetus. 53.76s. Post 6aea0092985f73e5825619a1. Título: 2026 El pez sale apuntando al frente #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_osprey.mp4
+- mono aullador / Alouatta. 53.42s. Post 6aea009701362e3aaea1b4a3. Título: 2026 Ese rugido no es un jaguar #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_howler.mp4
+- escinco de lengua azul / Tiliqua. 52.66s. Post 6aea01d4eeb55128686f29e3. Título: 2026 Esa lengua azul no es veneno #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_tiliqua.mp4
+- tortuga gigante de Galápagos / Chelonoidis niger. 48.22s. Post 6aea01dc01362e3aaea2295d. Título: 2026 Esa cúpula es más vieja que tu casa #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_galapagos.mp4
+### MP4 en el release, SIN id de Buffer
+- ostrero / Haematopus. 51.10s. 2026 Ese pico naranja es una palanca #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_oyster.mp4
+- vencejo común / Apus apus. 45.53s. 2026 Ese grito no es una golondrina #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_swift.mp4
+- urraca común / Pica pica. 45.72s. 2026 Esa cola no es un cuervo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_magpie.mp4
+- guajolote silvestre / Meleagris gallopavo. 45.89s. 2026 Esa cola no es un pavo real #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_turkey.mp4
+- garcilla bueyera / Bubulcus ibis. 50.30s. 2026 Esa garza no espera al pez #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote116-20261103/ia_egret.mp4

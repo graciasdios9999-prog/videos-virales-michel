@@ -1082,3 +1082,20 @@ Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/
 - ocelote / Leopardus pardalis
 - faisán común / Phasianus colchicus
 - VALERIA: efecto Barnum, efecto espectador, costo hundido, ilusión de frecuencia, reactancia. Sin id.
+
+
+## lote131 2026-11-04 — MP4 en release, Buffer sin id
+Token de herramientas: access token could not be validated. Ningún create_post devolvió id. No están publicados.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote131-20261104
+- ánade real / Anas platyrhynchos. 60.5s. QC 95. Título: 2026 Ese verde del ánade no es pintura #Shorts. ia_anade.mp4
+- Refugio Salmo 24:1 RV1960. 75.12s. fe_s24.mp4. Título: 2026 Salmo 24: la tierra no te firmó un contrato #Shorts
+- Refugio Salmo 125:1-2 RV1960. 74.86s. fe_s125.mp4
+- Refugio 1 Corintios 13:4-7 RV1960. 68.74s. fe_1co13.mp4
+- Refugio Proverbios 18:10 RV1960. 65.5s. fe_pr18.mp4
+- Refugio Gálatas 2:20 RV1960. 65.35s. fe_ga2.mp4
+- Valeria pensamiento de grupo (Janis 1972). 34.44s. va_grupo.mp4
+- Valeria efecto de recencia (no es primacía). 36.58s. va_recencia.mp4
+- Valeria efecto de tercera persona (Davison 1983). 36.05s. va_tercera.mp4
+- Valeria sobrejustificación (Lepper, Greene y Nisbett 1973). 34.58s. va_premio.mp4
+- Valeria verdad ilusoria (Hasher, Goldstein y Toppino 1977). 37.54s. va_verdad.mp4
+No se repitieron: gaviota reidora, búho real, pavo real, lobo marino de California. Commons 429 y especies ya usadas o sin plano de la especie.

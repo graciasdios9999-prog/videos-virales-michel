@@ -1059,3 +1059,26 @@ B-roll real (webm), no fotos. Voz edge-tts es-MX-DaliaNeural. Subtítulos palabr
 ### IA AL ALCANCE — sin id. category 15. channel 6abb15f5ea19ca0bde1c22f5
 - zorro ártico / Vulpes lagopus. 45.03s. 2026 El abrigo cambia cuando el suelo cambia #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote127-20261104/ia_arcticfox.mp4
 - leopardo de las nieves / Panthera uncia. 45.33s. 2026 Esa cola no es adorno, es abrigo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote127-20261104/ia_snow.mp4
+
+
+## Lote 130 (2026-11-04) — un post Buffer confirmado; el resto sin id
+buffer___get_account funcionó al inicio. El primer create_post salió scheduled, error null. Los create_post siguientes, en paralelo y luego en serie, y get_account, devolvieron: access token could not be validated. [WKE=unauthenticated:bad-credentials]. No es 429. No hay Retry-After. No hay id. No marcar como publicados.
+B-roll real (Wikimedia transcoded y Coverr), no fotos. Voz edge-tts es-MX-JorgeNeural (fauna) y es-MX-DaliaNeural (VALERIA, si el MP4 llega). Subtítulos. Cortes ~2 s. Tag Amazon michelgonza02-20 en la descripción del post enviado.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote130-20261104
+
+### IA AL ALCANCE — publicado
+- zarigüeya de Virginia / Didelphis virginiana. 85.08s. 2026 Eso no está muerto: acaba de abrir un ojo #Shorts. post 6aeb88dbf67f30658c54d8a4 scheduled 2026-11-04T20:00:00Z. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote130-20261104/ia_zarigueya.mp4
+
+### IA AL ALCANCE — MP4 en el release, SIN id
+- perrito de las praderas de cola negra / Cynomys ludovicianus. 74.09s. 2026 Ese ladrido no es un perro: sale del suelo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote130-20261104/ia_pradera.mp4
+- kookaburra / Dacelo novaeguineae. 74.86s. 2026 Esa risa no es humana: es un territorio #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote130-20261104/ia_kooka.mp4
+- perro doméstico / Canis lupus familiaris. 76.06s. 2026 Tu perro no obedece la orden: lee la ceja #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote130-20261104/ia_perro.mp4
+- pez dorado / Carassius auratus. 69.41s. 2026 El pez dorado no olvida en tres segundos #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote130-20261104/ia_dorado.mp4
+- buey almizclero / Ovibos moschatus. 314.52s. 2026 Ese círculo de cuernos no es una vaca. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote130-20261104/ia_almizcle.mp4
+
+### En render al cerrar el intento, no dar por publicados
+- marmota alpina / Marmota marmota
+- pantera nebulosa / Neofelis nebulosa
+- ocelote / Leopardus pardalis
+- faisán común / Phasianus colchicus
+- VALERIA: efecto Barnum, efecto espectador, costo hundido, ilusión de frecuencia, reactancia. Sin id.

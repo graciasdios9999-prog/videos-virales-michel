@@ -1031,3 +1031,20 @@ B-roll Wikimedia Commons (CC BY / CC BY-SA / CC0). Voz edge-tts es-MX-JorgeNeura
 
 ### VALERIA — sin id
 - ceguera al cambio / Simons y Levin 1998. 44.26s. 2026 Te cambiaron a la persona y seguiste #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote120-20261103/va_cambio.mp4
+
+
+## Lote 123 (2026-11-04) — release lote123-20261104
+El tag lote122-20261104 ya existía (ia_limulus.mp4, fe_reloj.mp4). No se reutilizó.
+Tres posts Buffer shareNow status sent (error null). Reintento VALERIA: buffer___get_account y buffer___create_post devolvieron The access token could not be validated. [WKE=unauthenticated:bad-credentials]. No es 429. No hay Retry-After. Sin id no está publicado. Drive no disponible: el mismo error tumba search_connected_tools.
+B-roll Commons (Morus bassanus, Magicicada) y Mixkit (noche, lluvia, océano). Voz edge-tts es-MX-JorgeNeural fauna +2% y Refugio +0%; es-MX-DaliaNeural VALERIA +4%. Cortes ~2.35 s. Subtítulos palabra por palabra.
+
+### IA AL ALCANCE — enviados. category 15. channel 6abb15f5ea19ca0bde1c22f5
+- alcatraz atlántico / Morus bassanus. 68.16s. 2026 ¿Golpear el mar a cien por hora y seguir vivo? #Shorts. post 6aeaf194e478396c27579a26 sent. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote123-20261104/ia_morus.mp4
+- cigarra periódica / Magicicada. 72.89s. 2026 Diecisiete años bajo tierra para unas semanas #Shorts. post 6aeaf19cdc38f4d7bae78981 sent. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote123-20261104/ia_cicada.mp4
+
+### Refugio en la Palabra — enviado. RV1909. category 27. channel 6ab1ecc9ea19ca0bdeaf3f13
+- Salmo 116. 132.10s. 2026 La muerte te rodeó y alguien oyó tu voz #Shorts. post 6aeaf1a4e478396c2757aa0a sent. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote123-20261104/fe_s116.mp4
+
+### VALERIA — sin id. channel 6ae3d9782f1f5ed648175da4
+- regla del pico y el final: YA ESTABA (lote73 pico.mp4, título 2026 El cierre te reescribe el día). No se republica. El MP4 va_peak.mp4 quedó en el release pero create_post no devolvió id.
+- ciclo nasal autonómico. 39.82s. 2026 Una fosa está cerrada y no es un resfriado #Shorts. create_post falló bad-credentials. NO publicado. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote123-20261104/va_nasal.mp4

@@ -1048,3 +1048,20 @@ B-roll Commons (Morus bassanus, Magicicada) y Mixkit (noche, lluvia, océano). V
 ### VALERIA — sin id. channel 6ae3d9782f1f5ed648175da4
 - regla del pico y el final: YA ESTABA (lote73 pico.mp4, título 2026 El cierre te reescribe el día). No se republica. El MP4 va_peak.mp4 quedó en el release pero create_post no devolvió id.
 - ciclo nasal autonómico. 39.82s. 2026 Una fosa está cerrada y no es un resfriado #Shorts. create_post falló bad-credentials. NO publicado. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote123-20261104/va_nasal.mp4
+
+
+## Lote 128 (2026-11-04) — MP4 en release, SIN id de Buffer
+Buffer get_account y create_post devolvieron: The access token could not be validated. [WKE=unauthenticated:bad-credentials]. No es 429. No hay Retry-After. Reintento de get_account hecho. No hay id de post. No marcar como publicados.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote128-20261104/
+B-roll: Commons (Carduelis carduelis, Capreolus capreolus, amanecer, cascadas, mar) y Mixkit License (lluvia, noche). Voz Leo (fauna), Orion (Refugio), Luna (VALERIA). Cortes 2.3–3.2 s. Subtítulos palabra por palabra. Gancho en los primeros 3 s. isAiGenerated true, madeForKids false. Tag Amazon michelgonza02-20 en la descripción preparada.
+
+### IA AL ALCANCE — sin id. category 15
+- jilguero europeo / Carduelis carduelis. 62.76s. 2026 Esa mancha roja no es pintura #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote128-20261104/ia_jilguero.mp4
+- corzo europeo / Capreolus capreolus. 66.29s. 2026 Se cruzó en julio y la cría espera #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote128-20261104/ia_corzo.mp4
+
+### Refugio en la Palabra — sin id. RV1909. category 27
+- Job 38. 57.65s. 2026 ¿Dónde estabas cuando se fundó la tierra? #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote128-20261104/fe_job38.mp4
+- Juan 20 (Tomás). 59.26s. 2026 Pidió ver los clavos y oyó su nombre #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote128-20261104/fe_juan20.mp4
+
+### VALERIA — sin id. category 22
+- efecto de primacía / Solomon Asch 1946. No es guía para manipular. 41.64s. 2026 La primera frase ya te sentenció #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote128-20261104/va_primacia.mp4

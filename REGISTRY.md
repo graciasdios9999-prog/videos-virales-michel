@@ -1309,3 +1309,21 @@ ia_cernicalo.mp4 e ia_pescadora.mp4 ya figuraban antes (Falco tinnunculus y Pand
 - wasabi / Eutrema japonicum. 46.03s. va_wasabi.mp4. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/va_wasabi.mp4
 - pareidolia (nubes). 47.15s. va_pareidolia.mp4. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/va_pareidolia.mp4
 Mejorana no se exportó: el único plano libre duraba ~37 s y era una mariposa poniendo huevos.
+
+## Lote 142 (2026-11-05) — 7 MP4 en release, SIN id de Buffer
+Buffer y Drive: access token could not be validated. No es 429. create_post no se llamó. publishedCount 0. postId null.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote142-salmon-lubber-oseas-20261105
+No hay Cuba. La cola scheduled/draft no se pudo leer. No se borró ningún post.
+No se publicaron araña tejedora (ya en lote 140), avispa (plano era tela de araña y la especie ya consta), Salmo 19 (ya usado; el cielo pasó a Nehemías 9:6), Isaías 58 (desierto limpio bajo 60 s), ni VALERIA (sin 60 s de gente sin rótulos, famosos ni noticiero).
+Voz Jorge animales, Alonso Refugio. atempo de Salmo 114 = 1.044 (sobre 0.90). Cortes 1.12–1.44 s. 1080x1920. Subtítulos a color. Tag michelgonza02-20. Stripe solo en Refugio.
+
+### IA AL ALCANCE — sin id. category 15. channel 6abb15f5ea19ca0bde1c22f5
+- salmón del Pacífico / Oncorhynchus. 63.86s. 2026 Ese salto del salmón no es un juego #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote142-salmon-lubber-oseas-20261105/ia_salmon.mp4
+- caracol de jardín / Helix. 60.46s. 2026 Esa baba del caracol no es saliva #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote142-salmon-lubber-oseas-20261105/ia_caracol.mp4
+- saltamontes lubber del este / Romalea microptera. 66.29s. 2026 Ese amarillo del saltamontes no es un juguete #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote142-salmon-lubber-oseas-20261105/ia_lubber.mp4
+
+### Refugio en la Palabra — sin id. category 27. channel 6ab1ecc9ea19ca0bdeaf3f13. RV1960. Voz es-US-AlonsoNeural.
+- Nehemías 9:6. 62.98s. 2026 Nehemías 9: el cielo no es un horóscopo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote142-salmon-lubber-oseas-20261105/fe_neh9.mp4
+- Salmo 114:7-8. 60.68s. 2026 Salmo 114: la peña no manda sobre el agua #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote142-salmon-lubber-oseas-20261105/fe_s114.mp4
+- Éxodo 15:2. 68.90s. 2026 Éxodo 15: hay un canto más fuerte que el mar #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote142-salmon-lubber-oseas-20261105/fe_ex15.mp4
+- Oseas 6:3. 68.59s. 2026 Oseas 6: el alba no pide tu permiso #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote142-salmon-lubber-oseas-20261105/fe_os6.mp4

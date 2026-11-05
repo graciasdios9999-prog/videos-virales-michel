@@ -1167,3 +1167,18 @@ Especies/temas de este lote: burro (Equus africanus asinus), Salmo 105 (cascadas
 - Salmo 115. 00:03:00. Título: 2026 NO A NOSOTROS. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote135-20261105/fe_s115.mp4
 
 Instagram: canal no confirmado (no existe buffer___list_channels). No se publicó nada de cuerpo ni de Cuba.
+
+
+## Lote 136 (2026-11-05) — MP4 en release lote136-procavia-heloderma-20261105. SIN id de Buffer.
+buffer___list_channels no existe en esta sesión. El token previo del repo ya devolvía access token could not be validated. No se llamó create_post. No hay id. No están publicados.
+
+### IA AL ALCANCE — sin id. category 15. channel 6abb15f5ea19ca0bde1c22f5. Voz Leo y Atlas.
+- damán de las rocas / Procavia capensis. 49.43s. 2026 Ese conejo de la roca no es un conejo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote136-procavia-heloderma-20261105/ia_daman.mp4
+- monstruo de Gila / Heloderma suspectum. 61.18s. 2026 Ese lagarto no suelta: mastica el veneno #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote136-procavia-heloderma-20261105/ia_gila.mp4
+
+### Refugio en la Palabra — sin id. RV1909 sentido de Amós 5:21-24. category 27. channel 6ab1ecc9ea19ca0bdeaf3f13. Voz Orion.
+- Amós 5:21-24. 52.20s. 2026 Tu canto puede estar seco #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote136-procavia-heloderma-20261105/fe_amos.mp4
+
+### VALERIA — sin id. category 22. channel 6ae3d9782f1f5ed648175da4.
+- supresión irónica / Wegner 1987. 35.88s. 2026 Prohibirte pensarlo lo clava #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote136-procavia-heloderma-20261105/va_wegner.mp4
+- efecto umbral / Radvansky 2006. 34.30s. 2026 Cruzar la puerta te borra la frase #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote136-procavia-heloderma-20261105/va_puerta.mp4

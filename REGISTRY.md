@@ -1355,3 +1355,24 @@ No se repiten araña tejedora, bogavante, avispa, Salmo 117, falacia de planific
 - sobreconfianza. 65.07s. 2026 Esa seguridad no midió lo que podías fallar #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote142-tejon-fraile-nahum-20261105/va_confianza.mp4
 - error de atribución fundamental, Ross 1977. 66.73s. 2026 El retraso del otro no es su carácter #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote142-tejon-fraile-nahum-20261105/va_atrib.mp4
 - bola baja, Cialdini 1978. 61.90s. 2026 El primer sí no cubre el precio nuevo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote142-tejon-fraile-nahum-20261105/va_lowball.mp4
+
+## Lote 143 (2026-11-05) — 6 shorts 60-90s. SIN id de Buffer
+Buffer y Drive: search_connected_tools devolvió access token could not be validated (WKE=unauthenticated:bad-credentials). No es 429. No hay Retry-After. No se llamó buffer___create_post. publishedCount 0. postId null. youtube-upload e instagrapi no están instalados.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote143-20261105
+URLs directas terminan en .mp4 y responden 200 application/octet-stream.
+No se publicaron: costo hundido (ya lote 67), regla del pico y el final (ya lote 73), Romanos 8 (ya 8:38-39 en lote 82 y el índice marca Romanos 8), rey pingüino (sin B-roll verificado), fe_rom8.mp4 local (capítulo repetido y subtítulos incompletos), va_pico.mp4 y va_hundido.mp4 locales.
+No hay 10+10 ni 5 largos de más de 5 minutos: no existe B-roll único, en movimiento y sin repetir plano para cubrir 300s por pieza. No se estiró un mismo plano en bucle.
+Voz: es-US-AlonsoNeural (animales y Refugio; créditos de voz premium agotados, Orion/Leo no disponibles), es-MX-DaliaNeural (VALERIA). Sin atempo bajo 0.90. Cortes ~1.65s. 1080x1920, 30fps, H.264, AAC. Subtítulos centrados palabra a palabra. Tag Amazon michelgonza02-20 solo en la descripción. Stripe solo en Refugio. madeForKids false. isAiGenerated true. category 15 / 27 / 22.
+No Cuba. No política. No se mezclan nichos.
+
+### IA AL ALCANCE — sin id. category 15. channel 6abb15f5ea19ca0bde1c22f5
+- carbonero común / Parus major. 76.83s. 2026 Ese pecho amarillo no es un adorno #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote143-20261105/ia_carbonero.mp4
+- herrerillo común / Cyanistes caeruleus. 75.83s. Nido real, plano suave. 2026 El azul del herrerillo no es pintura #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote143-20261105/ia_herrerillo.mp4
+
+### Refugio en la Palabra — sin id. category 27. channel 6ab1ecc9ea19ca0bdeaf3f13. RVR1960. Voz Alonso.
+- Lucas 6:38. 62.10s. 2026 Lucas 6: abrir la mano no te vacía #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote143-20261105/fe_lucas6.mp4
+- Juan 13:34. 65.60s. 2026 Juan 13: el amor nuevo no cabe en la boca #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote143-20261105/fe_juan13.mp4
+- Lucas 11:9. 62.17s. 2026 Lucas 11: llamar también es pedir #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote143-20261105/fe_lucas11.mp4
+
+### VALERIA — sin id. category 22. channel 6ae3d9782f1f5ed648175da4. Voz Dalia. Aviso, no manual.
+- respuesta de lucha o huida, hombros y mandíbula. No es costo hundido ni pico-fin. 67.90s. 2026 El hombro votó antes que tú #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote143-20261105/va_hombro.mp4

@@ -1217,52 +1217,19 @@ No se publicaron ceguera por inatencion ni efecto de dotacion: ya estaban en el 
 
 
 ## Lote 139 (2026-11-05) — MP4 en release, SIN id de Buffer
-Buffer: search_connected_tools no devolvió buffer___get_account ni buffer___create_post. La herramienta no está instalada en esta sesión. No es 429. No hay Retry-After. No hay id. No están publicados en YouTube.
-Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote139-paraiso-rayador-20261105
-Tag Amazon michelgonza02-20. Stripe solo en Job 38: https://buy.stripe.com/28EbIV0l31xmdrj5Mf7bW0A
-isAiGenerated true. madeForKids false. categoryId 15 / 27 / 22.
-No se repiten damán, monstruo de Gila, pez globo, Amós 5, Salmo 117, Deuteronomio 6, Wegner, efecto umbral, von Restorff ni status quo.
+buffer___get_account / buffer___list_channels / buffer___create_post: herramienta no instalada en esta sesión. No es 429. No hay Retry-After. No hay id. No están publicados.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote139-gloton-remo-job38-avestruz-frisson-20261105
+isAiGenerated true. madeForKids false. Cortes ~2.3s. Subtítulos palabra por palabra. Tag Amazon michelgonza02-20 en los txt del release.
 
-### IA AL ALCANCE — sin id. channel 6abb15f5ea19ca0bde1c22f5
-- ave del paraíso del rey de Sajonia / Pteridophora alberti; ave del paraíso de Raggi / Paradisaea raggiana; ave del paraíso menor / Paradisaea minor; ave del paraíso azul / Paradisaea rudolphi. 77.81s. QC 89/95 sin eliminatorias. Título: 2026 Esas plumas no son un pavo real #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-paraiso-rayador-20261105/ia_paraiso.mp4
-- rayador negro / Rynchops niger. 50.28s. Metraje libre de la especie insuficiente para el piso interno de 60s sin repetir plano. Título: 2026 Ese pico no cierra parejo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-paraiso-rayador-20261105/ia_rayador.mp4
+### IA AL ALCANCE — sin id. category 15. channel 6abb15f5ea19ca0bde1c22f5
+- glotón / Gulo gulo. 67.83s. 2026 Ese bulto no reculó ante el oso #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-gloton-remo-job38-avestruz-frisson-20261105/ia_gloton.mp4
+- pez remo / Regalecus glesne. 62.39s. 2026 Esa cinta de plata no anuncia el terremoto #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-gloton-remo-job38-avestruz-frisson-20261105/ia_remo.mp4
 
-### Refugio en la Palabra — sin id. channel 6ab1ecc9ea19ca0bdeaf3f13
-- Job 38:4 RV1909. 66.94s. Voz Orion. Título: 2026 Job 38: ¿dónde estabas tú? #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-paraiso-rayador-20261105/fe_job38.mp4
+### Refugio en la Palabra — sin id. category 27. channel 6ab1ecc9ea19ca0bdeaf3f13. RV1909 cita breve, resto paráfrasis.
+- Job 38. 164.79s. 2026 ¿Dónde estabas cuando fundé la tierra? https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-gloton-remo-job38-avestruz-frisson-20261105/fe_job38.mp4
 
-### VALERIA — sin id. channel 6ae3d9782f1f5ed648175da4
-- maldición del conocimiento (Camerer, Loewenstein y Weber 1989; Newton 1990). 38.76s. Título: 2026 Si ya lo sabes, dejas de explicarlo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-paraiso-rayador-20261105/va_saber.mp4
-- holgazanería social (Ringelmann 1913; Latané, Williams y Harkins 1979). 37.80s. Título: 2026 En grupo, cada uno jala menos #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-paraiso-rayador-20261105/va_cuerda.mp4
+### VALERIA — sin id. category 22. channel 6ae3d9782f1f5ed648175da4
+- efecto avestruz / Karlsson, Loewenstein y Seppi 2009. No es consejo de inversión. 69.11s. 2026 Cierras la app y el número sigue ahí #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-gloton-remo-job38-avestruz-frisson-20261105/va_avestruz.mp4
 
-
-## Lote 140 (2026-11-05) — MP4 3:00 en release, SIN id. Cisne ya estaba en la lista: no reenviar.
-buffer___get_account no existe aquí. No es 429. No hay Retry-After. create_post no se llamó. Cero ids.
-- cisne negro / Cygnus atratus. 00:03:00. es-MX-DaliaNeural. 2026 El blanco no era la regla. El registro ya decía cisne: no publicar como especie nueva. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-cisne-20261105/ia_cisne_negro.mp4
-
-
-## Lote 139 (2026-11-05) — MP4 en release lote138-leonmarino-babosa-oruga-avispa-20261105. SIN id de Buffer
-En esta sesión no existían buffer___get_account, buffer___list_channels ni buffer___create_post. No se llamó a la API. No es 429. No hay id. No están publicados. No repetir el lote 138 del pez globo Arothron.
-
-### IA AL ALCANCE — sin id
-- león marino / Otariidae. 69.82s. 2026 Ese bostezo en la arena no es sueño #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-leonmarino-babosa-oruga-avispa-20261105/ia_sealion.mp4
-- babosa. 60.53s. 2026 Esa baba no es asco: es un mapa #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-leonmarino-babosa-oruga-avispa-20261105/ia_slug.mp4
-- oruga. 61.80s. 2026 Esa oruga no pasea: se come la hoja #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-leonmarino-babosa-oruga-avispa-20261105/ia_oruga.mp4
-- avispa. 65.00s. 2026 Esa avispa no te caza: limpia la antena #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-leonmarino-babosa-oruga-avispa-20261105/ia_avispa.mp4
-
-Descartado: tejón melero (b-roll de miel, sin el animal). Sin largo >5 min: no había 300 s de plano único. Refugio y VALERIA sin MP4 en este lote.
-
-
-## Lote 140-pecari (2026-11-05) — release lote140-20261105. SIN id de Buffer.
-buffer___create_post (un intento, canal IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, mp4 del pecarí) devolvió: access token could not be validated (WKE=unauthenticated:bad-credentials). No es 429. No hay Retry-After. No hay id de post. No están publicados.
-search_connected_tools también devolvió el mismo error de token. No se reintentó en ráfaga.
-Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote140-20261105
-Voz es-MX-DaliaNeural. Subtítulos amarillos palabra por palabra. Cortes ~2.3 s. B-roll Commons en movimiento. categoryId 15. madeForKids false. isAiGenerated true. Tag Amazon michelgonza02-20 en los .txt del release.
-No se repite monstruo de Gila ni damán (lote 136) ni cisne negro. No se suben muntjac (plano vacío y marca ajena), blackbuck (planos sin el animal) ni mangosta rayada (el guion nombra un huevo que el plano no muestra y el final queda vacío).
-No hay Refugio ni VALERIA en este release. No hay largo >5 min: el metraje único de cada especie no llega a 300 s sin repetir el mismo segundo.
-
-### IA AL ALCANCE — sin id. channel 6abb15f5ea19ca0bde1c22f5
-- pecarí de collar / Pecari tajacu. 54.92s. 2026 Eso no es un cerdo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-20261105/ia_pecari.mp4
-- gato de Pallas / manul / Otocolobus manul. 59.68s. 2026 Ese gato no está gordo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-20261105/ia_manul.mp4
-- gineta común / Genetta genetta. 50.80s. 2026 Ese gato no es un gato #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-20261105/ia_genetta.mp4
-- tití león dorado / Leontopithecus rosalia. 52.00s. 2026 Esa melena es una alarma #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-20261105/ia_tamarin.mp4
-- agutí centroamericano / Dasyprocta punctata. 52.44s. 2026 Esa rata no es una rata #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-20261105/ia_agouti.mp4
+### Instagram cuerpo — canal no listable. sin id.
+- frisson musical / Blood y Zatorre; Salimpoor. No es diagnóstico. 70.39s. 2026 Ese escalofrío no bajó del aire #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-gloton-remo-job38-avestruz-frisson-20261105/ig_frisson.mp4

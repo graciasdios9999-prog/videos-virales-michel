@@ -1257,3 +1257,20 @@ Descartados por repetición del día: salamandra (lote135), Amós (lote136), pie
 - hojas / huerta. 180.00s. Voz 168.02s. Título: 2026 Esas hojas no son decoración del cuerpo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-trucha-arana-20261105/ig_hojas.mp4
 - bacterias / microscopio / vaso. No es tratamiento. 180.00s. Voz 179.16s. Título: 2026 Tu vaso tiene un ejército invisible #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-trucha-arana-20261105/ig_micro.mp4
 - tierra / semilla / huerta. No es cura. 180.00s. Voz 177.12s. Título: 2026 Tu cuerpo entiende la tierra #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-trucha-arana-20261105/ig_tierra.mp4
+
+
+## Lote 141 (2026-11-05) — MP4 en release lote141-nutria-bogavante-20261105. SIN id de Buffer
+buffer___get_account y buffer___create_post no existen en esta sesión. No es 429. No hay Retry-After. create_post no se llamó. No hay id. No están publicados.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote141-nutria-bogavante-20261105
+No se repiten damán, Gila, pez globo, manatí, panda rojo, cigarra, Amós, Salmo 117, Deuteronomio 6, Job 38, Wegner, umbral, Restorff, status quo, Festinger, Ringelmann, Camerer, cisne, león marino, babosa, oruga ni avispa.
+
+### IA AL ALCANCE — sin id. category 15. channel 6abb15f5ea19ca0bde1c22f5
+- nutria marina / Enhydra lutris. 73.97s. Voz es-MX-JorgeNeural. 2026 Duerme en el mar y no tiene grasa #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote141-nutria-bogavante-20261105/ia_nutria.mp4
+- bogavante europeo / Homarus gammarus. 63.80s. Voz es-CO-GonzaloNeural. 2026 Una pinza parte y la otra no #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote141-nutria-bogavante-20261105/ia_bogavante.mp4
+
+### Refugio en la Palabra — sin id. category 27. channel 6ab1ecc9ea19ca0bdeaf3f13. Voz es-US-AlonsoNeural. RV1909.
+- Ezequiel 37:3-6 y 37:10 RV1909. 104.76s. 2026 Esos huesos no pidieron permiso #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote141-nutria-bogavante-20261105/fe_ezequiel.mp4
+- Josué 24:14-15 RV1909. 84.93s. 2026 El texto te pone un hoy #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote141-nutria-bogavante-20261105/fe_josue.mp4
+
+### VALERIA — sin id. category 22. channel 6ae3d9782f1f5ed648175da4. Voz es-MX-DaliaNeural.
+- sesgo de omisión / Spranca, Minsk y Baron 1991. 43.40s. 2026 Callar también es un daño #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote141-nutria-bogavante-20261105/va_omision.mp4

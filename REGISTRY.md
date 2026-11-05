@@ -1182,3 +1182,18 @@ buffer___list_channels no existe en esta sesión. El token previo del repo ya de
 ### VALERIA — sin id. category 22. channel 6ae3d9782f1f5ed648175da4.
 - supresión irónica / Wegner 1987. 35.88s. 2026 Prohibirte pensarlo lo clava #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote136-procavia-heloderma-20261105/va_wegner.mp4
 - efecto umbral / Radvansky 2006. 34.30s. 2026 Cruzar la puerta te borra la frase #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote136-procavia-heloderma-20261105/va_puerta.mp4
+
+
+## Lote 137 (2026-11-05) — MP4 en release, SIN id de Buffer
+buffer___get_account / buffer___create_post: herramienta no instalada en esta sesión. No es 429 de Buffer. No hay id. No están publicados.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote137-sendero-llama-vara-20261105
+Wikimedia Commons 429 Retry-After 600 al bajar órix/gemsbok (Oryx gazella). No se subió animal. No se repitieron arrendajo, cernícalo, cigüeñuela, corzo, garceta, ibis, liebre, águila pescadora, burro, damán ni monstruo de Gila.
+No hay largo >5 min: el B-roll único no cubre 300 s sin repetir plano.
+
+### Refugio en la Palabra
+- Proverbios 16:9 RVR1960. 61.97s. 2026 El sendero que pensaste no es el que te sostiene #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote137-sendero-llama-vara-20261105/fe_pr16.mp4
+- Salmo 143:1 RVR1960. 58.53s. 2026 Esa roca no le pidió permiso al agua #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote137-sendero-llama-vara-20261105/fe_s143.mp4
+- Proverbios 6:23 RVR1960. 59.77s. 2026 Esa llama cabe en una mano #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote137-sendero-llama-vara-20261105/fe_luz.mp4
+
+### VALERIA
+- comparación social / Festinger 1954 (aviso, no manual). 60.46s. 2026 Se ríen a cámara y tú ya te pusiste nota #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote137-sendero-llama-vara-20261105/va_comparacion.mp4

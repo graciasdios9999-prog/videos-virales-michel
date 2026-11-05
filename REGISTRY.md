@@ -1233,3 +1233,27 @@ isAiGenerated true. madeForKids false. Cortes ~2.3s. Subtítulos palabra por pal
 
 ### Instagram cuerpo — canal no listable. sin id.
 - frisson musical / Blood y Zatorre; Salimpoor. No es diagnóstico. 70.39s. 2026 Ese escalofrío no bajó del aire #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-gloton-remo-job38-avestruz-frisson-20261105/ig_frisson.mp4
+
+
+## Lote 140 (2026-11-05) — MP4 en release, SIN id de Buffer
+buffer___get_account y buffer___list_channels: access token could not be validated (WKE=unauthenticated:bad-credentials). No es 429. No hay Retry-After. No se llamó buffer___create_post. No hay id. No están publicados. No se listó la organización ni los canales en esta sesión: no se inventan ids.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote140-trucha-arana-20261105
+Tag Amazon real: michelgonza02-20. Vertical 180.00s. Voz edge-tts. isAiGenerated true. madeForKids false.
+Descartados por repetición del día: salamandra (lote135), Amós (lote136), piedra/roca (Salmo 144 y Salmo 143). No hubo B-roll único para 10 animales ni 10 de fe sin repetir plano o especie.
+
+### IA AL ALCANCE — sin id. categoryId 15. Voz es-MX-DaliaNeural.
+- trucha, saco vitelino. No es yema como tema suelto ni salmón. 180.00s. Voz 171.74s. Título: 2026 Ese bulto del huevo no es un error #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-trucha-arana-20261105/ia_trucha.mp4
+- araña tejedora de orbe. No es araña bolas, ni de trampilla, ni de agua. 180.00s. Voz 170.59s. Título: 2026 Esa tela no es un accidente #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-trucha-arana-20261105/ia_arana.mp4
+
+### Refugio en la Palabra — sin id. categoryId 27. Voz es-MX-JorgeNeural. Paráfrasis original, sin audiolibro.
+- Juan 7 parafraseado. 180.00s. Título: 2026 El silencio no cerró la puerta #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-trucha-arana-20261105/fe_juan7.mp4
+- Hechos 17 parafraseado. 180.00s. Título: 2026 En Él te mueves aunque no lo notes #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-trucha-arana-20261105/fe_hechos17.mp4
+- barca / deriva, lenguaje original. 180.00s. Voz 178.13s. Título: 2026 Esa barca no iba a la deriva #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-trucha-arana-20261105/fe_barca.mp4
+- buscar a Dios sin quedarse a medias, lenguaje original. 180.00s. Voz 170.81s. Título: 2026 Buscar a Dios no es quedarte a medias #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-trucha-arana-20261105/fe_busca.mp4
+- polvo del camino, lenguaje original. 180.00s. Voz 176.86s. Título: 2026 El polvo no te está acusando #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-trucha-arana-20261105/fe_polvo.mp4
+- regreso, lenguaje original. 180.00s. Voz 169.49s. Título: 2026 Volver no es empezar de cero #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-trucha-arana-20261105/fe_regreso.mp4
+
+### Instagram cuerpo/plantas — canal no listado. sin id. Voz es-CO-SalomeNeural. categoryId 27. Sin Cuba. Sin cura mágica.
+- hojas / huerta. 180.00s. Voz 168.02s. Título: 2026 Esas hojas no son decoración del cuerpo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-trucha-arana-20261105/ig_hojas.mp4
+- bacterias / microscopio / vaso. No es tratamiento. 180.00s. Voz 179.16s. Título: 2026 Tu vaso tiene un ejército invisible #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-trucha-arana-20261105/ig_micro.mp4
+- tierra / semilla / huerta. No es cura. 180.00s. Voz 177.12s. Título: 2026 Tu cuerpo entiende la tierra #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-trucha-arana-20261105/ig_tierra.mp4

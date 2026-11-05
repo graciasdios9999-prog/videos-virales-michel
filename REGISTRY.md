@@ -1238,3 +1238,15 @@ No se repiten damán, monstruo de Gila, pez globo, Amós 5, Salmo 117, Deuterono
 ## Lote 140 (2026-11-05) — MP4 3:00 en release, SIN id. Cisne ya estaba en la lista: no reenviar.
 buffer___get_account no existe aquí. No es 429. No hay Retry-After. create_post no se llamó. Cero ids.
 - cisne negro / Cygnus atratus. 00:03:00. es-MX-DaliaNeural. 2026 El blanco no era la regla. El registro ya decía cisne: no publicar como especie nueva. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-cisne-20261105/ia_cisne_negro.mp4
+
+
+## Lote 139 (2026-11-05) — MP4 en release lote138-leonmarino-babosa-oruga-avispa-20261105. SIN id de Buffer
+En esta sesión no existían buffer___get_account, buffer___list_channels ni buffer___create_post. No se llamó a la API. No es 429. No hay id. No están publicados. No repetir el lote 138 del pez globo Arothron.
+
+### IA AL ALCANCE — sin id
+- león marino / Otariidae. 69.82s. 2026 Ese bostezo en la arena no es sueño #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-leonmarino-babosa-oruga-avispa-20261105/ia_sealion.mp4
+- babosa. 60.53s. 2026 Esa baba no es asco: es un mapa #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-leonmarino-babosa-oruga-avispa-20261105/ia_slug.mp4
+- oruga. 61.80s. 2026 Esa oruga no pasea: se come la hoja #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-leonmarino-babosa-oruga-avispa-20261105/ia_oruga.mp4
+- avispa. 65.00s. 2026 Esa avispa no te caza: limpia la antena #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-leonmarino-babosa-oruga-avispa-20261105/ia_avispa.mp4
+
+Descartado: tejón melero (b-roll de miel, sin el animal). Sin largo >5 min: no había 300 s de plano único. Refugio y VALERIA sin MP4 en este lote.

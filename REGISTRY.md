@@ -1099,3 +1099,27 @@ Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/
 - Valeria sobrejustificación (Lepper, Greene y Nisbett 1973). 34.58s. va_premio.mp4
 - Valeria verdad ilusoria (Hasher, Goldstein y Toppino 1977). 37.54s. va_verdad.mp4
 No se repitieron: gaviota reidora, búho real, pavo real, lobo marino de California. Commons 429 y especies ya usadas o sin plano de la especie.
+
+
+## Lote 132 (2026-11-05) — MP4 en release, SIN id de Buffer
+buffer___get_account / buffer___create_post: herramienta no instalada en esta sesión (not found). No es 429. No hay id. No están publicados.
+Wikimedia Commons devolvió 429 al buscar y al bajar clips de especie. No se reintentó en ráfaga. Los planos de águila de Mixkit no coincidían con Aquila chrysaetos (águila calva, silueta no identificable, ave blanca, y un primer plano de 16 s insuficiente). Abejorro 31 s y estrella 5 s: no cubren la voz sin repetir plano. Oveja ya estaba en el registro. No se inventó animal.
+No hay largos de más de 5 min: el B-roll único restante no alcanza 300 s sin repetir escena.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote132-20261105
+
+### Refugio en la Palabra — sin id. category 27. channel 6ab1ecc9ea19ca0bdeaf3f13
+- Salmo 22:1 RV1960. 46.77s. 2026 Salmo 22: el grito que no cuelga #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote132-20261105/fe_s22.mp4
+- Salmo 31:1-3 RV1960. 41.02s. 2026 Salmo 31: la roca no niega el temblor #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote132-20261105/fe_s31.mp4
+- Filipenses 4:6-7 RV1960. 48.05s. 2026 Filipenses 4: el afán no es oración #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote132-20261105/fe_fil4.mp4
+- Romanos 12:2 RV1960. 39.10s. 2026 Romanos 12: el siglo te escribe la mente #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote132-20261105/fe_ro12.mp4
+- Jeremías 17:7-8 RV1960. 44.21s. 2026 Jeremías 17: raíz junto al agua #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote132-20261105/fe_jer17.mp4
+
+### VALERIA — sin id. channel 6ae3d9782f1f5ed648175da4
+- contagio emocional / Hatfield. 25.97s. 2026 Esa rabia no nació en ti #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote132-20261105/va_contagio.mp4
+- efecto Pigmalión / Rosenthal y Jacobson 1968. 23.40s. 2026 Te trataron como fracaso y cumpliste #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote132-20261105/va_pigmalion.mp4
+- pies que apuntan a la salida. 30.07s. 2026 La boca se queda. Los pies no #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote132-20261105/va_pies.mp4
+- rubor social, no detector. 29.93s. 2026 Ese rojo no confirma la mentira #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote132-20261105/va_rubor.mp4
+- congelación defensiva. 34.13s. 2026 Quedarte quieto también fue defensa #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote132-20261105/va_freeze.mp4
+
+### IA AL ALCANCE — no renderizado en este lote
+- chinchilla, águila real, rana toro, estrella de mar, abejorro: voz hecha, B-roll de la especie insuficiente o bloqueado. No se subió.

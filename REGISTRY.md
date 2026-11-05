@@ -1149,3 +1149,21 @@ No hay largos de más de 5 min: el metraje único de cada especie no llega a 300
 - liebre europea / Lepus europaeus. 55.73s. No es conejo. 2026 Esa liebre no es un conejo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_liebre.mp4
 - cigüeñuela común / Himantopus himantopus. 47.40s. 2026 La cigüeñuela parece un error de escala #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_ciguenuela.mp4
 - ibis sagrado / Threskiornis aethiopicus. 43.79s. 2026 El ibis sagrado lee el lodo con el pico #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_ibis.mp4
+
+
+## Lote 135 (2026-11-05) — 4 MP4 de 3:00. Buffer SIN id.
+buffer___get_account: tool not found. No es 429. No hay Retry-After. No se listaron canales. No se inventaron ids. No se llamó buffer___create_post. Cero posts.
+Drive: el token de herramientas conectadas no validó (unauthenticated). Los mp4 quedaron en el release.
+Anémona NO publicada: el plano largo de Exaiptasia traía rótulos en inglés (Acontia). El resto no cubre 180 s sin repetir.
+No se usó el tráiler de The Wolverine (copyright), ni Jupyter-Anaconda, ni el instrumento Contrabass Serpent, ni Julieta Cardinali, ni el avión Yak-130, ni los videos de NASA con rótulos.
+Especies/temas de este lote: burro (Equus africanus asinus), Salmo 105 (cascadas), Salmo 144 (río/roca), Salmo 115 (nubes y lomas).
+
+### IA AL ALCANCE — SIN id de post. categoryId 15. madeForKids false. isAiGenerated true. schedulingType automatic.
+- burro / Equus africanus asinus. 00:03:00. Voz es-MX-DaliaNeural. Título: 2026 NO ES CABALLO. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote135-20261105/ia_burro.mp4
+
+### Refugio en la Palabra — SIN id de post. categoryId 27. Voz es-MX-JorgeNeural. Cita corta RV1909, resto paráfrasis.
+- Salmo 105. 00:03:00. Título: 2026 EL AGUA SIGUE. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote135-20261105/fe_s105.mp4
+- Salmo 144. 00:03:00. Título: 2026 MI ROCA SIGUE. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote135-20261105/fe_s144.mp4
+- Salmo 115. 00:03:00. Título: 2026 NO A NOSOTROS. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote135-20261105/fe_s115.mp4
+
+Instagram: canal no confirmado (no existe buffer___list_channels). No se publicó nada de cuerpo ni de Cuba.

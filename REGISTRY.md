@@ -1274,3 +1274,38 @@ No se repiten damán, Gila, pez globo, manatí, panda rojo, cigarra, Amós, Salm
 
 ### VALERIA — sin id. category 22. channel 6ae3d9782f1f5ed648175da4. Voz es-MX-DaliaNeural.
 - sesgo de omisión / Spranca, Minsk y Baron 1991. 43.40s. 2026 Callar también es un daño #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote141-nutria-bogavante-20261105/va_omision.mp4
+
+## Lote 134b (2026-11-05) — misma release lote134-20261105. SIN id de Buffer
+buffer___create_post devolvió: The access token could not be validated. [WKE=unauthenticated:bad-credentials]. No es 429. No hay Retry-After. Un solo intento. No hay id. No están publicados.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote134-20261105
+Voz es-MX-DaliaNeural (animales y VALERIA) y es-MX-JorgeNeural (Refugio; el largo del zorro cayó a Dalia). Cortes ~2.3–3.1 s. Tag Amazon michelgonza02-20 en la descripción local. isAiGenerated true. madeForKids false.
+
+No repetir y no publicar como pieza nueva (la misma especie ya está en este release con otro archivo, subido 07:39Z): ia_stilt.mp4 = cigüeñuela de ia_ciguenuela.mp4; ia_roe.mp4 = corzo de ia_corzo.mp4; ia_jay.mp4 = arrendajo de ia_arrendajo.mp4; ia_egret.mp4 = garceta de ia_garceta.mp4.
+fe_s39.mp4 NO sirve: el montaje metió el archivo de Wikimedia "Terrmian Campfire- Episode 1 (Black Desert Mobile)", un videojuego, no una fogata. No publicar. Salmo 39 queda libre para un plano real.
+ia_cernicalo.mp4 e ia_pescadora.mp4 ya figuraban antes (Falco tinnunculus y Pandion, líneas previas del registry). No repetir otra vez.
+
+### IA AL ALCANCE — sin id. category 15. channel 6abb15f5ea19ca0bde1c22f5
+- tarro blanco / Tadorna tadorna. ~56.3s. ia_shelduck.mp4. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_shelduck.mp4
+- busardo ratonero / Buteo buteo. ~54.3s. ia_buzzard.mp4. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_buzzard.mp4
+- tejón europeo / Meles meles. No es tejón de la miel. ~54.2s. ia_badger.mp4. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_badger.mp4
+- grulla canadiense / Antigone canadensis. No es Grus grus ni Balearica. ~51.8s. ia_crane.mp4. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_crane.mp4
+- correcaminos grande / Geococcyx californianus. ~49.0s. ia_road.mp4. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_road.mp4
+- rebeco / Rupicapra rupicapra. ~46.8s. ia_chamois.mp4. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_chamois.mp4
+- gallineta común / Gallinula chloropus. 46.61s. ia_moorhen.mp4. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_moorhen.mp4
+- zorro rojo / Vulpes vulpes. No es ártico ni fénec. Horizontal 16:9, ~115.8s, no es un largo de una hora. ia_foxlong.mp4. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_foxlong.mp4
+
+### Refugio en la Palabra — sin id. category 27. channel 6ab1ecc9ea19ca0bdeaf3f13. Paráfrasis breve RV1909. La mayoría NO llega a 90 s.
+- Salmo 9. ~69.8s. fe_s9.mp4
+- Salmo 15. ~60.4s. fe_s15.mp4
+- Salmo 17. ~52.7s. fe_s17.mp4
+- Salmo 36. ~49.6s. Cascada. fe_s36.mp4
+- Salmo 47. ~51.2s. fe_s47.mp4
+- Salmo 57. ~52.2s. fe_s57.mp4
+- Salmo 77. ~49.9s. fe_s77.mp4
+- Salmo 112. ~48.9s. fe_s112.mp4
+- Salmo 114. 93.42s. Río, sin satélite. fe_s114.mp4. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/fe_s114.mp4
+
+### VALERIA — sin id. channel 6ae3d9782f1f5ed648175da4. Cocina o reconocimiento, no cura ni manual de daño.
+- wasabi / Eutrema japonicum. 46.03s. va_wasabi.mp4. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/va_wasabi.mp4
+- pareidolia (nubes). 47.15s. va_pareidolia.mp4. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/va_pareidolia.mp4
+Mejorana no se exportó: el único plano libre duraba ~37 s y era una mariposa poniendo huevos.

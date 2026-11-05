@@ -1214,3 +1214,22 @@ No se publicaron ceguera por inatencion ni efecto de dotacion: ya estaban en el 
 ### VALERIA — sin id. channel 6ae3d9782f1f5ed648175da4. Voz es-MX-DaliaNeural.
 - efecto de aislamiento / von Restorff 1933. 38.59s. 2026 Recuerdas la que iba en rojo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-arothron-20261105/va_restorff.mp4
 - sesgo del status quo / Samuelson y Zeckhauser 1988. 30.60s. 2026 No lo elegiste: ya estaba ahi #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-arothron-20261105/va_status.mp4
+
+
+## Lote 139 (2026-11-05) — MP4 en release, SIN id de Buffer
+Buffer: search_connected_tools no devolvió buffer___get_account ni buffer___create_post. La herramienta no está instalada en esta sesión. No es 429. No hay Retry-After. No hay id. No están publicados en YouTube.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote139-paraiso-rayador-20261105
+Tag Amazon michelgonza02-20. Stripe solo en Job 38: https://buy.stripe.com/28EbIV0l31xmdrj5Mf7bW0A
+isAiGenerated true. madeForKids false. categoryId 15 / 27 / 22.
+No se repiten damán, monstruo de Gila, pez globo, Amós 5, Salmo 117, Deuteronomio 6, Wegner, efecto umbral, von Restorff ni status quo.
+
+### IA AL ALCANCE — sin id. channel 6abb15f5ea19ca0bde1c22f5
+- ave del paraíso del rey de Sajonia / Pteridophora alberti; ave del paraíso de Raggi / Paradisaea raggiana; ave del paraíso menor / Paradisaea minor; ave del paraíso azul / Paradisaea rudolphi. 77.81s. QC 89/95 sin eliminatorias. Título: 2026 Esas plumas no son un pavo real #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-paraiso-rayador-20261105/ia_paraiso.mp4
+- rayador negro / Rynchops niger. 50.28s. Metraje libre de la especie insuficiente para el piso interno de 60s sin repetir plano. Título: 2026 Ese pico no cierra parejo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-paraiso-rayador-20261105/ia_rayador.mp4
+
+### Refugio en la Palabra — sin id. channel 6ab1ecc9ea19ca0bdeaf3f13
+- Job 38:4 RV1909. 66.94s. Voz Orion. Título: 2026 Job 38: ¿dónde estabas tú? #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-paraiso-rayador-20261105/fe_job38.mp4
+
+### VALERIA — sin id. channel 6ae3d9782f1f5ed648175da4
+- maldición del conocimiento (Camerer, Loewenstein y Weber 1989; Newton 1990). 38.76s. Título: 2026 Si ya lo sabes, dejas de explicarlo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-paraiso-rayador-20261105/va_saber.mp4
+- holgazanería social (Ringelmann 1913; Latané, Williams y Harkins 1979). 37.80s. Título: 2026 En grupo, cada uno jala menos #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote139-paraiso-rayador-20261105/va_cuerda.mp4

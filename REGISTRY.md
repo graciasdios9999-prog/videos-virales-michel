@@ -1197,3 +1197,20 @@ No hay largo >5 min: el B-roll único no cubre 300 s sin repetir plano.
 
 ### VALERIA
 - comparación social / Festinger 1954 (aviso, no manual). 60.46s. 2026 Se ríen a cámara y tú ya te pusiste nota #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote137-sendero-llama-vara-20261105/va_comparacion.mp4
+
+
+## Lote 138 (2026-11-05) — MP4 en release, SIN id de Buffer
+buffer___get_account no estaba instalado al inicio. buffer___create_post devolvio: access token could not be validated (WKE=unauthenticated:bad-credentials). No es 429. No hay Retry-After. No hay id. No estan publicados.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote138-arothron-20261105
+No se publicaron ceguera por inatencion ni efecto de dotacion: ya estaban en el registry. Tampoco gorila de Simons y Chabris.
+
+### IA AL ALCANCE — sin id. category 15. channel 6abb15f5ea19ca0bde1c22f5. QC 96. Voz Atlas.
+- pez globo de manchas blancas / Arothron hispidus. 72.36s. 2026 Si lo inflas en la arena, no vuelve #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-arothron-20261105/ia_pezglobo.mp4
+
+### Refugio en la Palabra — sin id. category 27. channel 6ab1ecc9ea19ca0bdeaf3f13. Voz Orion. RV1960.
+- Salmo 117 RV1960. 108.53s. 2026 Salmo 117: el capitulo que no cabe en un suspiro #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-arothron-20261105/fe_s117.mp4
+- Deuteronomio 6:4-5 RV1960. 69.48s. 2026 Deuteronomio 6: mas ancha que un domingo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-arothron-20261105/fe_dt6.mp4
+
+### VALERIA — sin id. channel 6ae3d9782f1f5ed648175da4. Voz es-MX-DaliaNeural.
+- efecto de aislamiento / von Restorff 1933. 38.59s. 2026 Recuerdas la que iba en rojo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-arothron-20261105/va_restorff.mp4
+- sesgo del status quo / Samuelson y Zeckhauser 1988. 30.60s. 2026 No lo elegiste: ya estaba ahi #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-arothron-20261105/va_status.mp4

@@ -1123,3 +1123,21 @@ Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/
 
 ### IA AL ALCANCE — no renderizado en este lote
 - chinchilla, águila real, rana toro, estrella de mar, abejorro: voz hecha, B-roll de la especie insuficiente o bloqueado. No se subió.
+
+
+## Lote 133 (2026-11-05) — MP4 en release, SIN id de Buffer
+buffer___get_account / buffer___create_post: herramienta no instalada en esta sesión. No es 429. No hay Retry-After. No hay id. No están publicados.
+Commons dio pocos planos nítidos de especie (luciérnaga de noche ilegible, tarántula de zoo diminuta, escorpión invisible). No se rellenó con foto fija. Los MP4 listos salieron de HyperFrames (vertical 9:16, gancho, subtítulos). El alargue de Refugio seguía en render al cerrar.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote133-20261105
+
+### IA AL ALCANCE — MP4, sin id. category 15. channel 6abb15f5ea19ca0bde1c22f5
+- luciérnaga / Lampyridae (trampa Photuris). 42.67s. 2026 Esa luz del bosque no quema #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote133-20261105/ia_luciernaga.mp4
+
+### Refugio en la Palabra — MP4 de 47.17s, sin id. RV1960 Amós 5:23-24. category 27. channel 6ab1ecc9ea19ca0bdeaf3f13
+- 2026 Amós 5: el río no espera tu agenda #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote133-20261105/fe_amos5.mp4
+- Revisión para alargar el mismo proyecto seguía en render. No hay segundo id.
+
+### En render al cerrar, no dar por publicados ni repetir el tema
+- tarántula de rodillas de fuego / Brachypelma boehmei. project 9e99ed59-9dde-432c-a176-7bf9343814b9
+- VALERIA conformidad de Asch 1951. project d47805af-c7ea-4c30-8cdd-03b1bebf9f3f. channel 6ae3d9782f1f5ed648175da4
+- VALERIA obediencia de Milgram 1963. project 99e21326-3b4a-4337-b718-700a9a5912e1

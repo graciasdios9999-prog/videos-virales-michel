@@ -1250,3 +1250,19 @@ En esta sesión no existían buffer___get_account, buffer___list_channels ni buf
 - avispa. 65.00s. 2026 Esa avispa no te caza: limpia la antena #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote138-leonmarino-babosa-oruga-avispa-20261105/ia_avispa.mp4
 
 Descartado: tejón melero (b-roll de miel, sin el animal). Sin largo >5 min: no había 300 s de plano único. Refugio y VALERIA sin MP4 en este lote.
+
+
+## Lote 140-pecari (2026-11-05) — release lote140-20261105. SIN id de Buffer.
+buffer___create_post (un intento, canal IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, mp4 del pecarí) devolvió: access token could not be validated (WKE=unauthenticated:bad-credentials). No es 429. No hay Retry-After. No hay id de post. No están publicados.
+search_connected_tools también devolvió el mismo error de token. No se reintentó en ráfaga.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote140-20261105
+Voz es-MX-DaliaNeural. Subtítulos amarillos palabra por palabra. Cortes ~2.3 s. B-roll Commons en movimiento. categoryId 15. madeForKids false. isAiGenerated true. Tag Amazon michelgonza02-20 en los .txt del release.
+No se repite monstruo de Gila ni damán (lote 136) ni cisne negro. No se suben muntjac (plano vacío y marca ajena), blackbuck (planos sin el animal) ni mangosta rayada (el guion nombra un huevo que el plano no muestra y el final queda vacío).
+No hay Refugio ni VALERIA en este release. No hay largo >5 min: el metraje único de cada especie no llega a 300 s sin repetir el mismo segundo.
+
+### IA AL ALCANCE — sin id. channel 6abb15f5ea19ca0bde1c22f5
+- pecarí de collar / Pecari tajacu. 54.92s. 2026 Eso no es un cerdo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-20261105/ia_pecari.mp4
+- gato de Pallas / manul / Otocolobus manul. 59.68s. 2026 Ese gato no está gordo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-20261105/ia_manul.mp4
+- gineta común / Genetta genetta. 50.80s. 2026 Ese gato no es un gato #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-20261105/ia_genetta.mp4
+- tití león dorado / Leontopithecus rosalia. 52.00s. 2026 Esa melena es una alarma #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-20261105/ia_tamarin.mp4
+- agutí centroamericano / Dasyprocta punctata. 52.44s. 2026 Esa rata no es una rata #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote140-20261105/ia_agouti.mp4

@@ -1131,3 +1131,21 @@ Commons sí devolvió 429 con Retry-After=600 en descargas. No se reintentó en 
 
 ### IA AL ALCANCE — MP4 listo, SIN id de Buffer
 - springbok / Antidorcas marsupialis. 46.43s. Título: 2026 Esa bandera blanca no es una rendición #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote133-20261105/ia_springbok.mp4
+
+
+## Lote 134 (2026-11-05) — MP4 en release, SIN id de Buffer
+buffer___get_account / buffer___create_post: herramienta no instalada (not found). No es 429. No hay id. No están publicados.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote134-20261105
+B-roll Wikimedia Commons (transcoded 360p), voz Leo/Atlas, subtítulos palabra por palabra, cortes ~2.3 s. Tag Amazon michelgonza02-20 solo en las descripciones del release.
+No hay Refugio ni VALERIA en este lote: Commons devolvió 429 al buscar planos de naturaleza/noche y no se rellenó con otra especie ni con video generado.
+No hay largos de más de 5 min: el metraje único de cada especie no llega a 300 s sin repetir el mismo segundo.
+
+### IA AL ALCANCE — sin id. category 15. channel 6abb15f5ea19ca0bde1c22f5
+- arrendajo euroasiático / Garrulus glandarius. 57.96s. 2026 Este arrendajo copió un gato y escondió el invierno #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_arrendajo.mp4
+- corzo / Capreolus capreolus. 51.89s. 2026 El corzo pausó el embarazo hasta la primavera #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_corzo.mp4
+- garceta común / Egretta garzetta. 57.65s. 2026 La garceta pesca con el pie amarillo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_garceta.mp4
+- águila pescadora / Pandion haliaetus. 50.93s. No es águila real. 2026 El águila pescadora cierra la nariz al caer #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_pescadora.mp4
+- cernícalo común / Falco tinnunculus. 51.89s. 2026 El cernícalo ve el rastro que tú no ves #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_cernicalo.mp4
+- liebre europea / Lepus europaeus. 55.73s. No es conejo. 2026 Esa liebre no es un conejo #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_liebre.mp4
+- cigüeñuela común / Himantopus himantopus. 47.40s. 2026 La cigüeñuela parece un error de escala #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_ciguenuela.mp4
+- ibis sagrado / Threskiornis aethiopicus. 43.79s. 2026 El ibis sagrado lee el lodo con el pico #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote134-20261105/ia_ibis.mp4

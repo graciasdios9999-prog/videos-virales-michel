@@ -1508,3 +1508,28 @@ Tema original: quien busca a Dios no se queda vacío; gracias a Jesucristo y a J
 00:02:42 aprox. Voz es-CO-GonzaloNeural. Título: 2026 Tu voz tiene un freno oculto
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote154-20261106/cuerpo_final.mp4
 Tema: músculo estapedio, bazo, salvia, tomillo, hinojo, canela, albahaca. No es consejo médico.
+
+## lote154-shorts (2026-11-06) — 32 piezas individuales. SIN id de Buffer
+
+Release real de estos MP4: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote154-shorts-20261106
+No es el release `lote154-20261106` (ese tiene solo ia_final, fe_final y cuerpo_final).
+Buffer `create_post`: WKE=unauthenticated:bad-credentials. Cero ids. No publicados.
+
+### Especies IA (no reutilizar)
+- Rhincodon typus — tiburón ballena
+- Trichechus manatus — manatí antillano
+- Anodorhynchus hyacinthinus — guacamayo jacinto
+- Macrocheira kaempferi — cangrejo araña japonés
+- Coracias garrulus — carraca europea
+- Probosciger aterrimus — cacatúa de las palmas
+- Trichoglossus moluccanus — lori arcoíris
+- Cariama cristata — seriema (ya listada también en el documental lote154; el short existe pero es repetición de especie)
+- Cochlearius cochlearius — garza pico de bote
+- Ptiloris — ave del paraíso rifle
+
+### Pasajes Refugio (no reutilizar)
+1 Corintios 15, Filemón, 2 Juan, 3 Juan, Judas, Salmo 85, Salmo 102, Colosenses 1, Hebreos 10, Juan 21, 2 Samuel 22.
+
+### Temas Anatomía del Engaño (no reutilizar)
+mano de goma Botvinick y Cohen 1998; Thatcher Thompson 1980; McGurk 1976; profundidad explicativa Rozenblit y Keil 2002; holgazanería social Latané 1979; víctima identificable Small 2007; falacia de conjunción Tversky y Kahneman 1983; efecto porrista Walker y Vul 2014; sesgo de impacto Wilson y Gilbert; pratfall Aronson 1966; enmascaramiento sacádico.
+

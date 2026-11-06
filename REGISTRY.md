@@ -1457,3 +1457,32 @@ Tema original: silencio, estrellas, montañas, aurora, ovejas (Ezequiel 34 paraf
 ### No publicados
 - Anatomía del Engaño (6aed1047e29c69a171780e87): canal desconectado.
 - Instagram: no hay canal de Instagram en la organización My organization.
+
+## Lote 153 (2026-11-06) — 15 Shorts 60-90s. SIN id de Buffer
+
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote153-20261106
+URLs directas .mp4 (302 a release-assets, descarga attachment). NO son visores de Google Drive.
+Buffer: search/create_post devolvieron WKE=unauthenticated:bad-credentials. No es 429. create_post no devolvió id. No están publicados. Cola scheduled/draft no releída en este intento (conector caído). Cero borrados inventados. TikTok no conectado. Facebook Patria no usado.
+Payload listo: estado/lote153-posts.json
+Voz: es-MX-JorgeNeural animales, Orion Refugio, es-MX-DaliaNeural psicología. Sin atempo. Cortes 1.08-1.55 s. 1080x1920.
+
+### IA AL ALCANCE — sin id. category 15. channel 6abb15f5ea19ca0bde1c22f5
+- pulpo 86.04s. El pulpo no se pinta: se reescribe #Shorts
+- búho 79.42s. Ese búho caza sin hacer ruido #Shorts
+- tortuga marina 81.00s. Esa tortuga vuelve a una playa que no ve #Shorts
+- camaleón 79.10s. Ese camaleón no copia la pared #Shorts
+- zorro rojo 86.46s. Ese zorro no salta al azar #Shorts
+
+### Refugio en la Palabra — sin id. category 27. channel 6ab1ecc9ea19ca0bdeaf3f13. RVR1960. Voz Orion. Stripe solo aquí.
+- Salmo 46:1 63.10s
+- Juan 14:27 62.14s
+- Salmo 27:1 61.80s
+- Romanos 15:13 61.57s
+- Hebreos 4:16 69.20s
+
+### Psicología — sin id. category 22. channel Anatomía del Engaño 6aed1047e29c69a171780e87 (desconectado en la org; Valeria histórica no está en la lista). Voz Dalia. Aviso, no manual.
+- confirmación Wason 1960 83.40s
+- disonancia Festinger 1957 82.00s
+- anclaje Tversky/Kahneman 1974 83.30s
+- mera exposición Zajonc 1968 84.26s
+- reactancia Brehm 1966 75.03s

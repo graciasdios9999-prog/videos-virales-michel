@@ -1486,3 +1486,25 @@ Voz: es-MX-JorgeNeural animales, Orion Refugio, es-MX-DaliaNeural psicología. S
 - anclaje Tversky/Kahneman 1974 83.30s
 - mera exposición Zajonc 1968 84.26s
 - reactancia Brehm 1966 75.03s
+
+
+## Lote 154 (2026-11-06) — documentales. SIN id de Buffer
+
+Buffer: buffer___create_post y buffer___get_account devolvieron access token could not be validated (WKE=unauthenticated:bad-credentials). No es 429. No hay Retry-After. No se creó post. No hay id. No están publicados.
+
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote154-20261106
+
+### IA AL ALCANCE — sin id. category 15. channel 6abb15f5ea19ca0bde1c22f5. Voz es-CO-SalomeNeural. 01:07:31. 720x1280.
+Título: 2026 Inteligencia que no cabe en la cabeza
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote154-20261106/ia_final.mp4
+Especies nuevas: pergolero satinado / Ptilonorhynchus violaceus, momoto / Momotus lessonii, seriema de patas rojas / Cariama cristata, zopilote rey / Sarcoramphus papa, gusano árbol de navidad / Spirobranchus giganteus, polilla atlas / Attacus atlas, garza del sol / Eurypyga helias, nutria gigante / Pteronura brasiliensis, cerdo hormiguero / aardvark / Orycteropus afer, almeja gigante / Tridacna gigas, águila arpía / Harpia harpyja.
+
+### Refugio en la Palabra — sin id. category 27. channel 6ab1ecc9ea19ca0bdeaf3f13. Voz es-MX-DaliaNeural (JorgeNeural no devolvió audio). 00:25:22. 1280x720.
+Título: 2026 Quien busca no vuelve vacío
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote154-20261106/fe_final.mp4
+Tema original: quien busca a Dios no se queda vacío; gracias a Jesucristo y a Jehová; senda, monte, agua, pan, olivo, vid, higuera, noche. Citas solo parafraseadas. No es audiolibro.
+
+### Cuerpo — sin id. No hay canal de Instagram. Anatomía del Engaño existe pero Buffer perdió el token antes de publicar.
+00:02:42 aprox. Voz es-CO-GonzaloNeural. Título: 2026 Tu voz tiene un freno oculto
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote154-20261106/cuerpo_final.mp4
+Tema: músculo estapedio, bazo, salvia, tomillo, hinojo, canela, albahaca. No es consejo médico.

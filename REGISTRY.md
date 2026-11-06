@@ -1434,3 +1434,26 @@ Largos de más de 5 minutos: no se renderizaron. No había B-roll único suficie
 - Sparrow 2011, efecto Google. 39.53s. 2026 Guardaste el enlace y soltaste la idea #Shorts. https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote145-20261105/va_sparrow.mp4
 
 Descartados, sin MP4 final de duración válida: alondra, petauro, grillo, ruiseñor, comadreja, curva de Ebbinghaus, punta de la lengua. B-roll real insuficiente o especie mezclada. No hay post.
+
+## Lote 152 (2026-11-06) — documentales verticales. SIN id de Buffer
+
+Buffer: buffer___create_post y buffer___get_account devolvieron access token could not be validated (WKE=unauthenticated:bad-credentials). No es 429. No hay Retry-After. No se creó post. No hay id. No están publicados.
+
+Wikimedia Commons respondió 429 con Retry-After=600 durante la descarga de B-roll. Se esperó una vez. El reintento de descarga siguió en 429 y se detuvo Commons. No se rellenó con bucles. Duración = B-roll único, no 90 minutos.
+
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote152-20261106
+
+### IA AL ALCANCE — sin id. category 15. channel 6abb15f5ea19ca0bde1c22f5. Voz es-CO-SalomeNeural. 393.98s. 1080x1920.
+Título: 2026 ¿Cómo caza un gigante donde no hay luz?
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote152-20261106/ia_final.mp4
+Especies nuevas: cachalote / Physeter, pez espada / Xiphias gladius, tortuga laúd / Dermochelys coriacea, esturión / Acipenser, piraña / Pygocentrus, fénec / Vulpes zerda, oso de anteojos / Tremarctos ornatus, markhor / Capra falconeri, vicuña / Vicugna vicugna, bongo / Tragelaphus eurycerus, indri / Indri indri, kinkajú / Potos flavus, jabirú / Jabiru mycteria, numbat / Myrmecobius fasciatus, bilby / Macrotis lagotis, atún rojo / Thunnus thynnus.
+Descartado por B-roll insuficiente: uakari.
+
+### Refugio en la Palabra — sin id. category 27. channel 6ab1ecc9ea19ca0bdeaf3f13. Voz es-MX-JorgeNeural. 163.03s.
+Título: 2026 ¿Y si el silencio de Dios no fuera ausencia?
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote152-20261106/fe_final.mp4
+Tema original: silencio, estrellas, montañas, aurora, ovejas (Ezequiel 34 parafraseado), río, trigo, olivo, flores del huerto y el nombre de María, orilla del mar, promesa de que quien busca a Dios no se queda vacío. Gracias a Jesucristo y a Jehová. No es audiolibro.
+
+### No publicados
+- Anatomía del Engaño (6aed1047e29c69a171780e87): canal desconectado.
+- Instagram: no hay canal de Instagram en la organización My organization.

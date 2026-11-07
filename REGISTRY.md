@@ -1625,3 +1625,30 @@ Tag Amazon michelgonza02-20 en la descripción. Voz Dalia (animales) y Salomé (
 - charrán inca / Larosterna inca (clip de 23s, no publicado)
 - berrendo / Antilocapra americana (clip de 12s, no publicado)
 - mariposa cristal / Greta oto (clip de 16s, no publicado)
+
+
+## Lote 165 (2026-11-07) — 15 shorts MP4 en release, SIN id de Buffer
+Buffer: search_connected_tools y un reintento de buffer___create_post (ia_gibon, shareNow) devolvieron The access token could not be validated. [WKE=unauthenticated:bad-credentials]. No es 429. No hay Retry-After. No se enviaron los otros 14 para no martillar. No hay id de post. No están publicados. Drive (search_connected_tools) cayó con el mismo token: no se subió a "publicar manual videos". No Cuba. Instagram no se usa.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote165-20261107
+Voz: es-MX-JorgeNeural (animales), es-US-AlonsoNeural (Refugio, sin créditos Orion), es-MX-DaliaNeural (Anatomía del Engaño). 1080x1920, 60-90s, category 15 / 27 / 22, madeForKids false, isAiGenerated true. Tag michelgonza02-20. Stripe solo en Refugio. No repetir estos temas.
+
+### IA AL ALCANCE — sin id. 6abb15f5ea19ca0bde1c22f5
+- gibón / braquiación y dúo — ia_gibon.mp4 63.8s — El primate que canta en pareja y vuela entre ramas
+- hurón de patas negras / Mustela nigripes — ia_huron.mp4 72.5s — El hurón de patas negras que volvió de la extinción
+- cuco común / Cuculus canorus — ia_cuco.mp4 64.7s — El cuco deja su huevo en un nido que no es suyo
+- pecarí de collar — ia_pecari.mp4 65.6s — Parece un cerdo y no lo es: el pecarí de collar
+- tarántula / pelos urticantes — ia_tarantula.mp4 69.6s — La tarántula se defiende con pelos, no con una película
+
+### Refugio en la Palabra — sin id. 6ab1ecc9ea19ca0bdeaf3f13
+- Filipenses 3:13-14 RVR1960 — fe_filipenses3.mp4 62.2s — Olvidar lo de atrás también es seguir a la meta
+- Marcos 9:23-24 RVR1960 — fe_marcos9.mp4 67.3s — Creo, ayuda mi incredulidad: una oración honesta
+- Romanos 10:13 RVR1960 — fe_romanos10.mp4 66.5s — Todo aquel que invocare el nombre del Señor
+- 1 Pedro 2:9 RVR1960 — fe_pedro2.mp4 62.8s — De las tinieblas a su luz admirable
+- 2 Timoteo 2:13 RVR1960 — fe_timoteo2.mp4 61.8s — Si fuéremos infieles, él permanece fiel
+
+### Anatomía del Engaño — sin id. 6aed1047e29c69a171780e87
+- ghosting — va_ghosting.mp4 65.2s — El ghosting: el silencio que no es paz
+- fawn / complacer — va_fawn.mp4 64.6s — Cuando agradar te apaga: la respuesta de complacer
+- portazo en la cara / door-in-the-face — va_portazo.mp4 64.5s — El portazo en la cara: la petición enorme era el anzuelo
+- baja bola / low-ball — va_bajabola.mp4 62.3s — La baja bola: el trato cambia cuando ya dijiste que sí
+- compromiso y coherencia — va_coherencia.mp4 62.3s — Defiendes el sí solo porque ya lo dijiste en voz alta

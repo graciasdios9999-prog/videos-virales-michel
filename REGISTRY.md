@@ -1583,3 +1583,28 @@ Tema: Isaías 6, paráfrasis y cita corta de dominio público «Heme aquí, env�
 Título: 2026 Explicaste perfecto y no te entendieron
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote161-20261107/va_conocimiento.mp4
 Tema: maldición del conocimiento, Elizabeth Newton 1990 (tapping). No es manual de manipulación. No repetir.
+
+
+## Lote 159 (2026-11-07) — MP4 en release lote159-20261107, SIN id de Buffer
+
+Buffer: bad-credentials. No publicado.
+
+Animales (no repetir):
+- hamerkop / Scopus umbretta
+- perro mapache / tanuki / Nyctereutes procyonoides
+- cacomixtle / Bassariscus astutus
+- tragopan de Temminck / Tragopan temminckii
+- lamprea marina / Petromyzon marinus
+- gibón de manos blancas / Hylobates lar
+- marsopa común / Phocoena phocoena
+- pez rana / Antennarius
+- berrendo / pronghorn / Antilocapra americana
+- pulpo mimo / Thaumoctopus mimicus
+
+Cuerpo y sesgo, canal Refugio (no repetir):
+- parrilla térmica / Thunberg
+- puente de Capilano / Dutton y Aron
+- ilusión de Aristóteles
+- delirio de Capgras
+- miembro fantasma / Ramachandran
+- máscara hueca

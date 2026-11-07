@@ -1533,3 +1533,25 @@ Buffer `create_post`: WKE=unauthenticated:bad-credentials. Cero ids. No publicad
 ### Temas Anatomía del Engaño (no reutilizar)
 mano de goma Botvinick y Cohen 1998; Thatcher Thompson 1980; McGurk 1976; profundidad explicativa Rozenblit y Keil 2002; holgazanería social Latané 1979; víctima identificable Small 2007; falacia de conjunción Tversky y Kahneman 1983; efecto porrista Walker y Vul 2014; sesgo de impacto Wilson y Gilbert; pratfall Aronson 1966; enmascaramiento sacádico.
 
+
+## Lote 2026-11-06 noche — RENDERIZADO, NO PUBLICADO
+Buffer devolvió unauthenticated bad-credentials al llamar create_post. Sin id. No marcar como publicado.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote20261106-noche
+- cisne negro / Cygnus atratus — ia_swan.mp4 34.94s
+- pingüino rey / Aptenodytes patagonicus — ia_king.mp4 33.91s
+- bisonte europeo / Bison bonasus — ia_bison.mp4 38.11s
+- cigüeña negra / Ciconia nigra — ia_stork.mp4 30.53s
+- pingüino papúa / Pygoscelis papua — ia_gentoo.mp4 32.23s
+- ibis eremita / Geronticus eremita — ia_ibis.mp4 33.50s
+- borrego cimarrón / Ovis canadensis — ia_bighorn.mp4 33.12s
+- Job 42 — fe_job.mp4 32.06s
+- Cantares — fe_cantares.mp4 30.86s
+- Isaías 25 — fe_isaias.mp4 30.74s
+- Jeremías 31 — fe_jeremias.mp4 30.22s
+- 1 Tesalonicenses 4 — fe_tes.mp4 31.42s
+- 1 Timoteo 1 — fe_timoteo.mp4 30.12s
+- Hebreos 6 — fe_hebreos.mp4 32.71s
+- manos frías / vasoconstricción — va_manos.mp4 31.68s
+- rechazo social / Eisenberger 2003 — va_rechazo.mp4 34.73s
+- atención estrecha / Easterbrook 1959 — va_lluvia.mp4 31.51s
+Descartados antes de subir: bonobo (fondo negro), cortisol (B-roll corto), kea y Magallanes (pocos planos HD).

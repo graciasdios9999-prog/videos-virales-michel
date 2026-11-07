@@ -1652,3 +1652,35 @@ Voz: es-MX-JorgeNeural (animales), es-US-AlonsoNeural (Refugio, sin créditos Or
 - portazo en la cara / door-in-the-face — va_portazo.mp4 64.5s — El portazo en la cara: la petición enorme era el anzuelo
 - baja bola / low-ball — va_bajabola.mp4 62.3s — La baja bola: el trato cambia cuando ya dijiste que sí
 - compromiso y coherencia — va_coherencia.mp4 62.3s — Defiendes el sí solo porque ya lo dijiste en voz alta
+
+
+## Lote 166 (2026-11-07) — MP4 en release, SIN id de Buffer
+Un solo buffer___create_post (IA, shareNow) devolvió: The access token could not be validated. [WKE=unauthenticated:bad-credentials]. No es 429. No hubo Retry-After. No se reintentó en ráfaga ni se envió Refugio. Antes, list_channels dejó el cupo 30 días en 0/3000, resetSeconds 1156726 (aprox. 13d 9h, hacia el 2026-11-21 02:00 UTC). No hay id de post. No están publicados.
+Instagram no está conectado. Anatomía del Engaño sí existe (YouTube 6aed1047e29c69a171780e87) pero este encargo de cuerpo/remedios era para Instagram: no se mezcló ese nicho ahí.
+No se infló a 90 minutos: repetir planos o rellenar silencio violaría el registro. Duración = voz única + B-roll único.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote166-20261107
+Tag Amazon real ya usado en la memoria: michelgonza02-20. Voz Dalia (IA) y Jorge (Refugio). IA 9:16 720x1280. Refugio 16:9 1280x720. isAiGenerated true. madeForKids false. category 15 y 27 previstas.
+
+### IA AL ALCANCE — sin id. 6abb15f5ea19ca0bde1c22f5
+- documental multi-especie 15:21 — ia_monte_otro.mp4 — 2026 Ellos ven lo que el zoológico no nombra
+- gato pescador / Prionailurus viverrinus
+- gato de las arenas / Felis margarita
+- margay / Leopardus wiedii
+- yaguarundí / Herpailurus yagouaroundi
+- tamandúa / Tamandua
+- potoroo de nariz larga / Potorous tridactylus
+- quoll oriental / Dasyurus viverrinus
+- argalí / Ovis ammon
+- dik-dik / Madoqua
+- onicóforo / Onychophora
+- vizcacha de las llanuras / Lagostomus maximus
+- mara patagónica / Dolichotis patagonum
+- martinete común / Nycticorax nycticorax
+- caracara crestado / Caracara plancus
+- cuscús manchado / Spilocuscus maculatus
+- saltarrocas / Oreotragus oreotragus
+- huemul / Hippocamelus bisulcus
+
+### Refugio en la Palabra — sin id. 6ab1ecc9ea19ca0bdeaf3f13
+- película de oración 11:45 — fe_no_vacio.mp4 — 2026 Quien busca no vuelve vacío
+- paráfrasis, no capítulo copiado: Naamán (2 Reyes 5), aceite de la viuda (2 Reyes 4), Gedeón (Jueces 7), Josafat (2 Crónicas 20), naufragio (Hechos 27), Lidia, Cornelio, huesos secos (Ezequiel 37), provisión en el monte (Génesis 22), trono (Apocalipsis 4)

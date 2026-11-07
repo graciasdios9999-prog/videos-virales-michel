@@ -1601,3 +1601,27 @@ Especies, no repetir: Anableps anableps; Myrmecocystus hormiga mielera; Furnariu
 Título: 2026 El barro que todavía gira no está perdido
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote162-20261107/fe_alfarero_20261107.mp4
 Tema, no repetir: Jeremías 18 alfarero RV1909; Éxodo 3 zarza yo soy; Lucas 24 Emaús; Marcos 2 techo abierto; Juan 9 y Juan 20 paz a vosotros; Isaías 11 vara de Isaí; Salmo 128; Santiago 5 labrador; Mateo 13 tesoro en el campo; Esdras cimiento; Efesios 6 permanecer; Hechos 2 promesa para los de lejos.
+
+## Lote 164 (2026-11-07) — MP4 en release, SIN id de Buffer
+Buffer create_post y un get_account de control devolvieron: The access token could not be validated. [WKE=unauthenticated:bad-credentials]. No es 429. No hay id de post. No están publicados. No simular.
+Antes, en la misma sesión, get_account y list_channels sí respondieron (org My organization 6ab1dd0b88b55d24ffd171d7). Canales: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87 (YouTube; posts recientes en error: autorización perdida). Start Page michel bloqueada. Plan free: scheduledPosts 10. API 30 días ya casi agotada.
+No se hizo documental de más de 1 hora: Wikimedia devolvió 429 y un bucle de relleno violaría la regla de no repetir planos ni inflar duración. No hay post largo.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote164-20261107
+Tag Amazon michelgonza02-20 en la descripción. Voz Dalia (animales) y Salomé (comportamiento). 9:16. Subtítulos quemados. Gancho al inicio y última frase que vuelve a la primera palabra.
+
+### IA AL ALCANCE — sin id. category 15 prevista. 720x1280.
+- rayador negro / Rynchops niger — ia_rayador.mp4 50.93s — 2026 Ese pico parte el agua sin salpicar
+- escarabajo hércules del este / Dynastes tityus — ia_hercules.mp4 47.71s — 2026 Ese cuerno no muerde: apalanca
+- luciérnaga / Lampyridae — ia_luciernaga.mp4 47.07s — 2026 Esa luz no alumbra: pregunta
+
+### Refugio en la Palabra — sin id. category 27 prevista. Comportamiento, no versículo. No es manual de manipulación.
+- vibración fantasma — va_fantasma.mp4 47.98s — 2026 Ese zumbido no sonó en el bolsillo
+- paradoja de la elección / Schwartz — va_eleccion.mp4 45.00s — 2026 Ese pasillo no te ayuda: te agota
+- gusano auditivo — va_gusano.mp4 46.64s — 2026 Esa canción no pidió permiso
+- mito de la multitarea — va_multitarea.mp4 45.41s — 2026 Ese segundo no hiciste dos cosas
+- propiocepción — va_propio.mp4 53.50s — 2026 Ese equilibrio no lo ves: lo mides
+
+### No repetir tampoco (descargados y descartados por metraje corto o 429 antes de cerrar 45s)
+- charrán inca / Larosterna inca (clip de 23s, no publicado)
+- berrendo / Antilocapra americana (clip de 12s, no publicado)
+- mariposa cristal / Greta oto (clip de 16s, no publicado)

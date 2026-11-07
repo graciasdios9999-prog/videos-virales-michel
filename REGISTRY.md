@@ -1608,3 +1608,49 @@ Cuerpo y sesgo, canal Refugio (no repetir):
 - delirio de Capgras
 - miembro fantasma / Ramachandran
 - máscara hueca
+
+
+## Lote 162 shorts (2026-11-07) — MP4 PUBLICOS, SIN id de Buffer
+
+Buffer: search_connected_tools y el conector devolvieron `The access token could not be validated. [WKE=unauthenticated:bad-credentials]` tres veces en este turno. No es 429. No hay Retry-After. No se llamó create_post con éxito. Cero ids. No están publicados. No hay canal de Instagram. Anatomía del Engaño no se pudo probar porque el token del conector no valida. Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote162-shorts-20261107
+URL patrón: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote162-shorts-20261107/ARCHIVO.mp4
+Voz solo narrador. 1080x1920. 30-45s. Tag michelgonza02-20. isAiGenerated pensado en true. madeForKids false. No se publicaron largos de lote-largo: el token no valida y no hay guion verificable en este turno.
+
+### IA AL ALCANCE — sin id. category 15. Voz es-MX-DaliaNeural. Canal 6abb15f5ea19ca0bde1c22f5
+- capuchino / Sapajus-Cebus herramientas de piedra — ia01_capuchino.mp4 39.36s — 2026 Esa piedra no es un juguete #Shorts
+- ballena gris / Eschrichtius alimentación de lado — ia03_gris.mp4 34.61s — 2026 Esa ballena no come de frente #Shorts
+- mangosta enana centinela — ia04_mangosta.mp4 34.44s — 2026 Ese vigía no come mientras mira #Shorts
+- pika americana / Ochotona, no hiberna — ia05_pika.mp4 32.14s — 2026 Esa hierba no es un nido #Shorts
+- pez loro / Scarus, arena de carbonato — ia08_loro.mp4 31.94s — 2026 Esa arena no nació en un río #Shorts. No es el ave loro ya usada.
+- ofiura / Ophiuroidea, no es estrella de mar — ia09_ofiura.mp4 31.08s — 2026 Esa estrella no es estrella de mar #Shorts
+- lombriz / Lumbricus, cinco pares de arcos aórticos — ia13_lombriz.mp4 30.48s — 2026 Esa lombriz no tiene un solo corazón #Shorts
+- pez cofre / Ostracion — ia14_cofre.mp4 31.15s — 2026 Ese pez cofre no nada como pez #Shorts
+DUPLICADOS DE REGISTRO, no reutilizar y no contar como tema nuevo:
+- gibón / Hylobates lar — ia02_gibon.mp4 33.48s (ya en lote159)
+- lamprea / Petromyzon — ia12_lamprea.mp4 30.67s (ya en lote159)
+
+### Refugio en la Palabra — sin id. category 27. Voz es-MX-JorgeNeural. Canal 6ab1ecc9ea19ca0bdeaf3f13
+- Marcos 9 — fe01_marcos9.mp4 37.99s — 2026 Marcos 9: lo imposible no manda #Shorts
+- 2 Crónicas 16:9 — fe02_cronicas.mp4 34.75s — 2026 2 Crónicas 16: hay ojos que fortalecen #Shorts
+- Hechos 4 — fe03_hechos4.mp4 32.42s — 2026 Hechos 4: el nombre no es adorno #Shorts
+- Efesios 6 — fe04_efesios6.mp4 34.80s — 2026 Efesios 6: la fuerza no es ruido #Shorts
+- Colosenses 2 — fe05_colosenses.mp4 34.42s — 2026 Colosenses 2: la raíz no es moda #Shorts
+- Salmo 111 — fe06_salmo111.mp4 32.88s — 2026 Salmo 111: las obras no se olvidan #Shorts
+- Salmo 128 — fe07_salmo128.mp4 32.30s — 2026 Salmo 128: la mesa no es cárcel #Shorts
+- Proverbios 4:18 — fe08_proverbios4.mp4 33.48s — 2026 Proverbios 4: el camino amanece #Shorts
+DUPLICADOS DE REGISTRO, no reutilizar:
+- Nehemías 8:10 — fe09_nehemias.mp4 33.60s (ya listado)
+- Éxodo 14:14 — fe10_exodo14.mp4 34.34s (ya listado)
+
+### Anatomía del Engaño — sin id. category 27. Voz es-CO-SalomeNeural. Canal 6aed1047e29c69a171780e87
+- Müller-Lyer 1889 — ps02_flechas.mp4 35.47s — 2026 Esas flechas no miden igual #Shorts
+- Yerkes-Dodson 1908 — ps03_yerkes.mp4 36.00s — 2026 Más nervio no es más acierto #Shorts
+- verdad por defecto Levine 2014 — ps04_levine.mp4 34.68s — 2026 Tu mente cree primero #Shorts
+- reflejo en la córnea Jenkins y Kerr 2013 — ps05_rostro.mp4 37.46s — 2026 Tu ojo guardó una cara #Shorts
+- efecto marco Tversky y Kahneman 1981 — ps06_marco.mp4 33.94s — 2026 El mismo número cambia de traje #Shorts
+- mano caliente Gilovich 1985 y Miller 2018 — ps08_racha.mp4 37.20s — 2026 La racha no es un destino #Shorts
+- nocebo Colloca y Benedetti — ps09_nocebo.mp4 34.56s — 2026 La expectativa también pesa en el cuerpo #Shorts
+- gradiente de meta Kivetz, Urminsky y Zheng 2006 — ps10_meta.mp4 35.71s — 2026 Cerca de la meta aprietas el paso #Shorts
+DUPLICADOS DE REGISTRO, no reutilizar:
+- puente Dutton y Aron 1974 — ps01_puente.mp4 38.98s (ya en lote159)
+- ilusión de control Langer 1975 — ps07_dado.mp4 36.43s (ya listada)

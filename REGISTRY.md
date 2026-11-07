@@ -1563,3 +1563,23 @@ Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/
 - ia_doc_20261107.mp4 41:07 vertical — caracol de pie escamoso / Chrysomallon squamiferum; solenodonte de La Española / Solenodon paradoxus; saola / Pseudoryx nghetinhensis; addax / Addax nasomaculatus; caballo de Przewalski / Equus przewalskii; dragón marino foliado / Phyllopteryx taeniolatus; tiburón de volantes / Chlamydoselachus anguineus; tiburón boquiancho / Megachasma pelagios; medusa Turritopsis dohrnii; pulpo dumbo / Grimpoteuthis; pulpo de anillos azules / Hapalochlaena; zifio de Cuvier / Ziphius cavirostris; foca leopardo / Hydrurga leptonyx; tiburón cigarro / Isistius brasiliensis; tiburón peregrino / Cetorhinus maximus; pez espátula / Polyodon spathula; mixino / Myxine; cerdo de mar / Scotoplanes; argonauta / Argonauta argo; cesta de Venus / Euplectella aspergillum; lobo de tierra / Proteles cristata; zorro orejudo / Otocyon megalotis; canguro arborícola / Dendrolagus; armadillo gigante / Priodontes maximus; águila monera / Pithecophaga jefferyi; cálao de yelmo / Rhinoplax vigil; mantis orquídea / Hymenopus coronatus; araña ogro / Deinopis; insecto hoja / Phyllium; serpiente que planea / Chrysopelea; serpiente de tentáculos / Erpeton tentaculatum; cobra real / Ophiophagus hannah; comedora de huevos / Dasypeltis; anaconda verde / Eunectes murinus; salamandra gigante china / Andrias davidianus; hellbender / Cryptobranchus alleganiensis; rana púrpura / Nasikabatrachus sahyadrensis; ranita de Darwin / Rhinoderma darwinii; tortuga nariz de cerdo / Carettochelys insculpta; falso gavial / Tomistoma schlegelii; calamar gigante / Architeuthis; treparriscos / Tichodroma muraria; avutarda kori / Ardeotis kori
 - fe_doc_20261107.mp4 13:04 — paráfrasis (no reutilizar): Habacuc higuera sin fruto; Génesis 28 piedra y presencia; Éxodo presencia y descanso; Juan 17 conocer es vida; Marcos 5 tu fe ve en paz; Daniel paz y esfuérzate; 1 Juan 3 hijos; 2 Tesalonicenses fiel es el Señor; Apocalipsis 7 enjuga lágrimas; 2 Pedro lo necesario para la vida
 - cu_piel_20261107.mp4 02:46 — reflejo pilomotor / piel de gallina; especias canela cúrcuma jengibre clavo comino (sin claim médico). No hay canal Instagram.
+
+## Lote 161 (2026-11-07) — MP4 en release, SIN id de Buffer
+Buffer get_account y create_post devolvieron: The access token could not be validated. [WKE=unauthenticated:bad-credentials]. Un reintento de get_account tras 25s repitió el mismo error. No es 429. No hay Retry-After. No hay id de post. No están publicados. Instagram no está en list_channels de My organization (6ab1dd0b88b55d24ffd171d7). Canales vistos antes de caer el token: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87 (YouTube; el post previo de cocktail party estaba en error por autorización perdida). No se inventó id.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote161-20261107
+Tag Amazon michelgonza02-20 confirmado en posts anteriores. No Cuba.
+
+### IA AL ALCANCE — sin id. category 15. Voz es-MX-DaliaNeural. 177.41s. 1080x1920.
+Título: 2026 Ese junco acaba de parpadear
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote161-20261107/ia_avetoro.mp4
+Especie: avetoro / Botaurus stellaris y Botaurus lentiginosus. No repetir.
+
+### Refugio en la Palabra — sin id. category 27. Voz es-MX-JorgeNeural. 177.50s.
+Título: 2026 Te llamaron el día en que no te sentías listo
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote161-20261107/fe_isaias6.mp4
+Tema: Isaías 6, paráfrasis y cita corta de dominio público «Heme aquí, envíame a mí». No repetir.
+
+### Anatomía del Engaño — sin id. category 22. Voz es-CO-SalomeNeural. 159.77s.
+Título: 2026 Explicaste perfecto y no te entendieron
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote161-20261107/va_conocimiento.mp4
+Tema: maldición del conocimiento, Elizabeth Newton 1990 (tapping). No es manual de manipulación. No repetir.

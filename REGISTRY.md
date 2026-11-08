@@ -1709,3 +1709,52 @@ Tema, no repetir: Isaías 35 RV1909, desierto que florece, corazón apocado. Par
 Título: 2026 Esa mostaza no es un sabor
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote167-20261108/cu_mostaza.mp4
 Tema, no repetir: mostaza (sinigrina / isotiocianato), barrera de moco y bicarbonato del estómago. No es consejo médico. No Cuba.
+
+
+## Lote 168 (2026-11-08) — MP4 en release, SIN id de Buffer
+buffer___get_account devolvió HTTP 429. Retry-After: 1119694 segundos. No se reintentó. No hay id de post. No están publicados.
+No llamar a Buffer antes de 2026-11-21T02:31:41Z (aprox. 2026-11-20 20:31 America/Chicago).
+Organización previa, no reconsultada: 6ab1dd0b88b55d24ffd171d7.
+Canales previos (list_channels no se repitió por el 429): IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Instagram no conectado.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote168-20261108
+30 Shorts 1080x1920, 30-45 s, voz sola (sin música ni SFX), edge-tts. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20. No se hicieron largos de 60-90 min: no hay B-roll único para llenarlos sin repetir planos.
+Drive: el conector respondió access token could not be validated. Entrega por release.
+
+### IA AL ALCANCE — sin id. category 15. Voz es-MX-DaliaNeural.
+No repetir estas especies:
+- serpiente de cascabel / Crotalus — ia_cascabel.mp4 34.99s — 2026 Ese cascabel es piel apilada
+- ciervo rojo / Cervus elaphus — ia_ciervo.mp4 37.39s — 2026 Ese hueso crece y lo tira
+- escarabajo pelotero / Scarabaeus satyrus — ia_pelotero.mp4 35.98s — 2026 Ese escarabajo usa la galaxia
+- foca gris / Halichoerus grypus — ia_foca.mp4 35.26s — 2026 Esa foca tiene perfil de romano
+- zapatero / Gerridae — ia_zapatero.mp4 36.41s — 2026 Ese insecto camina sobre el agua
+- hámster enano / Phodopus — ia_hamster.mp4 35.30s — 2026 Esos abazones llegan al hombro
+- burro / Equus africanus asinus — ia_burro.mp4 37.61s — 2026 Ese rebuzno no es un caballo
+- abejorro carpintero / Xylocopa — ia_xilo.mp4 37.32s — 2026 Esa abeja no vive en una colmena
+- caracol de jardín / Cornu aspersum, dardo de amor — ia_caracol.mp4 36.02s — 2026 Ese caracol dispara un dardo
+- gorrión común / Passer domesticus — ia_gorrion.mp4 33.05s — 2026 Ese babero negro no es luto
+
+### Refugio en la Palabra — sin id. category 27. Voz es-MX-JorgeNeural.
+No repetir estos pasajes:
+- Lucas 7:47 — fe_lucas7.mp4 35.42s — 2026 Un frasco valió más que el discurso
+- Job 23:10 — fe_job23.mp4 35.57s — 2026 El camino sigue aunque no lo veas
+- Hechos 3:6 — fe_hechos3.mp4 36.82s — 2026 En la puerta no había monedas
+- 2 Corintios 9:7-8 — fe_2cor9.mp4 35.35s — 2026 La mano cerrada se queda seca
+- Éxodo 33:14 — fe_ex33.mp4 35.35s — 2026 Pediste mapa y te dieron presencia
+- 2 Crónicas 7:14 — fe_2cro7.mp4 36.26s — 2026 El cielo se abre cuando el pueblo se agacha
+- Daniel 10:12 — fe_dan10.mp4 35.42s — 2026 Tu palabra fue oída el primer día
+- Zacarías 2:5 — fe_zac2.mp4 35.86s — 2026 Te midieron corto y había un muro de fuego
+- Malaquías 4:2 — fe_mal4.mp4 37.18s — 2026 La ceniza no apaga el sol que viene
+- Ezequiel 47 — fe_ez47.mp4 35.02s — 2026 El hilo de agua se vuelve río
+
+### Anatomía del Engaño — sin id. category 22 prevista. Voz es-CO-GonzaloNeural.
+No repetir estos temas. Educativo, no manual para dañar:
+- punto ciego del sesgo / Pronin, Lin y Ross 2002 — va_pronin.mp4 33.91s
+- regla del pico y el final / Kahneman y Redelmeier 1996 — va_pico.mp4 31.18s
+- efecto halo inverso / horn effect — va_cuerno.mp4 32.74s
+- verdad ilusoria / Hasher, Goldstein y Toppino 1977 — va_verdad.mp4 35.50s
+- conformidad de Asch 1951 — va_asch.mp4 35.57s
+- mejor que el promedio / Svenson 1981 — va_promedio.mp4 34.90s
+- efecto espectador / Darley y Latané 1968 — va_espectador.mp4 32.40s
+- sonrisa de Duchenne / Ekman — va_sonrisa.mp4 32.38s
+- pupila y carga cognitiva / Kahneman y Beatty 1966 — va_pupila.mp4 35.54s
+- efecto Stroop 1935 — va_stroop.mp4 36.53s

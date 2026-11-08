@@ -1684,3 +1684,28 @@ Tag Amazon real ya usado en la memoria: michelgonza02-20. Voz Dalia (IA) y Jorge
 ### Refugio en la Palabra — sin id. 6ab1ecc9ea19ca0bdeaf3f13
 - película de oración 11:45 — fe_no_vacio.mp4 — 2026 Quien busca no vuelve vacío
 - paráfrasis, no capítulo copiado: Naamán (2 Reyes 5), aceite de la viuda (2 Reyes 4), Gedeón (Jueces 7), Josafat (2 Crónicas 20), naufragio (Hechos 27), Lidia, Cornelio, huesos secos (Ezequiel 37), provisión en el monte (Génesis 22), trono (Apocalipsis 4)
+
+
+## Lote 167 (2026-11-08) — MP4 en release, SIN id de Buffer
+buffer___get_account devolvió 429. Retry-After: 1131394 segundos. No se reintentó. No hay id de post. No están publicados.
+No llamar a Buffer antes del 2026-11-20 20:40 America/Chicago (aprox. 2026-11-21 02:40 UTC).
+Organización vista en listados previos de esta cuenta, no reconsultada hoy: My organization 6ab1dd0b88b55d24ffd171d7.
+Canales previos (no inventados hoy; list_channels no se pudo repetir por el 429): IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5 (YouTube), Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13 (YouTube), Anatomía del Engaño 6aed1047e29c69a171780e87 (YouTube). Instagram no está en esos listados. El video de mostaza/cuerpo NO se publicó en Anatomía: el encargo lo pedía para Instagram.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote167-20261108
+Tag Amazon michelgonza02-20 confirmado en Drive (lote 141 y SUBIR_A_MANO). No es tag inventado.
+No se infló a 90 minutos: Hemicentetes solo tiene ~15 planos únicos en Commons; repetirlos 90 minutos viola el registro. Cortes ~2.6–3.5 s, cada imagen una vez. Voz edge-tts. 1080x1920. isAiGenerated true. madeForKids false.
+
+### IA AL ALCANCE — sin id. category 15 prevista. Voz es-MX-DaliaNeural. 53.0s.
+Título: 2026 Esas púas no pinchan: conversan
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote167-20261108/ia_tenrec.mp4
+Especie, no repetir: tenrec listado de tierras bajas / Hemicentetes semispinosus.
+
+### Refugio en la Palabra — sin id. category 27 prevista. Voz es-MX-JorgeNeural. 114.39s.
+Título: 2026 El yermo no firmó el final
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote167-20261108/fe_isaias35.mp4
+Tema, no repetir: Isaías 35 RV1909, desierto que florece, corazón apocado. Paráfrasis original más cita corta de dominio público.
+
+### Cuerpo / mostaza — sin canal Instagram. 110.46s. Voz es-CO-SalomeNeural. NO publicado.
+Título: 2026 Esa mostaza no es un sabor
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote167-20261108/cu_mostaza.mp4
+Tema, no repetir: mostaza (sinigrina / isotiocianato), barrera de moco y bicarbonato del estómago. No es consejo médico. No Cuba.

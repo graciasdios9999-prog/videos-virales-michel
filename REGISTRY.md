@@ -1848,3 +1848,30 @@ Tag Amazon michelgonza02-20. 9:16. Voz edge-tts. Subtítulos quemados. isAiGener
 - reflejo vestíbulo-ocular — va_vor.mp4
 - luz de pantalla y melatonina — va_melatonina.mp4
 - dolor referido — va_referido.mp4
+
+## Lote 173 (2026-11-08) — MP4 en release, SIN id de Buffer
+buffer___get_account devolvió HTTP 429. Retry-After: 1052339 segundos. No se reintentó. No hay id de post.
+No llamar a Buffer antes de 2026-11-21T03:15:00Z.
+Organización no reconfirmada en esta corrida. Nombre guardado de la última consulta válida: My organization (6ab1dd0b88b55d24ffd171d7).
+Canales previos, no reconsultados: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. No se inventó id.
+No hay documental de 90 minutos: un corte nuevo cada 2–3 s sin repetir plano exigiría más de mil archivos distintos y el MP4 no cabe como raw de GitHub. Se publican las piezas únicas de este lote, formato vertical, sin repetir especie ni versículo.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote173-20261108
+Tag Amazon michelgonza02-20 (confirmado en Drive, archivo de lotes previos). 720x1280. Voz edge-tts. Subtítulos quemados. isAiGenerated true. madeForKids false.
+
+### IA AL ALCANCE — sin id. category 15. Voz es-MX-DaliaNeural. 153.79 s.
+Título: 2026 Ese tronco tiene párpados
+Miniatura: NO ES UN BÚHO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote173-20261108/ia_podargo_20261108.mp4
+Especie, no repetir: podargo australiano / tawny frogmouth / Podargus strigoides. No es búho ni nictibio.
+
+### Refugio en la Palabra — sin id. category 27. Voz es-MX-JorgeNeural. 152.26 s.
+Título: 2026 Esa puerta no tenía llave
+Miniatura: PUERTA SIN LLAVE
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote173-20261108/fe_hechos12_20261108.mp4
+Tema, no repetir: Hechos 12, puerta de hierro que se abre de suyo. Cita corta RV1909. No es Hechos 17 ni Hechos 27.
+
+### Cuerpo / hierbabuena — sin id. 132.08 s. Voz es-CO-SalomeNeural.
+Título: 2026 Esa piedra no está pegada
+Miniatura: PIEDRA SUELTA
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote173-20261108/cu_rotula_20261108.mp4
+Tema, no repetir: rótula / hueso sesamoideo y hierbabuena / Mentha spicata. No es consejo médico. No Cuba.

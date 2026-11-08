@@ -1779,3 +1779,28 @@ No repetir estos temas:
 - visión de túnel atencional — va_tunel.mp4 48.00s — 2026 Bajo amenaza dejas de ver el cuarto
 - habituación a la alarma — va_habituacion.mp4 48.53s — 2026 El cuerpo se acostumbra a la alarma
 - reflejo de orientación — va_orientacion.mp4 48.62s — 2026 La cabeza gira antes de pensar
+
+## Lote 170 (2026-11-08) — MP4 en release, SIN id de Buffer
+buffer___get_account devolvió HTTP 429. Retry-After: 1095637 segundos. No se reintentó. No hay id de post. No están publicados.
+No llamar a Buffer antes de 2026-11-21T02:32:50Z (aprox. 2026-11-20 20:32 America/Chicago).
+El programador del sandbox expira a los 7 días, antes de esa fecha: no se armó un reintento que volvería a chocar con el 429.
+Organización: esta corrida no pudo leer get_account. El nombre guardado en el registro, de la última consulta válida, es My organization 6ab1dd0b88b55d24ffd171d7. No se reconfirmó hoy.
+Canales previos, no reconsultados por el 429: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Instagram no está en esos listados. No se inventó id. El video de costillas y estragón NO se publicó en Anatomía del Engaño.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote170-20261108
+Tag Amazon michelgonza02-20 confirmado en Drive (archivo 2026-11-01-va_etiqueta.txt). No es tag inventado.
+No se infló a 90 minutos: no hay B-roll único suficiente sin repetir planos. Cortes de unos 2.6 a 3.8 s, cada imagen una vez. Voz edge-tts. 720x1280. isAiGenerated true. madeForKids false.
+
+### IA AL ALCANCE — sin id. category 15 prevista. Voz es-MX-DaliaNeural. 194 s (3:14).
+Título: 2026 Ese rojo en la piel no es sangre
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote170-20261108/ia_rojo_20261108.mp4
+Especies, no repetir (distintas del hipopótamo común): hipopótamo pigmeo / Choeropsis liberiensis; takahe / Porphyrio hochstetteri; mono araña / Ateles geoffroyi; mono dorado de nariz chata / Rhinopithecus roxellana; tití león dorado / Leontopithecus rosalia; mirikina / Aotus; gálago de cola gruesa / Otolemur crassicaudatus.
+
+### Refugio en la Palabra — sin id. category 27 prevista. Voz es-MX-JorgeNeural. 199 s (3:19).
+Título: 2026 Ese Judas no es el que crees
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote170-20261108/fe_judas_20261108.mp4
+Tema, no repetir: carta de Judas (siervo de Jesucristo, no Iscariote), Judas 1:24 RV1909, cita corta de dominio público «poderoso para guardar sin caída». Paráfrasis original. No es el capítulo de Marcos 10 ni Rut 1.
+
+### Cuerpo / estragón — sin canal Instagram. 94 s (1:34). Voz es-CO-SalomeNeural. NO publicado.
+Título: 2026 Esas costillas no cierran el círculo
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote170-20261108/cu_costillas_20261108.mp4
+Tema, no repetir: costillas flotantes (pares 11 y 12) y estragón culinario / Artemisia dracunculus. No es consejo médico. No Cuba. El hioides no se usó: Commons no dio planos humanos únicos suficientes.

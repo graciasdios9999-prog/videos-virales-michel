@@ -1804,3 +1804,47 @@ Tema, no repetir: carta de Judas (siervo de Jesucristo, no Iscariote), Judas 1:2
 Título: 2026 Esas costillas no cierran el círculo
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote170-20261108/cu_costillas_20261108.mp4
 Tema, no repetir: costillas flotantes (pares 11 y 12) y estragón culinario / Artemisia dracunculus. No es consejo médico. No Cuba. El hioides no se usó: Commons no dio planos humanos únicos suficientes.
+
+
+## Lote 171 (2026-11-08) — MP4 en release, SIN id de Buffer
+buffer___get_account devolvió HTTP 429. Retry-After: 1084749 segundos. No se reintentó create_post. No hay id de post.
+Drive create_folder devolvió: access token could not be validated. No se subió a "publicar manual videos".
+No hay documental de más de 1 hora: no hay B-roll único suficiente sin repetir planos.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote171-20261108
+Tag Amazon michelgonza02-20. 9:16. Voz edge-tts. Subtítulos quemados. isAiGenerated true. madeForKids false.
+
+### IA AL ALCANCE — sin id. category 15. No repetir:
+- colimbo grande / Gavia immer — ia_colimbo.mp4 — 2026 Ese colimbo no se está ahogando
+- camachuelo común / Pyrrhula pyrrhula — ia_camachuelo.mp4 — 2026 Ese pecho rosa no es un disfraz
+- cardenal norteño / Cardinalis cardinalis — ia_cardenal.mp4 — 2026 Ese rojo no es una herida de invierno
+- serreta grande / Mergus merganser — ia_serreta.mp4 — 2026 Esa sierra del pico no es un adorno
+- alcaudón / Lanius (colilargo y gris) — ia_alcaudon.mp4 — 2026 Ese pincho no es una rama rota
+- rabijunco cola roja / Phaethon rubricauda — ia_rabijunco.mp4 — 2026 Ese hilo rojo no es una herida
+- grajilla occidental / Corvus monedula — ia_grajilla.mp4 — 2026 Esa pupila clara no es ceguera
+- correlimos / Calidris — ia_correlimos.mp4 — 2026 Ese gris de la roca acaba de caminar
+- verderón común / Chloris chloris — ia_verderon.mp4 — 2026 Ese verde no es un loro escapado
+- agachadiza común / Gallinago gallinago — ia_agachadiza.mp4 — 2026 Ese pico come donde no hay grano
+
+### Refugio en la Palabra — sin id. category 27. RV1909 cita corta. No repetir:
+- Proverbios 4:23 — fe_prov4.mp4
+- Proverbios 22:1 — fe_prov22.mp4
+- Marcos 6:31 — fe_marcos6.mp4
+- 1 Juan 1:5 — fe_1juan1.mp4
+- Génesis 9:13 — fe_genesis9.mp4
+- Hechos 4:20 — fe_hechos4.mp4
+- 1 Reyes 18:21 — fe_reyes18.mp4
+- 1 Reyes 3:9 — fe_reyes3.mp4
+- Proverbios 31:25 — fe_prov31.mp4
+- Eclesiastés 12:13 — fe_ecl12.mp4
+
+### Anatomía del Engaño — sin id. category 22. No es manual de manipulación ni consejo médico. No repetir:
+- superioridad de la imagen — va_imagen.mp4
+- contabilidad mental / Thaler — va_cuentas.mp4
+- falso recuerdo DRM Roediger y McDermott 1995 — va_falso.mp4
+- efecto menos es mejor / Hsee 1998 — va_menos.mp4
+- respuesta ortostática al incorporarse — va_ortostatica.mp4
+- factor lacrimatorio de la cebolla — va_cebolla.mp4
+- parestesia por compresión — va_parestesia.mp4
+- reflejo vestíbulo-ocular — va_vor.mp4
+- luz de pantalla y melatonina — va_melatonina.mp4
+- dolor referido — va_referido.mp4

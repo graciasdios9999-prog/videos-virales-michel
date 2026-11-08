@@ -1758,3 +1758,24 @@ No repetir estos temas. Educativo, no manual para dañar:
 - sonrisa de Duchenne / Ekman — va_sonrisa.mp4 32.38s
 - pupila y carga cognitiva / Kahneman y Beatty 1966 — va_pupila.mp4 35.54s
 - efecto Stroop 1935 — va_stroop.mp4 36.53s
+
+
+## Lote 169 (2026-11-08) — MP4 en release lote169-20261108. SIN id de Buffer
+buffer___get_account devolvió HTTP 429. Retry-After: 1106473 segundos. No se reintentó. No hay id de post.
+Drive upload: access token could not be validated. No se subió a publicar manual videos.
+Commons (animales) GET 429. No hay shorts de IA AL ALCANCE en este lote. No se repitió especie.
+No hay largos de más de 1 hora: faltó B-roll único sin repetir planos.
+No hay Refugio en este lote.
+
+### VALERIA / cuerpo — sin id. category 22 prevista. Voz es-MX-DaliaNeural. 1080x1920. Coverr. Tag michelgonza02-20.
+No repetir estos temas:
+- reflejo de sobresalto — va_sobresalto.mp4 48.96s — 2026 Ese salto no lo decidiste
+- atonía REM — va_atonia.mp4 46.90s — 2026 Soñabas y el cuerpo no obedecía
+- boca seca bajo amenaza — va_bocaseca.mp4 46.22s — 2026 La boca se seca antes del discurso
+- sudor frío — va_sudorfrio.mp4 46.08s — 2026 El sudor frío no es debilidad
+- quiebre de voz por tensión — va_voz.mp4 45.48s — 2026 La voz se rompe cuando mandas calma
+- esclera / blanco del ojo — va_sclera.mp4 47.33s — 2026 El blanco del ojo no es adorno
+- nudo en la garganta — va_nudo.mp4 50.83s — 2026 El nudo de la garganta no es poesía
+- visión de túnel atencional — va_tunel.mp4 48.00s — 2026 Bajo amenaza dejas de ver el cuarto
+- habituación a la alarma — va_habituacion.mp4 48.53s — 2026 El cuerpo se acostumbra a la alarma
+- reflejo de orientación — va_orientacion.mp4 48.62s — 2026 La cabeza gira antes de pensar

@@ -1875,3 +1875,26 @@ Título: 2026 Esa piedra no está pegada
 Miniatura: PIEDRA SUELTA
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote173-20261108/cu_rotula_20261108.mp4
 Tema, no repetir: rótula / hueso sesamoideo y hierbabuena / Mentha spicata. No es consejo médico. No Cuba.
+
+
+## Lote 174 (2026-11-09) — MP4 en release lote174-20261109. Buffer NO publicado.
+buffer___get_account devolvio HTTP 429. Retry-After 1041413 s. Deadline aproximado 2026-11-21T02:30:48Z. Cero reintentos. No hay id de post. Organizacion no reconfirmada en esta corrida.
+Duracion real, no 90 min: un corte nuevo cada ~2.6 s sin repetir plano ni especie no cabe en un documental de hora y media con el CDN de Commons en 429 intermitente. Se publican tres piezas unicas.
+
+### IA al Alcance — sin id. category 15. Voz es-MX-DaliaNeural. 457.48 s.
+Titulo: 2026 Ese pez se pinto la boca
+Miniatura: NO ES UN BESO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote174-20261109/ia_lote174.mp4
+Especies, no repetir: ogcocephalus / pez murcielago de labios rojos; peripatus / gusano de terciopelo; amblyornis inornatus / pergolero de Vogelkop; melanocetus / rape abisal; argyroneta / arana campana de buceo; macrochelys / tortuga caiman; pirosoma; rhynchocyon / sengi; indicator indicator / indicador grande; pleurodeles / gallipato; portia; jaculus / jerbo; conus geographus; bitis gabonica / vibora del Gabon.
+
+### Refugio en la Palabra — sin id. category 27. Voz es-MX-JorgeNeural. 475.50 s. RV1909 o parafrasis.
+Titulo: 2026 La casa no se quedo vacia
+Miniatura: NO QUEDO VACIA
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote174-20261109/fe_lote174.mp4
+Temas, no repetir: 1 Samuel 3 (habla que tu siervo oye); Deuteronomio 30 elegir la vida; Rut 2 espigar; Habacuc 3:18 alegria en la escasez; Oseas 14 rocio; Hechos 8 viajero que pregunta; Jeremias 32 nada demasiado dificil; Lucas 8 el borde del manto; Mateo 25 hambriento; 2 Pedro 1 anadir a la fe; Nehemias 2; Jueces 6 Gedeon; Esdras 3 cimiento; Salmo 111 principio de la sabiduria. Promesa: quien busca a Dios no se queda vacio.
+
+### Cuerpo / hierba luisa — sin id. 98.69 s. Voz es-CO-SalomeNeural.
+Titulo: 2026 Ese reloj late solo
+Miniatura: LATE SIN ORDEN
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote174-20261109/cu_lote174.mp4
+Tema, no repetir: nodulo sinusal y hierba luisa / Aloysia citrodora. No es consejo medico. No Cuba.

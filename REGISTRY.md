@@ -1919,3 +1919,31 @@ Título: 2026 Ese hueco no está roto
 Miniatura: NO ESTÁ ROTO
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote175-20261109/cu_lote175.mp4
 Tema, no repetir: fontanela anterior y posterior, y llantén / Plantago major. No es consejo médico. No Cuba.
+
+
+## Lote 176 (2026-11-09) — MP4 en release lote176-20261109. Buffer NO publicado.
+buffer___get_account devolvió HTTP 429. Retry-After: 970921 segundos (11 días, 5 h y 42 min). Cero reintentos. No hay id de post.
+No llamar a Buffer antes de 2026-11-21T02:35:00Z aproximadamente (la llamada 429 fue en esta corrida, antes de las 21:00 UTC del 9 de noviembre).
+No se programó un reintento: el scheduler del entorno caduca a los 7 días, antes de ese plazo, y un disparo adelantado volvería a chocar con el 429.
+Organización no reconfirmada en esta corrida. Nombre guardado de la última consulta válida: My organization (6ab1dd0b88b55d24ffd171d7).
+Canales no reconsultados, no se inventó id: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Instagram no está en esos listados. El video de cuerpo NO se publicó en Anatomía del Engaño.
+No hay documental de 90 minutos: un corte nuevo cada ~3 s sin repetir plano no alcanza la hora y media con Commons en pausa y sin repetir B-roll. Piezas únicas verticales 720x1280. Voz edge-tts. Subtítulos quemados amarillo/blanco. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote176-20261109
+
+### IA AL ALCANCE — sin id. category 15 prevista. Voz es-MX-DaliaNeural. 255.83 s (4:16).
+Título: 2026 Esa sonrisa no tiene aleta
+Miniatura: SIN ALETA
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote176-20261109/ia_lote176.mp4
+Especies, no repetir: marsopa lisa del Yangtsé / Neophocaena asiaeorientalis; zorro vinagre / Speothos venaticus; desmán ibérico / Galemys pyrenaicus; gecko de cola de hoja / Uroplatus phantasticus; murciélago abejorro / Craseonycteris thonglongyai; trompetero aligrís / Psophia crepitans; jacana / Jacana jacana; águila volatinera / Terathopius ecaudatus; turaco gigante / Corythaeola cristata; torcecuello / Jynx torquilla.
+
+### Refugio en la Palabra — sin id. category 27 prevista. Voz es-MX-JorgeNeural. 290.63 s (4:51).
+Título: 2026 La luz no pidió permiso
+Miniatura: LUZ SIN PERMISO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote176-20261109/fe_lote176.mp4
+Temas, no repetir: Isaías 60; Isaías 35; Isaías 49; Isaías 58; Jeremías 17; Jeremías 31; Sofonías 3; Zacarías 4; 1 Crónicas 16; Nehemías 8; Números 13; 2 Reyes 20; 2 Timoteo 4; Gálatas 6; Tito 2; Apocalipsis 1. Citas cortas RV1909 o paráfrasis. Promesa: quien busca a Dios no se queda vacío.
+
+### Cuerpo / fenogreco, avena, flor de saúco — sin canal Instagram. 237.23 s (3:57). Voz es-CO-SalomeNeural. NO publicado.
+Título: 2026 Esa costra no es mugre
+Miniatura: NO ES MUGRE
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote176-20261109/cu_lote176.mp4
+Tema, no repetir: plaquetas, fibrina y costra; fenogreco / Trigonella foenum-graecum; avena / Avena sativa; flor de saúco / Sambucus nigra (no la baya verde). No es consejo médico. No Cuba.

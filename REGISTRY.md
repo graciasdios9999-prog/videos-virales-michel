@@ -1898,3 +1898,24 @@ Titulo: 2026 Ese reloj late solo
 Miniatura: LATE SIN ORDEN
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote174-20261109/cu_lote174.mp4
 Tema, no repetir: nodulo sinusal y hierba luisa / Aloysia citrodora. No es consejo medico. No Cuba.
+
+## Lote 175 (2026-11-09) — MP4 en release lote175-20261109. Buffer NO publicado.
+buffer___get_account HTTP 429. Retry-After 1027186 s. Deadline aproximado 2026-11-21T03:00:00Z. Cero reintentos. No hay id de post.
+
+### IA al Alcance — sin id. 202.8 s. Voz es-MX-DaliaNeural.
+Título: 2026 Esa rana se fabricó las garras
+Miniatura: HUESO AFUERA
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote175-20261109/ia_lote175.mp4
+Especies, no repetir: Trichobatrachus robustus / rana peluda de Camerún; Petromyzon marinus / lamprea marina; Chauliodus sloani / pez víbora; Argyropelecus / pez hacha; Actias luna / polilla luna; Solifugae / solífugo; Amblypygi / amblipigio; Thelyphonida / vinagrillo Mastigoproctus; Onychomys torridus; Dipodomys merriami / rata canguro; Gymnophiona / cecilia; Mastophora / araña boleadora; Astrophyton / estrella canasta; Holothuria / pepino de mar.
+
+### Refugio en la Palabra — sin id. 169.0 s. Voz es-MX-JorgeNeural.
+Título: 2026 La mesa ya estaba puesta
+Miniatura: MESA SERVIDA
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote175-20261109/fe_lote175.mp4
+Temas, no repetir: presos de esperanza / Zacarías 9; paz de la mente que persevera / Isaías 26; maná de cada mañana / Éxodo 16; Zaqueo en el árbol / Lucas 19; libro sellado y el Cordero / Apocalipsis 5; visión que tarda / Habacuc 2; Débora bajo la palmera / Jueces 4; desierto como aula / Deuteronomio 8; presencia o no salimos / Éxodo 33; la una que también tiene nombre / Mateo 18. Promesa: quien busca a Dios no se queda vacío.
+
+### Cuerpo / llantén — sin id. 85.2 s. Voz es-CO-SalomeNeural.
+Título: 2026 Ese hueco no está roto
+Miniatura: NO ESTÁ ROTO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote175-20261109/cu_lote175.mp4
+Tema, no repetir: fontanela anterior y posterior, y llantén / Plantago major. No es consejo médico. No Cuba.

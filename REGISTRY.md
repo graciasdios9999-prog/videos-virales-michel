@@ -2027,3 +2027,30 @@ Título: 2026 Esa ranura no es un error
 Miniatura: NO ES ERROR
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote179-20261110/cu_lote179.mp4
 Tema, no repetir: filtrum / surco nasolabial; úvula y paladar blando; enebro / Juniperus communis; ortiga / Urtica dioica. No es consejo médico. No Cuba. No Meissner. No alcaravea / Carum carvi. No hamamelis. Publicar solo si list_channels muestra un canal de Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.
+
+
+## Lote 180 (2026-11-10) — MP4 en release lote180-20261110. Buffer NO publicado.
+buffer___get_account devolvió HTTP 429 en la primera llamada. Retry-After: 922017 segundos. rateLimit remaining 0, resetSeconds 922017. Cero reintentos. No se llamó list_channels ni create_post. No hay id de post. No decir publicado.
+No llamar a Buffer antes de 2026-11-21T02:30:00Z. Un scheduler de esta sesión vence a los 7 días y un sleep de fondo corta a las 10 h: no cabe un único reintento legal después de ese plazo. No se programó un reintento temprano.
+Organización no reconfirmada. Último nombre guardado, no reconfirmado: My organization (6ab1dd0b88b55d24ffd171d7).
+Canales no reconsultados y no se inventó un id. Última lista válida guardada: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Instagram no estaba. El video de cuerpo NO se publicó y NO se asignó a Anatomía del Engaño.
+No hay documental de 90 minutos. Un corte nuevo cada ~3 s sin repetir foto ni especie ya usada no llena hora y media. Piezas verticales 720x1280, voz edge-tts, subtítulos amarillo/blanco palabra por palabra, titular con 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en MEMORIA_PUBLICACION.md, no inventado.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote180-20261110
+
+### IA AL ALCANCE — sin id. 830.85 s (13:50). Voz es-MX-DaliaNeural. categoryId 15 prevista.
+Título: 2026 Eso no es una medusa
+Miniatura: NO ES MEDUSA
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote180-20261110/ia_lote180.mp4
+Especies, no repetir: carabela portuguesa / Physalia physalis; Velella velella; Mnemiopsis leidyi; Clione limacina; pez piña / Monocentris; Photoblepharon; lumpo / Cyclopterus lumpus; pirarucú / Arapaima gigas; camarón arlequín / Hymenocera picta; Triops; weta gigante / Deinacrida; gorgojo jirafa / Trachelophorus giraffa; Arachnocampa; hormiga bala / Paraponera clavata; cálao terrestre / Bucorvus; zambullidor de sol / Heliornis fulica; pluvial egipcio / Pluvianus aegyptius; loro eclecto / Eclectus roratus; pavo del Congo / Afropavo congensis; lémur ratón / Microcebus; perro mapache / Nyctereutes procyonoides; topo marsupial / Notoryctes; ballena gris / Eschrichtius robustus.
+
+### Refugio en la Palabra — sin id. 378.20 s (6:18). Voz es-MX-JorgeNeural. categoryId 27 prevista.
+Título: 2026 La zarza sigue
+Miniatura: ZARZA SIGUE
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote180-20261110/fe_lote180.mp4
+Temas, no repetir: Éxodo 3 zarza; Éxodo 33 presencia y descanso; Josué 3 pies en el Jordán; Daniel 9 confesión; Amós 9 el que ara alcanza al que siega; Isaías 61 ceniza y óleo de gozo. Citas cortas RV1909 o paráfrasis. Gracias a Jehová y a Jesucristo. Promesa: quien busca a Dios no se queda vacío. Stripe solo en este canal: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo / arándano, mentón, alcachofa, cardo mariano, milenrama, moringa — sin id. 221.61 s (3:41). Voz es-CO-SalomeNeural.
+Título: 2026 Ese azul es una mentira
+Miniatura: AZUL MIENTE
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote180-20261110/cu_lote180.mp4
+Tema, no repetir: pruina del arándano / Vaccinium; protuberancia mentoniana; alcachofa / Cynara cardunculus; cardo mariano / Silybum marianum; milenrama / Achillea millefolium; moringa / Moringa oleifera. No es consejo médico. No Cuba. Publicar solo si list_channels muestra un canal de Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.

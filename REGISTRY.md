@@ -1998,3 +1998,32 @@ Título: 2026 Ese moretón escribe un calendario
 Miniatura: PIEL CALENDARIO
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote178-20261110/cu_lote178.mp4
 Tema, no repetir: equimosis, hemoglobina, biliverdina, bilirrubina, pimentón como contraste, hamamelis / Hamamelis virginiana, alcaravea / Carum carvi. No es consejo médico. No Cuba. Publicar solo si, al listar de nuevo, existe canal de Instagram o, si no hay Instagram, el canal Anatomía del Engaño. No duplicar el mismo mp4 en dos canales.
+
+
+## Lote 179 (2026-11-10) — MP4 en release lote179-20261110. Buffer NO publicado.
+buffer___get_account no se volvió a llamar: el 429 anterior sigue vigente. Retry-After anotado: 937121 segundos. El lote 178 anotó 936166 s (no antes de 2026-11-21T02:40:00Z) y el lote 177 pidió esperar hasta 2026-11-21T04:00:00Z. No llamar a Buffer antes de 2026-11-21T04:00:00Z. Cero reintentos. No hay id de post.
+Organización no reconfirmada en esta corrida. Último nombre válido guardado: My organization (6ab1dd0b88b55d24ffd171d7).
+Canales no reconsultados y no se inventó un id. Última lista válida: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Instagram no estaba. El video de cuerpo NO se publicó y NO se reserva para Anatomía del Engaño: solo Instagram, si al listar de nuevo existe.
+No hay documental de 90 minutos: plano nuevo sin repetir foto ni especie ya usada no llena hora y media. No se usó bucle ni atempo. Piezas verticales 720x1280, voz edge-tts, subtítulos amarillo/blanco. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20.
+Un scheduler no cubre el plazo: las tareas vencen a los 7 días y el 429 dura hasta el 21. No se programó un reintento temprano.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote179-20261110
+
+### IA AL ALCANCE — sin id. 769.76 s (12:49). Voz es-MX-DaliaNeural. categoryId 15 prevista.
+Título: 2026 Esa mancha roja no es una herida
+Miniatura: NO ES HERIDA
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote179-20261110/ia_lote179.mp4
+Especies, no repetir: paloma apuñalada de Luzón / Gallicolumba luzonica; monal del Himalaya / Lophophorus impejanus; faisán dorado / Chrysolophus pictus; argos real / Argusianus argus; avemartillo / Scopus umbretta; carrao / Aramus guarauna; agutí / Dasyprocta; degú / Octodon degus; murciélago blanco de Honduras / Ectophylla alba; murciélago pescador / Noctilio leporinus; hormiguero sedoso / Cyclopes didactylus; ciervo-ratón / Tragulus; catán / Atractosteus spatula; opah / Lampris; pez vela / Istiophorus; calamar luciérnaga / Watasenia scintillans; isópodo gigante / Bathynomus giganteus; bailarina española / Hexabranchus sanguineus; talégalo leipo / Leipoa ocellata; arowana plateado / Osteoglossum bicirrhosum; cangrejo rey / Paralithodes camtschaticus; pez pipa fantasma / Solenostomus paradoxus; pez pulmonado australiano / Neoceratodus forsteri (no es Protopterus).
+Fuera de este mp4 a propósito: paloma de Nicobar, pez sapo Antennarius, sepia / Metasepia, tarántula / Theraphosa, tragopan (sin fotos).
+
+### Refugio en la Palabra — sin id. 514.86 s (8:34). Voz es-MX-JorgeNeural. categoryId 27 prevista.
+Título: 2026 Esa espera no está vacía
+Miniatura: NO ESTÁ VACÍA
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote179-20261110/fe_lote179.mp4
+Temas, no repetir: Génesis 12 Abram; Génesis 15 escudo y estrellas; Levítico 19 prójimo; 1 Crónicas 29 todo es tuyo; Eclesiastés 4 mejor dos que uno (no Eclesiastés 3); Sofonías 1 calla (no Sofonías 3); Ageo 1 pensad en vuestros caminos (no Ageo 2); Marcos 16 no está aquí; 2 Tesalonicenses 3 no cansarse de hacer el bien; 1 Timoteo 4 acción de gracias (no 1 Timoteo 1 ni 1 Timoteo 6:6). Citas cortas RV1909 o paráfrasis. Gracias a Jehová y a Jesucristo. Promesa: quien busca a Dios no se queda vacío. Stripe solo en este canal: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+Fuera a propósito: 2 Samuel 9 / Mefiboset / Lodebar; Nehemías 2; Rut 2; Cantar; 2 Pedro.
+
+### Cuerpo / filtrum, úvula, enebro y ortiga — sin id. 193.80 s (3:13). Voz es-CO-SalomeNeural. categoryId 27 prevista solo si el canal fuera YouTube.
+Título: 2026 Esa ranura no es un error
+Miniatura: NO ES ERROR
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote179-20261110/cu_lote179.mp4
+Tema, no repetir: filtrum / surco nasolabial; úvula y paladar blando; enebro / Juniperus communis; ortiga / Urtica dioica. No es consejo médico. No Cuba. No Meissner. No alcaravea / Carum carvi. No hamamelis. Publicar solo si list_channels muestra un canal de Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.

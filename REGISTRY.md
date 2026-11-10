@@ -1947,3 +1947,28 @@ Título: 2026 Esa costra no es mugre
 Miniatura: NO ES MUGRE
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote176-20261109/cu_lote176.mp4
 Tema, no repetir: plaquetas, fibrina y costra; fenogreco / Trigonella foenum-graecum; avena / Avena sativa; flor de saúco / Sambucus nigra (no la baya verde). No es consejo médico. No Cuba.
+
+## Lote 177 (2026-11-10) — MP4 en release lote177-20261109. Buffer NO publicado.
+buffer___get_account devolvió HTTP 429. Retry-After: 951580 segundos. No llamar a Buffer antes de 2026-11-21T04:00:00Z. Cero reintentos en esta corrida. No hay id de post.
+Organización no reconfirmada en esta corrida. Último nombre válido guardado: My organization (6ab1dd0b88b55d24ffd171d7).
+Canales no reconsultados y no se inventó un id. Última lista válida: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Hay que volver a listar canales antes de publicar.
+No hay documental de 90 minutos: un corte nuevo cada ~2.6 s sin repetir plano no cabe en hora y media sin reciclar B-roll, y eso está prohibido. Piezas verticales 720x1280, voz edge-tts, subtítulos amarillo/blanco. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20, el mismo de las descripciones del lote 170.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote177-20261109
+
+### IA AL ALCANCE — sin id. category 15 prevista. Voz es-MX-DaliaNeural. 163.27 s (2:43).
+Título: 2026 Ese pez rechaza el alimento muerto
+Miniatura: RECHAZA LO MUERTO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote177-20261109/ia_lote177.mp4
+Especie, no repetir: dragoncillo del coral / Synchiropus splendidus. No es el pato mandarín Aix galericulata. No es la espátula Platalea leucorodia.
+
+### Refugio en la Palabra — sin id. category 27 prevista. Voz es-MX-JorgeNeural. 156.57 s (2:37).
+Título: 2026 Esas cuerdas no aprietan
+Miniatura: CUERDAS DE AMOR
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote177-20261109/fe_lote177.mp4
+Temas, no repetir: Oseas 11 cuerdas de amor; 1 Timoteo 6:6 piedad con contentamiento. Citas cortas RV1909 o paráfrasis. Promesa: quien busca a Dios no se queda vacío.
+
+### Cuerpo / malva y gordolobo — sin id. 155.90 s (2:36). Voz es-CO-SalomeNeural.
+Título: 2026 Esa cera no es suciedad
+Miniatura: NO ES SUCIEDAD
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote177-20261109/cu_lote177.mp4
+Tema, no repetir: cerumen del conducto auditivo; malva / Malva sylvestris; gordolobo / Verbascum thapsus. No es consejo médico. No Cuba. Publicar solo si el canal existe al listar de nuevo. YouTube categoryId 27. Si el canal es Instagram, type reel, shouldShareToFeed true; schedulingType notification solo si el tipo es profile personal; si no, automatic.

@@ -1972,3 +1972,29 @@ Título: 2026 Esa cera no es suciedad
 Miniatura: NO ES SUCIEDAD
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote177-20261109/cu_lote177.mp4
 Tema, no repetir: cerumen del conducto auditivo; malva / Malva sylvestris; gordolobo / Verbascum thapsus. No es consejo médico. No Cuba. Publicar solo si el canal existe al listar de nuevo. YouTube categoryId 27. Si el canal es Instagram, type reel, shouldShareToFeed true; schedulingType notification solo si el tipo es profile personal; si no, automatic.
+
+
+## Lote 178 (2026-11-10) — MP4 en release lote178-20261110. Buffer NO publicado.
+buffer___get_account devolvió HTTP 429. Retry-After: 936166 segundos (10 días, 20 h y 2 min). Cero reintentos. No hay id de post.
+No llamar a Buffer antes de 2026-11-21T02:40:00Z. La organización no se pudo nombrar en esta corrida por el 429. Último nombre guardado, no reconfirmado: My organization (6ab1dd0b88b55d24ffd171d7).
+Canales no reconsultados y no se inventó un id. Última lista válida guardada: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Instagram no estaba en esa lista. Hay que volver a listar canales antes de publicar.
+No hay documental de 90 minutos: un corte nuevo cada ~2.5–3.5 s sin repetir plano no alcanza la hora y media con fotos distintas de Commons. Piezas verticales 720x1280, voz edge-tts, subtítulos amarillo/blanco palabra por palabra. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20, el mismo de las descripciones del lote 170.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote178-20261110
+
+### IA AL ALCANCE — sin id. 206.35 s (3:26). Voz es-MX-DaliaNeural. categoryId 15 prevista.
+Título: 2026 Esa paloma trae cuello de metal
+Miniatura: CUELLO DE METAL
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote178-20261110/ia_lote178.mp4
+Especies, no repetir: paloma de Nicobar / Caloenas nicobarica; armadillo de tres bandas / Tolypeutes matacus y Tolypeutes tricinctus; pez sapo / Antennarius; pez navaja / Centriscus scutatus y Aeoliscus strigatus; cacomixtle / Bassariscus astutus.
+
+### Refugio en la Palabra — sin id. 140.66 s (2:21). Voz es-MX-JorgeNeural. categoryId 27 prevista.
+Título: 2026 Había un sitio en la mesa
+Miniatura: SITIO EN MESA
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote178-20261110/fe_lote178.mp4
+Temas, no repetir: 2 Samuel 9, Mefiboset, Lodebar, mesa del rey, pan de cada día en palacio. Paráfrasis, no audiolibro. Promesa: quien busca a Dios no se queda vacío.
+
+### Cuerpo / hamamelis y alcaravea — sin id. 145.58 s (2:26). Voz es-CO-SalomeNeural. categoryId 27 prevista.
+Título: 2026 Ese moretón escribe un calendario
+Miniatura: PIEL CALENDARIO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote178-20261110/cu_lote178.mp4
+Tema, no repetir: equimosis, hemoglobina, biliverdina, bilirrubina, pimentón como contraste, hamamelis / Hamamelis virginiana, alcaravea / Carum carvi. No es consejo médico. No Cuba. Publicar solo si, al listar de nuevo, existe canal de Instagram o, si no hay Instagram, el canal Anatomía del Engaño. No duplicar el mismo mp4 en dos canales.

@@ -2081,3 +2081,30 @@ Título: 2026 Tu ojo azul no tiene azul
 Miniatura: NO TIENE AZUL
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote182-20261111/cu_lote182.mp4
 Tema, no repetir: color estructural del iris azul, melanina del iris marrón, pecas / efélides, lunares / nevos, laurel / Laurus nobilis, clavo de olor / Syzygium aromaticum. No es consejo médico. No Cuba. Publicar solo si list_channels muestra un canal de Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.
+
+
+## Lote 183 (2026-11-11) — MP4 en release lote183-20261111. Buffer NO publicado.
+buffer___get_account devolvió HTTP 429 en la primera llamada. Retry-After: 796025 segundos. rateLimit remaining 0, resetSeconds 796025. Cero reintentos. No se llamó list_channels ni create_post. No hay id de post. No decir publicado.
+No llamar a Buffer antes de 2026-11-21T02:40:00Z. Un scheduler de esta sesión vence a los 7 días y el 429 dura hasta el 21: no cabe un reintento legal dentro de la vida del scheduler. Se intentó una sola tarea a 222 h; si la plataforma la borra a los 7 días, no se adelanta el intento.
+Organización no reconfirmada. Último nombre guardado, no reconfirmado: My organization (6ab1dd0b88b55d24ffd171d7).
+Canales no reconsultados y no se inventó un id. Última lista válida guardada: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Instagram no estaba. El video de cuerpo NO se publicó y NO se asignó a Anatomía del Engaño.
+No hay documental de 90 minutos. Un corte nuevo cada ~2,6 s, sin repetir foto, no llena hora y media: harían falta unas 2.160 fotos distintas y el mp4 pasaría el límite de 100 MB de GitHub (a 1 Mbps, 90 min son unos 675 MB). Piezas verticales 720x1280, voz edge-tts, subtítulos amarillo/blanco palabra por palabra, titular con 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en MEMORIA_PUBLICACION.md, no inventado.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote183-20261111
+
+### IA AL ALCANCE — sin id. 126.1 s (2:06). Voz es-MX-DaliaNeural. categoryId 15 prevista.
+Título: 2026 Esas alas no tienen plumas
+Miniatura: COSTILLAS AL VIENTO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote183-20261111/ia_lote183.mp4
+Especies, no repetir: dragón volador / Draco volans; pez elefante australiano / Callorhinchus milii; jabirú de silla / Ephippiorhynchus senegalensis.
+
+### Refugio en la Palabra — sin id. 98.0 s (1:38). Voz es-MX-JorgeNeural. categoryId 27 prevista.
+Título: 2026 Esa cojera no fue derrota
+Miniatura: NO FUE DERROTA
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote183-20261111/fe_lote183.mp4
+Temas, no repetir: Génesis 32 Peniel; Jacob no suelta hasta la bendición; cita corta RV1909 «No te dejaré, si no me bendices». Gracias a Jesucristo y a Jehová. Promesa: quien busca a Dios no se queda vacío. Stripe solo en este canal: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo / lúnula, hierba limón y galanga — sin id. 112.5 s (1:52). Voz es-CO-SalomeNeural.
+Título: 2026 Esa media luna no es calcio
+Miniatura: NO ES CALCIO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote183-20261111/cu_lote183.mp4
+Tema, no repetir: lúnula de la uña; hierba limón / Cymbopogon citratus; galanga / Alpinia galanga. No es consejo médico. No Cuba. Publicar solo si list_channels muestra un canal de Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.

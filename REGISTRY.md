@@ -2108,3 +2108,34 @@ Título: 2026 Esa media luna no es calcio
 Miniatura: NO ES CALCIO
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote183-20261111/cu_lote183.mp4
 Tema, no repetir: lúnula de la uña; hierba limón / Cymbopogon citratus; galanga / Alpinia galanga. No es consejo médico. No Cuba. Publicar solo si list_channels muestra un canal de Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.
+
+
+## Lote 184 (2026-11-11) — MP4 en release lote184-20261111. Buffer NO publicado.
+buffer___get_account NO se volvió a llamar. El 429 de esta sesión sigue vigente: no llamar a Buffer antes de 2026-11-21T03:00:00Z (Retry-After anotado en el lote 183: resetSeconds 796025, plazo de seguridad 2026-11-21T02:40:00Z; este lote usa 03:00:00Z). Cero reintentos. No hay id de post. No decir publicado.
+Organización no reconfirmada en esta pasada. Último nombre guardado, no reconfirmado: My organization (6ab1dd0b88b55d24ffd171d7).
+Canales no reconsultados. No se inventó un id. Última lista válida guardada: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Instagram no estaba en esa lista. El video de cuerpo NO se publicó y NO se asignó a Anatomía del Engaño.
+No hay documental de 90 minutos. Cortes únicos de Wikimedia, sin repetir foto ni especie ya usada. Piezas verticales 720x1280, 24 fps, voz edge-tts, subtítulos amarillo palabra a palabra, titular con 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en la memoria del canal, no inventado.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote184-20261111
+El lote 183 (cortos de Draco volans, Callorhinchus, jabirú, Peniel, lúnula, hierba limón y galanga) sigue sin id. No se reutilizó en estos mp4.
+
+### IA AL ALCANCE — sin id. 1916.71 s (31:56). Voz es-MX-DaliaNeural. categoryId 15 prevista.
+Título: 2026 Lo declararon extinto y seguía vivo
+Miniatura: SIGUE VIVO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote184-20261111/ia_lote184.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote184-20261111/ia_desc.txt
+Especies, no repetir: insecto palo de Lord Howe / Dryococelus australis; pez mano / Brachiopsilus; anguila pelícano / Eurypharynx pelecanoides; oveja de hoja / Costasiella; pulpo manta / Tremoctopus; pulpo mimo / Thaumoctopus mimicus; sepia gigante / Sepia apama; wobbegong / Orectolobus; pez sierra / Pristis; gusano de tubo / Riftia pachyptila; lobo etíope / Canis simensis; vaquita / Phocoena sinus; kiang / Equus kiang; ciervo de los pantanos / Blastocerus dichotomus; chiru / Pantholops hodgsonii; arruí / Ammotragus lervia; gaur / Bos gaurus; íbice de Walia / Capra walie; maluro soberbio / Malurus cyaneus; colibrí gigante / Patagona gigas; colibrí picoespada / Ensifera ensifera; guacamayo de Spix / Cyanopsitta spixii; franciscana / Pontoporia blainvillei; delfín del Ganges / Platanista gangetica; esfinge de la muerte / Acherontia atropos; polilla cometa / Argema mittrei; ala de pájaro de la reina Alexandra / Ornithoptera alexandrae; bruja blanca / Thysania agrippina; mariposa hoja / Kallima; isabelina / Graellsia isabellae; cecropia / Hyalophora cecropia; avispa Pepsis; avispa esmeralda / Ampulex; hormiga tejedora / Oecophylla; hormiga del desierto / Cataglyphis; hormiga tortuga / Cephalotes; escarabajo joya / Chrysina gloriosa; avispa Megarhyssa. Se excluyeron a propósito milú / Elaphurus davidianus y dragón volador / Draco volans porque ya estaban usados.
+
+### Refugio en la Palabra — sin id. 445.89 s (7:25). Voz es-MX-JorgeNeural. categoryId 27 prevista.
+Título: 2026 Iba a un entierro y volvió
+Miniatura: ENTRÓ AL DUELO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote184-20261111/fe_lote184.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote184-20261111/fe_desc.txt
+Temas, no repetir: Lucas 7 viuda de Naín; parábola de la dracma; hijo pródigo; resurrección de Lázaro (Juan 11, relato, no solo el versículo 25); buen samaritano (Lucas 10); Génesis 22 Moriah / carnero; Génesis 50 José y los hermanos. Cierre con agradecimiento a Jehová y a Jesucristo y la promesa de que quien busca a Dios no se queda vacío. Stripe solo en este canal: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+No repetir tampoco, ya usados antes y excluidos de este mp4: 2 Reyes 6, Mateo 14, Hechos 16, 1 Reyes 17, Daniel 3, Daniel 6, Juan 4, Génesis 32 Peniel, Éxodo 14, Hechos 12, Job 19:25, Génesis 15, Isaías 55.
+
+### Cuerpo / grasa parda, muela del juicio, pestañas, hioides, cóccix, equinácea, escaramujo y ginkgo — sin id. 415.96 s (6:55). Voz es-CO-SalomeNeural.
+Título: 2026 La grasa que quema calor
+Miniatura: NO ES MILAGRO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote184-20261111/cu_lote184.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote184-20261111/cu_desc.txt
+Tema, no repetir: grasa parda; muela del juicio; pestañas; hioides (antes no hubo video: faltaban planos); cóccix humano (no es Geococcyx); equinácea / Echinacea purpurea; escaramujo / Rosa canina; ginkgo / Ginkgo biloba. No es consejo médico. No Cuba. Publicar solo si list_channels muestra un canal de Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño. Excluidos por ya usados: lúnula, Cymbopogon, Alpinia galanga, ajo al corte, hinojo, albahaca, menta, diente de león, regaliz.

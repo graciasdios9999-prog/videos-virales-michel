@@ -2054,3 +2054,30 @@ Título: 2026 Ese azul es una mentira
 Miniatura: AZUL MIENTE
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote180-20261110/cu_lote180.mp4
 Tema, no repetir: pruina del arándano / Vaccinium; protuberancia mentoniana; alcachofa / Cynara cardunculus; cardo mariano / Silybum marianum; milenrama / Achillea millefolium; moringa / Moringa oleifera. No es consejo médico. No Cuba. Publicar solo si list_channels muestra un canal de Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.
+
+
+## Lote 182 (2026-11-11) — MP4 en release lote182-20261111. Buffer NO publicado.
+buffer___get_account devolvió HTTP 429 en la primera llamada. Retry-After: 810993 segundos. rateLimit remaining 0, resetSeconds 810993. Cero reintentos. No se llamó list_channels ni create_post. No hay id de post. No decir publicado.
+No llamar a Buffer antes de 2026-11-21T02:30:00Z. Un scheduler de esta sesión vence a los 7 días y un sleep de fondo corta a las 10 h: no cabe un único reintento legal después de ese plazo. No se programó un reintento temprano.
+Organización no reconfirmada. Último nombre guardado, no reconfirmado: My organization (6ab1dd0b88b55d24ffd171d7).
+Canales no reconsultados y no se inventó un id. Última lista válida guardada: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Instagram no estaba. El video de cuerpo NO se publicó y NO se asignó a Anatomía del Engaño.
+No hay documental de 90 minutos. Un corte nuevo sin repetir foto ni especie ya usada no llena hora y media. Piezas verticales 720x1280, voz edge-tts, subtítulos amarillo/blanco palabra por palabra, titular con 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en MEMORIA_PUBLICACION.md, no inventado.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote182-20261111
+
+### IA AL ALCANCE — sin id. 279.57 s (4:40). Voz es-MX-DaliaNeural. categoryId 15 prevista.
+Título: 2026 Ese delfín nunca vio el mar
+Miniatura: NUNCA VIO EL MAR
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote182-20261111/ia_lote182.mp4
+Especies, no repetir: boto / Inia geoffrensis; fringehead sarcástico / Neoclinus blanchardi; elefante marino / Mirounga; foca listada / Histriophoca fasciata; tayra / Eira barbara; gineta / Genetta; liebre saltadora / Pedetes; ciervo almizclero / Moschus; ciervo ratón de agua / Hyemoschus aquaticus; calderón / Globicephala; delfín de Risso / Grampus griseus; ballena franca / Eubalaena; ballena de Groenlandia / Balaena mysticetus; goral / Naemorhedus.
+
+### Refugio en la Palabra — sin id. 188.63 s (3:09). Voz es-MX-JorgeNeural. categoryId 27 prevista.
+Título: 2026 El río no tiene la última palabra
+Miniatura: NI EL RÍO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote182-20261111/fe_lote182.mp4
+Temas, no repetir: Isaías 43:1-2 aguas y fuego; Isaías 43:19 cosa nueva, camino en el desierto y ríos en la soledad. Citas cortas RV1909 o paráfrasis. Gracias a Jehová y a Jesucristo. Promesa: quien busca a Dios no se queda vacío. Stripe solo en este canal: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo / iris, pecas, laurel y clavo — sin id. 160.63 s (2:41). Voz es-CO-SalomeNeural.
+Título: 2026 Tu ojo azul no tiene azul
+Miniatura: NO TIENE AZUL
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote182-20261111/cu_lote182.mp4
+Tema, no repetir: color estructural del iris azul, melanina del iris marrón, pecas / efélides, lunares / nevos, laurel / Laurus nobilis, clavo de olor / Syzygium aromaticum. No es consejo médico. No Cuba. Publicar solo si list_channels muestra un canal de Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.

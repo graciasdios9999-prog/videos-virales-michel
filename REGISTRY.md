@@ -2453,3 +2453,19 @@ Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
 
 ### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
 - paratiroides. Granada / Punica granatum y cola de caballo / Equisetum como comida e infusión, no como cura. Título: 2026: Cuatro granos mandan tu calcio. Miniatura: CUATRO GRANOS. Voz es-CO-SalomeNeural. 2:22. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote198-20261112/main/cu_paratiroides.mp4
+
+## Lote 199 (2026-11-12) — no repetir
+Buffer HTTP 429 en buffer___get_account, primera llamada. Retry-After 709473 s (consulta 2026-11-12T21:28:03Z). create_post no se llamó. list_channels no se llamó. Nada publicado. No hay id de post. No llamar a Buffer antes de 2026-11-21T02:45:00Z.
+URLs directas HTTP 200 application/octet-stream: https://github.com/graciasdios9999-prog/lote199-20261112
+No es documental de 90 minutos. Cortes únicos ~2.2–2.8 s (fe tiene dos planos de 5.4 s; cu un plano de 3.9 s). Voz edge-tts. Subtítulos amarillo/blanco palabra por palabra. Titular 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en MEMORIA_PUBLICACION.md.
+El repo lote198-20261112 ya usó olinguito, óbolo de la viuda y paratiroides: no repetirlos.
+
+### IA al Alcance (category 15) — no repetir
+- foca de Weddell / Leptonychotes weddellii. No es foca de casco ni cangrejera. Título: 2026: Esta foca lima el hielo con los dientes. Miniatura: LIMA EL HIELO. Voz es-CO-SalomeNeural. 2:26. https://raw.githubusercontent.com/graciasdios9999-prog/lote199-20261112/main/ia_weddell.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- Agar, Génesis 16, paráfrasis. Manantial en el camino de Shur. No es Sarepta, Abigail, lirios, Melquisedec ni el óbolo. Título: 2026: Huyó al desierto y alguien la llamó por su nombre. Miniatura: DIOS LA VIO. Voz es-MX-JorgeNeural. 3:16. https://raw.githubusercontent.com/graciasdios9999-prog/lote199-20261112/main/fe_hagar.mp4
+Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
+- humor acuoso. Tamarindo / Tamarindus indica y hoja de curry / Murraya koenigii como comida, no como cura. No es paratiroides ni Pacini. Título: 2026: Tu ojo fabrica un agua que no es lágrima. Miniatura: NO ES LÁGRIMA. Voz es-MX-DaliaNeural. 2:47. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote199-20261112/main/cu_acuoso.mp4

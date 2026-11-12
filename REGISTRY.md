@@ -2289,3 +2289,33 @@ Miniatura: SIN NÚCLEO
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote189-20261112/cu_lote189.mp4
 Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote189-20261112/cu_desc.txt
 Tema, no repetir: eritrocito / glóbulo rojo anucleado; médula ósea; Bixa orellana / achiote; Nigella sativa; Rhus coriaria / zumaque; Pimenta dioica / pimienta de Jamaica; Aspalathus linearis / rooibos. No es punto ciego, clavícula, hipo, mesenterio, cóclea, cejas ni hioides. No es consejo médico. No Cuba. Publicar solo si list_channels muestra Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño si ese canal es YouTube.
+
+
+## Lote 190 (2026-11-12) — MP4 en release lote190-20261112. Buffer NO publicado.
+No es el lote 189 (Pesquet, Lucas 17, glóbulos rojos). Ese tag no se sobrescribió.
+buffer___get_account devolvió HTTP 429 en la primera llamada de la sesión. Retry-After: 746351 segundos. Cero reintentos. No se llamó list_channels ni create_post. No hay id de post.
+No llamar a Buffer antes de 2026-11-21T04:00:00Z.
+Organización no reconfirmada en esta pasada. Último nombre guardado: My organization (6ab1dd0b88b55d24ffd171d7).
+No hay documental de 90 minutos: un corte único cada 2–3 s durante 90 min exigiría ~1800 planos distintos y Commons no lo permite sin 429 ni repetición. Forma real de unos 2–3 minutos, vertical 720x1280, edge-tts, subtítulos amarillo/blanco palabra por palabra, titular con 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído del registro y de Drive, no inventado.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote190-20261112
+
+### IA AL ALCANCE — sin id. 175.23 s (2:55). Voz es-MX-DaliaNeural. categoryId 15 prevista.
+Título: 2026 Esa cuna no es una medusa
+Miniatura: NO ES MEDUSA
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote190-20261112/ia_lote190.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote190-20261112/ia_desc.txt
+Especies, no repetir: Phronima sedentaria; Sapphirina; Janthina janthina; Torquigener. No es Pesquet, aninga, Oreophasis, Cephalopterus ni Pygathrix.
+
+### Refugio en la Palabra — sin id. 136.39 s (2:16). Voz es-MX-JorgeNeural. categoryId 27 prevista.
+Título: 2026 Llevaba años junto al agua
+Miniatura: NO QUEDÓ VACÍO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote190-20261112/fe_lote190.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote190-20261112/fe_desc.txt
+Tema, no repetir: paráfrasis de Juan 5, estanque de Betesda. El hombre que no tenía quien lo metiera al agua. Gracias a Jesucristo y a Jehová. Promesa: quien busca a Dios no se queda vacío. No es Lucas 17, Mateo 15, Sofonías 3, Daniel 5 ni Josué 6. Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo / Meibomio, borraja, hisopo — sin id. 121.70 s (2:02). Voz es-CO-SalomeNeural.
+Título: 2026 El aceite de tu lágrima no es llanto
+Miniatura: NO ES LLANTO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote190-20261112/cu_lote190.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote190-20261112/cu_desc.txt
+Tema, no repetir: glándulas de Meibomio; Borago officinalis / borraja; Hyssopus officinalis / hisopo. No es Nigella, Tilia, glóbulo rojo, achiote, zumaque, rooibos, clavícula ni hioides. No es consejo médico. No Cuba. Publicar solo si list_channels muestra Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.

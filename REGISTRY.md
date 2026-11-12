@@ -2434,3 +2434,22 @@ Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
 
 ### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
 - cuerpo vítreo / miodesopsias. Apio / Apium graveolens y semilla de calabaza / Cucurbita como comida, no como cura. Título: 2026 Tu ojo guarda una gelatina que no vuelve. Miniatura: NO ES LAGRIMA. Voz es-MX-DaliaNeural. 2:25. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote197-20261112/main/cu_vitreo.mp4
+
+
+## Lote 198 (2026-11-12) — no repetir
+Buffer HTTP 429 en buffer___get_account. Retry-After 710375 s. create_post no se llamó. list_channels no se llamó. Nada publicado. No hay id de post. No llamar a Buffer antes de 2026-11-21T03:00:00Z.
+URLs directas HTTP 200 application/octet-stream:
+https://raw.githubusercontent.com/graciasdios9999-prog/lote198-20261112/main/ia_olinguito.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote198-20261112/main/fe_obolo.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote198-20261112/main/cu_paratiroides.mp4
+No es documental de 90 minutos. Cortes únicos ~2.5 s. Voz edge-tts. Subtítulos amarillo/blanco palabra por palabra. Titular 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en MEMORIA_PUBLICACION.md.
+
+### IA al Alcance (category 15) — no repetir
+- olinguito / Bassaricyon neblina. No es kinkajú ni olingo. Título: 2026: Ese cajón tenía el nombre equivocado. Miniatura: OTRA ESPECIE. Voz es-MX-DaliaNeural. 2:27. https://raw.githubusercontent.com/graciasdios9999-prog/lote198-20261112/main/ia_olinguito.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- óbolo de la viuda, paráfrasis de las dos monedas. No es Sarepta, Abigail, Melquisedec ni lirios. Título: 2026: Dos monedas pesaron más que el ruido. Miniatura: DOS MONEDAS. Voz es-MX-JorgeNeural. 2:24. https://raw.githubusercontent.com/graciasdios9999-prog/lote198-20261112/main/fe_obolo.mp4
+Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
+- paratiroides. Granada / Punica granatum y cola de caballo / Equisetum como comida e infusión, no como cura. Título: 2026: Cuatro granos mandan tu calcio. Miniatura: CUATRO GRANOS. Voz es-CO-SalomeNeural. 2:22. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote198-20261112/main/cu_paratiroides.mp4

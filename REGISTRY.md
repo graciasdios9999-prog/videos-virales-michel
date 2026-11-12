@@ -2376,3 +2376,17 @@ Buffer HTTP 429 en list_channels. Retry-After 739244 s. create_post no se llamó
 - atribución errónea de Dutton y Aron, puente. No es un truco de citas. Título: 2026 Ese miedo lo sentiste como atracción #Shorts
 
 Descartados de este lote por repetición de REGISTRY: gorila de Simons y Chabris; profundidad explicativa de Rozenblit y Keil 2002.
+
+
+## Lote 194 (2026-11-12) — no repetir
+Buffer HTTP 429 en get_account. Retry-After 735034 s. create_post no se llamó. Nada publicado. No llamar a Buffer antes de 2026-11-20 21:00 America/Chicago.
+URLs directas (HTTP 200, octet-stream): https://github.com/graciasdios9999-prog/lote194-20261112
+
+### IA al Alcance (category 15) — no repetir
+- pika americana / Ochotona princeps. No es hámster ni marmota. Título: 2026 Esta montaña se congela y él no. Voz es-CO-SalomeNeural. 2:37. https://raw.githubusercontent.com/graciasdios9999-prog/lote194-20261112/main/ia_pika.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- viuda de Sarepta / 1 Reyes 17, parafraseado. Harina y aceite. Título: 2026 La tinaja que no se vació. Voz es-MX-JorgeNeural. 2:40. https://raw.githubusercontent.com/graciasdios9999-prog/lote194-20261112/main/fe_sarepta.mp4
+
+### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
+- órgano de Corti / cóclea / células ciliadas. Título: 2026 Ese teclado no vuelve a nacer. Voz es-MX-DaliaNeural. 2:38. Ajo, tomillo, romero, orégano, limón y perejil como cocina, no como cura. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote194-20261112/main/cuerpo_corti.mp4

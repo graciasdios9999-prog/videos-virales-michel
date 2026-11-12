@@ -2390,3 +2390,16 @@ URLs directas (HTTP 200, octet-stream): https://github.com/graciasdios9999-prog/
 
 ### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
 - órgano de Corti / cóclea / células ciliadas. Título: 2026 Ese teclado no vuelve a nacer. Voz es-MX-DaliaNeural. 2:38. Ajo, tomillo, romero, orégano, limón y perejil como cocina, no como cura. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote194-20261112/main/cuerpo_corti.mp4
+
+## Lote 195 (2026-11-12) — no repetir
+Buffer HTTP 429 en get_account. Retry-After 730667 s (consulta ~2026-11-12T15:34:00Z). create_post no se llamó. Nada publicado. No llamar a Buffer antes de 2026-11-21T08:30:00-06:00.
+URLs directas (HTTP 200, octet-stream): https://github.com/graciasdios9999-prog/lote195-20261112
+
+### IA al Alcance (category 15) — no repetir
+- tortuga del río Mary / Elusor macrurus. No es mata mata ni tortuga nariz de cerdo. Título: 2026 Esa melena verde no es pelo. Voz es-CO-SalomeNeural. 2:36. https://raw.githubusercontent.com/graciasdios9999-prog/lote195-20261112/main/ia_elusor.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- lirios del campo, Mateo 6, parafraseado. No es la mostaza. Título: 2026 Esa flor no teje su ropa. Voz es-MX-JorgeNeural. 2:18. https://raw.githubusercontent.com/graciasdios9999-prog/lote195-20261112/main/fe_lirios.mp4
+
+### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
+- corpúsculos de Pacini. Chía (Salvia hispanica) y té verde (Camellia sinensis) como comida, no como cura. Título: 2026 Ese zumbido no lo oye el oído. Voz es-MX-DaliaNeural. 2:24. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote195-20261112/main/cuerpo_pacini.mp4

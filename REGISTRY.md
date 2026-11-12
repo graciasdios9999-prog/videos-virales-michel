@@ -2230,3 +2230,33 @@ Miniatura: NO QUEMA
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote187-20261112/cu_lote186.mp4
 Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote187-20261112/cu_desc.txt
 Tema, no repetir: Zanthoxylum (pimienta de Sichuán, hormigueo que no es chile); Satureja / ajedrea; Raphanus sativus; Eruca / rúcula; Nasturtium officinale / berro; Allium ampeloprasum / puerro. No es el mapa de la lengua ni Armoracia ni eneldo ni cóclea ni cejas. No es consejo médico. No Cuba. Publicar solo si list_channels muestra un canal de Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.
+
+## Lote 188 (2026-11-12) — MP4 en release lote188-20261112. Buffer NO publicado.
+buffer___get_account devolvió HTTP 429 en la primera llamada de esta sesión. Retry-After: 755019 segundos. Cero reintentos. No se llamó list_channels ni create_post. No hay id de post. No decir publicado.
+No llamar a Buffer antes de 2026-11-21T02:40:00Z. El lote 186 paralelo anotó Retry-After 759520 s; no adelantar llamadas. Un scheduler de Grok vence a los 7 días y no cubre ese plazo: no se programó un reintento.
+Organización no reconfirmada. Último nombre guardado: My organization (6ab1dd0b88b55d24ffd171d7).
+Canales no reconsultados. No se inventó un id. Última lista válida guardada: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Instagram no estaba. El video de cuerpo NO se publicó y NO se asignó a Anatomía del Engaño.
+No hay documental de 90 minutos. Cortes de Wikimedia, 720x1280, voz edge-tts, subtítulos amarillo/blanco palabra por palabra, titular con 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en MEMORIA, no inventado.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote188-20261112
+No reutiliza el lote 186 (Eunice, Mesonychoteuthis, Chironex, Daniel 5, Balaam, Rahab, cejas, mesenterio, cóclea, Armoracia, eneldo) ni el 187 (Cymothoa, Dyscophus, Lybia, Aplysia, Vitreledonella, Anhima cornuta, Josué 6, Zanthoxylum, Satureja, rábano, rúcula, berro, puerro).
+
+### IA AL ALCANCE — sin id. 156.93 s (2:37). Voz es-CO-SalomeNeural. categoryId 15 prevista.
+Título: 2026 Ese cuello no es una serpiente
+Miniatura: NO ES SERPIENTE
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote188-20261112/ia_lote188.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote188-20261112/ia_desc.txt
+Especies, no repetir: aninga / Anhinga anhinga; pavón cornudo / Oreophasis derbianus; pájaro paraguas amazónico / Cephalopterus ornatus; langur duc de patas rojas / Pygathrix nemaeus. No es Anhima cornuta ni Chauna.
+
+### Refugio en la Palabra — sin id. 143.13 s (2:23). Voz es-MX-JorgeNeural. categoryId 27 prevista.
+Título: 2026 Ella no se fue con las manos vacías
+Miniatura: PIDIÓ MIGAJAS
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote188-20261112/fe_lote188.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote188-20261112/fe_desc.txt
+Temas, no repetir: paráfrasis de Mateo 15, la madre que pidió migajas y no se fue vacía. Gracias a Jesucristo y a Jehová. Promesa: quien busca a Dios no se queda vacío. No es Daniel 5, Números 22, Josué 2, Josué 6 ni Mateo 8. Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo / clavícula, tendón de Aquiles, prominencia laríngea, mirto y alcaparra — sin id. 147.5 s (2:27). Voz es-MX-DaliaNeural.
+Título: 2026 Tu hombro cuelga de una viga
+Miniatura: ES UNA VIGA
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote188-20261112/cu_lote188.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote188-20261112/cu_desc.txt
+Tema, no repetir: clavícula humana; tendón calcáneo / de Aquiles (sin fotos de cirugía); prominencia laríngea; mirto / Myrtus communis; alcaparra / Capparis spinosa. No es mesenterio, cejas, cóclea, Armoracia, eneldo, Zanthoxylum ni hioides. No es consejo médico. No Cuba. Publicar solo si list_channels muestra Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.

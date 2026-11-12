@@ -2345,3 +2345,34 @@ Título: 2026: Tus dientes brillan con algo que no es hueso
 Miniatura: NO ES HUESO
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote191-20261112/cu_lote191.mp4
 Tema, no repetir: esmalte dental; borborygmo; cutícula ungueal; Dysphania ambrosioides / epazote; Pachyrhizus erosus / jícama; Psidium / guayaba; Annona cherimola (semilla no se come). No es achiote ni Bixa. No es consejo médico. No Cuba. Publicar solo si list_channels muestra Instagram. No usar este mp4 en Anatomía del Engaño. Si el perfil es personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true.
+
+## Lote 193 (2026-11-12) — 18 shorts 30–45 s. SIN post id de Buffer.
+
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote193-20261112
+Buffer HTTP 429 en list_channels. Retry-After 739244 s. create_post no se llamó. Nada publicado. No llamar a Buffer antes de 2026-11-21T08:00:00-06:00.
+
+### IA al Alcance (category 15) — no repetir
+- pez volador / Cheilopogon. Título: 2026 Esas alas no son de un ave #Shorts
+- cachorrito del Agujero del Diablo / Cyprinodon diabolis. Título: 2026 Esa especie cabe en un solo pozo #Shorts
+- lenguado / Bothus, migración del ojo. Título: 2026 Ese ojo cruzó la cara #Shorts
+- pez colmillo / Anoplogaster cornuta. No es el colmillo de morsa. Título: 2026 Esos dientes no caben en la boca #Shorts
+- petauro del azúcar / Petaurus breviceps. El descarte del lote 145 no tenía MP4. Título: 2026 Esas alas no tienen plumas #Shorts
+- pez balón / Himantolophus. No es Melanocetus. Título: 2026 Esa luz en la frente no es la luna #Shorts
+
+### Refugio en la Palabra (category 27) — no repetir. RV1960. Gracias a Jesucristo y a Jehová. Promesa: quien busca a Dios no se queda vacío. Stripe solo aquí.
+- Bartimeo, Marcos 10:52. No es Marcos 10:27. Título: 2026 Ese grito no era un estorbo #Shorts
+- Lucas 4:21, cerró el libro. Título: 2026 Cerró el libro y todos lo miraron #Shorts
+- Lucas 23:43, el otro crucificado. Título: 2026 Esa cruz de al lado también habló #Shorts
+- Esteban, Hechos 7:56. Título: 2026 Esa mirada no estaba en las piedras #Shorts
+- serpiente de bronce, Números 21:9. Título: 2026 Esa serpiente de metal no mordía #Shorts
+- el velo, 2 Corintios 3:16. Título: 2026 Ese velo no está en el libro #Shorts
+
+### Anatomía del Engaño (category 22) — aviso, no manual de manipulación. No repetir.
+- efecto durmiente / sleeper effect. Título: 2026 Olvidaste quién lo dijo y te quedó #Shorts
+- orientación de los pies, no detector de mentiras. Título: 2026 Esos pies ya votaron por irse #Shorts
+- efecto camaleón de Chartrand y Bargh 1999 (postura). No es el animal camaleón. Título: 2026 Copiaste la postura sin darte cuenta #Shorts
+- ilusión de Aristóteles, dedos cruzados, un punto sentido como dos. Título: 2026 Esos dedos cruzados parten un punto #Shorts
+- parpadeo atencional, Raymond Shapiro y Arnell. No es el gorila de Simons y Chabris. Título: 2026 Viste el primero y el segundo se esfumó #Shorts
+- atribución errónea de Dutton y Aron, puente. No es un truco de citas. Título: 2026 Ese miedo lo sentiste como atracción #Shorts
+
+Descartados de este lote por repetición de REGISTRY: gorila de Simons y Chabris; profundidad explicativa de Rozenblit y Keil 2002.

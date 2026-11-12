@@ -2419,3 +2419,18 @@ Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
 
 ### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
 - células de Merkel. Mirra / Commiphora e incienso / Boswellia como resina, no como cura. Título: 2026 Ese botón se cerró sin que lo miraras. Miniatura: NO LO MIRASTE. Voz es-CO-SalomeNeural. 1:44. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote196-20261112/main/cu_merkel.mp4
+
+## Lote 197 (2026-11-12) — no repetir
+Buffer HTTP 429 en buffer___get_account, primera llamada. Retry-After 724670 s. create_post no se llamó. list_channels no se llamó. Nada publicado. No hay id de post. No llamar a Buffer antes de 2026-11-21T02:30:00Z.
+URLs directas HTTP 200 application/octet-stream: https://github.com/graciasdios9999-prog/lote197-20261112
+No es documental de 90 minutos. Cortes únicos ~2.3 s. Voz edge-tts. Subtítulos amarillo/blanco. Titular 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en MEMORIA_PUBLICACION.md.
+
+### IA al Alcance (category 15) — no repetir
+- weka / Gallirallus australis. No es kiwi, casuario, ñandú ni takahe. Título: 2026 Esa ave sin vuelo te roba la cuchara. Miniatura: ROBA LA CUCHARA. Voz es-CO-SalomeNeural. 2:23. https://raw.githubusercontent.com/graciasdios9999-prog/lote197-20261112/main/ia_weka.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- Melquisedec, Génesis 14, paráfrasis. Pan y vino. No es Sarepta, Abigail, lirios ni Naamán. Título: 2026 El rey sin genealogía trajo pan y vino. Miniatura: PAN Y VINO. Voz es-MX-JorgeNeural. 2:31. https://raw.githubusercontent.com/graciasdios9999-prog/lote197-20261112/main/fe_melquisedec.mp4
+Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
+- cuerpo vítreo / miodesopsias. Apio / Apium graveolens y semilla de calabaza / Cucurbita como comida, no como cura. Título: 2026 Tu ojo guarda una gelatina que no vuelve. Miniatura: NO ES LAGRIMA. Voz es-MX-DaliaNeural. 2:25. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote197-20261112/main/cu_vitreo.mp4

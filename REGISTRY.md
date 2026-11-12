@@ -2139,3 +2139,32 @@ Miniatura: NO ES MILAGRO
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote184-20261111/cu_lote184.mp4
 Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote184-20261111/cu_desc.txt
 Tema, no repetir: grasa parda; muela del juicio; pestañas; hioides (antes no hubo video: faltaban planos); cóccix humano (no es Geococcyx); equinácea / Echinacea purpurea; escaramujo / Rosa canina; ginkgo / Ginkgo biloba. No es consejo médico. No Cuba. Publicar solo si list_channels muestra un canal de Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño. Excluidos por ya usados: lúnula, Cymbopogon, Alpinia galanga, ajo al corte, hinojo, albahaca, menta, diente de león, regaliz.
+
+
+## Lote 185 (2026-11-12) — MP4 en release lote185-20261112. Buffer NO publicado.
+buffer___get_account devolvió HTTP 429 en la primera llamada. Retry-After: 760694 segundos. rateLimit remaining 0, resetSeconds 760694. Cero reintentos. No se llamó list_channels ni create_post. No hay id de post. No decir publicado.
+No llamar a Buffer antes de 2026-11-21T02:40:00Z. Organización no reconfirmada en esta pasada. Último nombre guardado, no reconfirmado: My organization (6ab1dd0b88b55d24ffd171d7).
+Canales no reconsultados. No se inventó un id. Última lista válida guardada: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Instagram no estaba. El video de cuerpo NO se publicó y NO se asignó a Anatomía del Engaño.
+No hay documental de 90 minutos. Cortes únicos de Wikimedia cada ~2,4 s donde hubo fotos suficientes; el kokako quedó en cortes de ~3,9 s porque Commons respondió 429. A 0,9 Mbps, 90 min serían unos 600 MB y unas 2.100 fotos distintas: esta tanda no las fabricó. Piezas verticales 720x1280, voz edge-tts, subtítulos amarillo/blanco palabra por palabra, titular con 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en MEMORIA y en Drive, no inventado.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote185-20261112
+
+### IA AL ALCANCE — sin id. 133.16 s (2:13). Voz es-MX-DaliaNeural. categoryId 15 prevista.
+Título: 2026 Ese pico se cruza a propósito
+Miniatura: PICO CRUZADO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote185-20261112/ia_lote185.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote185-20261112/ia_desc.txt
+Especies, no repetir: piquituerto / Loxia curvirostra; kea / Nestor notabilis; viscacha de montaña / Lagidium viscacia; kokako del norte / Callaeas wilsoni.
+
+### Refugio en la Palabra — sin id. 124.80 s (2:05). Voz es-MX-JorgeNeural. categoryId 27 prevista.
+Título: 2026 La sentencia ya estaba en su boca
+Miniatura: TÚ ERES AQUEL
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote185-20261112/fe_lote185.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote185-20261112/fe_desc.txt
+Temas, no repetir: 2 Samuel 12, parábola de la cordera, Natán, «Tú eres aquel varón», «Jehová ha remitido tu pecado». Gracias a Jesucristo y a Jehová. Promesa: quien busca a Dios no se queda vacío. Stripe solo en este canal: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo / ombligo, nopal y stevia — sin id. 105.26 s (1:45). Voz es-CO-SalomeNeural.
+Título: 2026 Tu ombligo no es un nudo
+Miniatura: NO ES NUDO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote185-20261112/cu_lote185.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote185-20261112/cu_desc.txt
+Tema, no repetir: ombligo como cicatriz del cordón; nopal / Opuntia (la penca es tallo); stevia / Stevia rebaudiana (dulzor sin azúcar de mesa). No es consejo médico. No Cuba. Publicar solo si list_channels muestra un canal de Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.

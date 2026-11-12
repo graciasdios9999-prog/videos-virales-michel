@@ -2260,3 +2260,32 @@ Miniatura: ES UNA VIGA
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote188-20261112/cu_lote188.mp4
 Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote188-20261112/cu_desc.txt
 Tema, no repetir: clavícula humana; tendón calcáneo / de Aquiles (sin fotos de cirugía); prominencia laríngea; mirto / Myrtus communis; alcaparra / Capparis spinosa. No es mesenterio, cejas, cóclea, Armoracia, eneldo, Zanthoxylum ni hioides. No es consejo médico. No Cuba. Publicar solo si list_channels muestra Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.
+
+## Lote 189 (2026-11-12) — MP4 en release lote189-20261112. Buffer NO publicado.
+buffer___get_account devolvió HTTP 429 en la primera llamada. Retry-After: 745329 segundos. Cero reintentos. No se llamó list_channels ni create_post. No hay id de post.
+No llamar a Buffer antes de 2026-11-21T02:45:00Z (margen sobre 2026-11-21T02:32:01Z de este 429 y sobre 02:40Z del lote 188).
+Un scheduler de 6 días solo crea el reintento; la publicación real queda para después de ese plazo. No se inventó un id de canal.
+Organización no reconfirmada en esta pasada. Último nombre guardado: My organization (6ab1dd0b88b55d24ffd171d7).
+No hay documental de 90 minutos: un corte único cada 2–3 s durante 90 min no cabe en Commons sin 429 ni en un mp4 publicable. Forma de 3 minutos del encargo, vertical 720x1280, edge-tts, subtítulos amarillo/blanco palabra por palabra, titular con 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en MEMORIA, no inventado.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote189-20261112
+
+### IA AL ALCANCE — sin id. 160.3 s (2:40). Voz es-MX-DaliaNeural. categoryId 15 prevista.
+Título: 2026 La cara pelada que no come carroña
+Miniatura: ES UN LORO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote189-20261112/ia_lote189.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote189-20261112/ia_desc.txt
+Especie, no repetir: loro de Pesquet / loro aguileño / Psittrichas fulgidus. No es saiga, aninga, pavón cornudo ni pájaro paraguas.
+
+### Refugio en la Palabra — sin id. 133.1 s (2:13). Voz es-MX-JorgeNeural. categoryId 27 prevista.
+Título: 2026 Diez recibieron lo mismo. Uno volvió
+Miniatura: UNO VOLVIÓ
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote189-20261112/fe_lote189.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote189-20261112/fe_desc.txt
+Tema, no repetir: Lucas 17, diez que fueron limpios y uno que volvió a dar gracias. RV1909 dominio público, frase corta. Gracias a Jesucristo y a Jehová. Promesa: quien busca a Dios no se queda vacío. No es Mateo 15, Sofonías 3, Daniel 5, Josué 6 ni Cornelio. Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo / glóbulos rojos, médula ósea, achiote, nigella, zumaque, pimienta de Jamaica, rooibos — sin id. 138.5 s (2:18). Voz es-CO-SalomeNeural.
+Título: 2026 Tus glóbulos rojos tiran el núcleo
+Miniatura: SIN NÚCLEO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote189-20261112/cu_lote189.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote189-20261112/cu_desc.txt
+Tema, no repetir: eritrocito / glóbulo rojo anucleado; médula ósea; Bixa orellana / achiote; Nigella sativa; Rhus coriaria / zumaque; Pimenta dioica / pimienta de Jamaica; Aspalathus linearis / rooibos. No es punto ciego, clavícula, hipo, mesenterio, cóclea, cejas ni hioides. No es consejo médico. No Cuba. Publicar solo si list_channels muestra Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño si ese canal es YouTube.

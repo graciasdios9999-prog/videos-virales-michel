@@ -2168,3 +2168,34 @@ Miniatura: NO ES NUDO
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote185-20261112/cu_lote185.mp4
 Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote185-20261112/cu_desc.txt
 Tema, no repetir: ombligo como cicatriz del cordón; nopal / Opuntia (la penca es tallo); stevia / Stevia rebaudiana (dulzor sin azúcar de mesa). No es consejo médico. No Cuba. Publicar solo si list_channels muestra un canal de Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.
+
+
+## Lote 186 (2026-11-12) — MP4 en release lote186-20261112. Buffer NO publicado.
+buffer___get_account devolvió HTTP 429 en la primera llamada de esta sesión. Retry-After: 759520 segundos. rateLimit remaining 0, resetSeconds 759520. Cero reintentos. No se llamó list_channels ni create_post. No hay id de post. No decir publicado.
+No llamar a Buffer antes de 2026-11-21T03:10:00Z. Un scheduler de la plataforma vence a los 7 días, antes de ese plazo: no se programó un reintento temprano.
+Organización no reconfirmada. Último nombre guardado, no reconfirmado: My organization (6ab1dd0b88b55d24ffd171d7).
+Canales no reconsultados y no se inventó un id. Última lista válida guardada: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Instagram no estaba. El video de cuerpo NO se publicó y NO se asignó a Anatomía del Engaño.
+No es hora y media. Cortes nuevos de Wikimedia (thumb.wikimedia.org, 960 px) cada 2,6–2,9 s salvo el gusano bobbit (pocas fotos, ~4,9 s). Rellenar 90 min a ese ritmo exige unas 2.000 fotos distintas y un mp4 de cientos de MB; no se alargó repitiendo planos ni especies ya usadas. Piezas verticales 720x1280, voz edge-tts, subtítulos amarillo/blanco palabra por palabra, titular con 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en MEMORIA_PUBLICACION.md, no inventado.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote186-20261112
+El lote 185 (piquituerto, kea, viscacha, kokako, 2 Samuel 12, ombligo, nopal, stevia) no se reutilizó.
+
+### IA AL ALCANCE — sin id. 1131.56 s (18:52). Voz es-MX-DaliaNeural. categoryId 15 prevista.
+Título: 2026 Esa mandíbula espera bajo la arena
+Miniatura: BAJO LA ARENA
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote186-20261112/ia.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote186-20261112/ia_desc.txt
+Especies, no repetir: gusano bobbit / Eunice aphroditois; calamar colosal / Mesonychoteuthis hamiltoni; medusa caja / Chironex fleckeri; pez loro / Scarus; pez gato eléctrico / Malapterurus; raya torpedo / Torpedo; tiburón martillo / Sphyrna; angelote / Squatina; quimera / Chimaera; urogallo / Tetrao urogallus; gecko paracaídas / Ptychozoon; dragón barbudo / Pogona; camaleón nano / Brookesia nana; rana goliat / Conraua goliath; manta / Mobula birostris y Mobula alfredi; martín pescador / Alcedo atthis; pitón reticulada / Malayopython reticulatus; cabra montés y bucardo / Capra pyrenaica; medusa luna / Aurelia aurita; foca común / Phoca vitulina; escorpión (fluorescencia UV); erizo de mar / Paracentrotus lividus; coral cerebro / Diploria; sapo común / Bufo bufo; tritón liso / Lissotriton vulgaris; ganso del Nilo / Alopochen aegyptiaca; zampullín común / Tachybaptus ruficollis.
+
+### Refugio en la Palabra — sin id. 372.01 s (6:12). Voz es-MX-JorgeNeural. categoryId 27 prevista.
+Título: 2026 La pared escribió sola
+Miniatura: ESCRIBIÓ SOLA
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote186-20261112/fe.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote186-20261112/fe_desc.txt
+Temas, no repetir: Daniel 5, mano en el muro, balanza, Belsasar; Números 22, asna de Balaam; Josué 2, cordón escarlata de Rahab; Marcos 7, sé abierto; Mateo 8, centurión y la barca. Citas cortas parafraseadas, no audiolibro. Gracias a Jehová y a Jesucristo. Promesa: quien busca a Dios no se queda vacío. Stripe solo en este canal: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo / cejas, sonrojo, mesenterio, tímpano, cóclea, papilas, rábano picante y eneldo — sin id. 301.01 s (5:01). Voz es-CO-SalomeNeural.
+Título: 2026 Tus cejas no son adorno
+Miniatura: NO SON ADORNO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote186-20261112/cu.mp4
+Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote186-20261112/cu_desc.txt
+Tema, no repetir: cejas como dique del sudor; sonrojo; mesenterio; tímpano; cóclea; papilas gustativas; rábano picante / Armoracia rusticana; eneldo / Anethum graveolens. No es consejo médico. No se menciona Cuba. Publicar solo si list_channels muestra un canal de Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.

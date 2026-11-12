@@ -2319,3 +2319,29 @@ Miniatura: NO ES LLANTO
 URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote190-20261112/cu_lote190.mp4
 Descripción: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote190-20261112/cu_desc.txt
 Tema, no repetir: glándulas de Meibomio; Borago officinalis / borraja; Hyssopus officinalis / hisopo. No es Nigella, Tilia, glóbulo rojo, achiote, zumaque, rooibos, clavícula ni hioides. No es consejo médico. No Cuba. Publicar solo si list_channels muestra Instagram. Si es perfil personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true. No usar este mp4 en Anatomía del Engaño.
+
+## Lote 191 (2026-11-12) — MP4 en release lote191-20261112. Buffer NO publicado.
+No es lote 189 (Pesquet, Lucas 17, glóbulos, achiote) ni lote 190 (Phronima, Juan 5, Meibomio).
+buffer___get_account devolvió HTTP 429 en la primera llamada. Retry-After: 744396 segundos. Cero reintentos. No se llamó list_channels ni create_post. No hay id de post.
+No llamar a Buffer antes de 2026-11-21T04:00:00Z.
+Organización no reconfirmada en vivo. Último nombre guardado en el registro: My organization (6ab1dd0b88b55d24ffd171d7).
+No hay documental de 90 minutos. Cortes únicos de 2.3 a 3.2 s. Alargar a 90:00 repetiría fotos o especies ya usadas (yaguarundí y Otolemur estaban en el registro con tilde; se descartaron). Voz edge-tts. Subtítulos amarillo/blanco palabra por palabra. Titular 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en Drive y en este registro, no inventado.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote191-20261112
+
+### IA AL ALCANCE — sin id. 607.17 s (10:07). Voz es-MX-DaliaNeural. 720x1280. categoryId 15 prevista.
+Título: 2026: El mono que salta como si el aire fuera suelo
+Miniatura: SALTA SIN ALAS
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote191-20261112/ia_lote191.mp4
+Especies, no repetir: saki cara blanca / Pithecia pithecia; mono lanudo / Lagothrix lagotricha; campanero blanco / Procnias albus; carraca cuclillo / Leptosomus discolor; pita / Pitta iris y Pitta moluccensis; pez trípode / Bathypterois grallator; rata topo de Damaralandia / Fukomys damarensis; musaraña etrusca / Suncus etruscus; bandicut hocico largo / Perameles nasuta; topo dorado / Amblysomus; falangero listado / Dactylopsila trivirgata; bettong woylie / Bettongia penicillata; murciélago de ventosas / Thyroptera tricolor; dragón mandíbula floja / Malacosteus niger; muriquí / Brachyteles; gimnuro / Echinosorex gymnura. No es yaguarundí ni Otolemur (ya estaban). La esponja arpa no entró: Commons no dio planos suficientes.
+
+### Refugio en la Palabra — sin id. 673.58 s (11:14). Voz es-MX-JorgeNeural. 1280x720. categoryId 27 prevista.
+Título: 2026: Dieciocho años doblada y una voz la enderezó
+Miniatura: LA ENDEREZÓ
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote191-20261112/fe_lote191.mp4
+Temas, no repetir: mujer encorvada y cita breve de dominio público «Mujer, libre eres de tu enfermedad»; lámpara que no se esconde; casa sobre la roca; perla; pozo al mediodía; Nicodemo de noche; tinajas de Caná; lavatorio de pies; huerto al amanecer; carta por Onésimo; sembrador. Gracias a Jesucristo y a Jehová. Promesa: quien busca a Dios no se queda vacío. No es Lucas 17, Juan 5 ni Mateo 15. Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo / esmalte, borborygmo, cutícula, epazote, jícama, guayaba, chirimoya — sin id. 146.05 s (2:26). Voz es-CO-SalomeNeural. 720x1280.
+Título: 2026: Tus dientes brillan con algo que no es hueso
+Miniatura: NO ES HUESO
+URL: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/download/lote191-20261112/cu_lote191.mp4
+Tema, no repetir: esmalte dental; borborygmo; cutícula ungueal; Dysphania ambrosioides / epazote; Pachyrhizus erosus / jícama; Psidium / guayaba; Annona cherimola (semilla no se come). No es achiote ni Bixa. No es consejo médico. No Cuba. Publicar solo si list_channels muestra Instagram. No usar este mp4 en Anatomía del Engaño. Si el perfil es personal, schedulingType notification; si no, automatic. type reel, shouldShareToFeed true.

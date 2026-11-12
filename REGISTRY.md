@@ -2403,3 +2403,19 @@ URLs directas (HTTP 200, octet-stream): https://github.com/graciasdios9999-prog/
 
 ### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
 - corpúsculos de Pacini. Chía (Salvia hispanica) y té verde (Camellia sinensis) como comida, no como cura. Título: 2026 Ese zumbido no lo oye el oído. Voz es-MX-DaliaNeural. 2:24. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote195-20261112/main/cuerpo_pacini.mp4
+
+## Lote 196 (2026-11-12) — no repetir
+Buffer HTTP 429 en get_account, primera llamada. Retry-After 727248 s (consulta ~2026-11-12T16:29:00Z). create_post no se llamó. list_channels no se llamó. Nada publicado. No hay id de post. No llamar a Buffer antes de 2026-11-21T02:30:00Z.
+Organización no reconfirmada en vivo. Último nombre guardado: My organization (6ab1dd0b88b55d24ffd171d7).
+No hay documental de 90 minutos. Cortes únicos ~2.0–2.5 s. Voz edge-tts. Subtítulos amarillo/blanco palabra por palabra. Titular 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en Drive y en MEMORIA_PUBLICACION.md.
+URLs directas HTTP 200 octet-stream: https://github.com/graciasdios9999-prog/lote196-20261112
+
+### IA al Alcance (category 15) — no repetir
+- tití cabeciblanco / Saguinus oedipus. No es tití pigmeo ni cabeza de algodón de otra especie. Título: 2026 Esa peluca blanca no es de un viejo. Miniatura: NO ES CANA. Voz es-MX-DaliaNeural. 2:26. https://raw.githubusercontent.com/graciasdios9999-prog/lote196-20261112/main/ia_tamarin.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- Abigail, 1 Samuel 25, parafraseado. Panes, ovejas y odres. No es Sarepta, lirios, Juan 5 ni Lucas 17. Título: 2026 Paró a los armados con panes. Miniatura: CON PANES. Voz es-MX-JorgeNeural. 2:07. https://raw.githubusercontent.com/graciasdios9999-prog/lote196-20261112/main/fe_abigail.mp4
+Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
+- células de Merkel. Mirra / Commiphora e incienso / Boswellia como resina, no como cura. Título: 2026 Ese botón se cerró sin que lo miraras. Miniatura: NO LO MIRASTE. Voz es-CO-SalomeNeural. 1:44. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote196-20261112/main/cu_merkel.mp4

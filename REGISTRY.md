@@ -2489,3 +2489,23 @@ Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
 
 ### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
 - otolitos del oído interno (utrículo y sáculo). Malvavisco / Althaea officinalis y ginseng / Panax ginseng como planta de mesa, no como cura. No es humor acuoso, vítreo, paratiroides, Merkel, Pacini ni Corti. Título: 2026: Unas piedras del oído deciden el abajo. Miniatura: DÓNDE ES ABAJO. Voz es-CO-SalomeNeural. 2:34. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote200-20261113/main/cu_otolito.mp4
+
+
+## Lote 201 (2026-11-13) — no repetir
+Buffer HTTP 429 en buffer___get_account, primera llamada. Retry-After 669615 s (consulta 2026-11-13T08:38:30Z). create_post no se llamó. list_channels no se llamó. Nada publicado. No hay id de post. No llamar a Buffer antes de 2026-11-21T02:50:00Z.
+No es documental de 90 minutos. Cortes únicos ~3.1 s. Voz edge-tts. Subtítulos amarillo/blanco palabra por palabra. Titular 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en MEMORIA_PUBLICACION.md.
+URLs directas HTTP 200 application/octet-stream:
+https://raw.githubusercontent.com/graciasdios9999-prog/lote201-20261113/main/ia_pardela.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote201-20261113/main/fe_filipos.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote201-20261113/main/cu_sinovial.mp4
+El cuerpo no se publica en Anatomía del Engaño. Instagram solo si list_channels lo muestra.
+
+### IA al Alcance (category 15) — no repetir
+- pardela cenicienta / Calonectris borealis. No es albatros, alcatraz ni frailecillo. Título: 2026: Esta ave cruza el mar sin mirar el mapa. Miniatura: SIN MAPA. Voz es-MX-DaliaNeural. 2:28. https://raw.githubusercontent.com/graciasdios9999-prog/lote201-20261113/main/ia_pardela.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- carcelero de Filipos, paráfrasis de Hechos 16. Pan y agua la misma noche. No es Emaús, Agar, óbolo, Melquisedec, Sarepta ni Abigail. Título: 2026: El terremoto abrió la cárcel y nadie huyó. Miniatura: NADIE HUYÓ. Voz es-MX-JorgeNeural. 2:34. https://raw.githubusercontent.com/graciasdios9999-prog/lote201-20261113/main/fe_filipos.mp4
+Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
+- líquido sinovial. Algarroba / Ceratonia siliqua y ajwain / Trachyspermum ammi como comida, no como cura. No es otolito, humor acuoso, vítreo ni paratiroides. Título: 2026: Tus huesos se deslizan con un aceite vivo. Miniatura: NO ES SANGRE. Voz es-CO-SalomeNeural. 2:34. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote201-20261113/main/cu_sinovial.mp4

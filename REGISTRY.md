@@ -2469,3 +2469,23 @@ Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
 
 ### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
 - humor acuoso. Tamarindo / Tamarindus indica y hoja de curry / Murraya koenigii como comida, no como cura. No es paratiroides ni Pacini. Título: 2026: Tu ojo fabrica un agua que no es lágrima. Miniatura: NO ES LÁGRIMA. Voz es-MX-DaliaNeural. 2:47. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote199-20261112/main/cu_acuoso.mp4
+
+
+## Lote 200 (2026-11-13) — no repetir
+Buffer HTTP 429 en buffer___get_account, primera llamada. Retry-After 681639 s (consulta ~2026-11-13T05:14:00Z). create_post no se llamó. list_channels no se llamó. Nada publicado. No hay id de post. No llamar a Buffer antes de 2026-11-21T03:00:00Z.
+No es documental de 90 minutos: Commons no tiene ~2160 planos únicos de estos temas y el raw de GitHub corta en 100 MB. Cortes sin repetir imagen. Voz edge-tts. Subtítulos amarillo/blanco palabra por palabra. Titular 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en MEMORIA_PUBLICACION.md.
+URLs directas HTTP 200 application/octet-stream:
+https://raw.githubusercontent.com/graciasdios9999-prog/lote200-20261113/main/ia_kudu.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote200-20261113/main/fe_emaus.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote200-20261113/main/cu_otolito.mp4
+El cuerpo no se publica en Anatomía del Engaño. Instagram solo si list_channels lo muestra.
+
+### IA al Alcance (category 15) — no repetir
+- kudú mayor / Tragelaphus strepsiceros. No es eland, bushbuck ni shofar. Título: 2026: Ese cuerno en espiral no sirve para clavar. Miniatura: NO ES LANZA. Voz es-MX-DaliaNeural. 3:05. https://raw.githubusercontent.com/graciasdios9999-prog/lote200-20261113/main/ia_kudu.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- camino a Emaús, paráfrasis de Lucas 24. Pan partido. No es Sarepta, Abigail, Agar, lirios, Melquisedec ni el óbolo. Título: 2026: Caminaron con él y no lo reconocieron. Miniatura: NO LO VIERON. Voz es-MX-JorgeNeural. 2:45. https://raw.githubusercontent.com/graciasdios9999-prog/lote200-20261113/main/fe_emaus.mp4
+Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
+- otolitos del oído interno (utrículo y sáculo). Malvavisco / Althaea officinalis y ginseng / Panax ginseng como planta de mesa, no como cura. No es humor acuoso, vítreo, paratiroides, Merkel, Pacini ni Corti. Título: 2026: Unas piedras del oído deciden el abajo. Miniatura: DÓNDE ES ABAJO. Voz es-CO-SalomeNeural. 2:34. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote200-20261113/main/cu_otolito.mp4

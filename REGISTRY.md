@@ -2509,3 +2509,23 @@ Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
 
 ### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
 - líquido sinovial. Algarroba / Ceratonia siliqua y ajwain / Trachyspermum ammi como comida, no como cura. No es otolito, humor acuoso, vítreo ni paratiroides. Título: 2026: Tus huesos se deslizan con un aceite vivo. Miniatura: NO ES SANGRE. Voz es-CO-SalomeNeural. 2:34. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote201-20261113/main/cu_sinovial.mp4
+
+
+## Lote 202 (2026-11-14) — no repetir
+Buffer HTTP 429 en buffer___get_account, primera llamada, ~2026-11-13T23:16:06Z. Retry-After 616694 s. create_post no se llamó. list_channels no se llamó. Nada publicado. No hay id de post. No llamar a Buffer antes de 2026-11-21T02:36:00Z.
+No es documental de 90 minutos. Cortes únicos: drongo 58 planos (2.19–3.18 s), hortelano 55 (2.04–3.15 s), menisco 51 (2.27–3.20 s). Commons respondió 429 con Retry-After 600 s a mitad de la descarga; no se reciclaron fotos. Voz edge-tts. Subtítulos amarillo/blanco palabra por palabra. Titular 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en este REGISTRY (no inventado).
+URLs directas HTTP 200 application/octet-stream:
+https://raw.githubusercontent.com/graciasdios9999-prog/lote202-20261113/main/ia_drongo.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote202-20261113/main/fe_hortelano.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote202-20261113/main/cu_menisco.mp4
+El cuerpo no se publica en Anatomía del Engaño. Instagram solo si list_channels lo muestra.
+
+### IA al Alcance (category 15) — no repetir
+- drongo de cola ahorquillada / Dicrurus adsimilis. No es cuervo, estornino, ave lira ni pergolero. Título: 2026: Este grito de ave es un robo. Miniatura: MIENTE Y COME. Voz es-MX-DaliaNeural. 2:35 (154.8 s). https://raw.githubusercontent.com/graciasdios9999-prog/lote202-20261113/main/ia_drongo.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- María Magdalena en el sepulcro, paráfrasis de Juan 20 (lo confundió con el hortelano). No es Emaús, Filipos, Sarepta, Abigail, dracma, pródigo ni pozo. Título: 2026: Lo confundió con el jardinero. Miniatura: NO ERA HUERTO. Voz es-MX-JorgeNeural. 2:25 (145.2 s). https://raw.githubusercontent.com/graciasdios9999-prog/lote202-20261113/main/fe_hortelano.mp4
+Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
+- meniscos de la rodilla (fibrocartílago, no es hueso). Perifollo / Anthriscus cerefolium y levístico / Levisticum officinale como comida, no como cura. No es sinovial, otolito, humor acuoso, fascia ni rótula como tema. Título: 2026: Esa media luna no es hueso. Miniatura: NO ES HUESO. Voz es-CO-SalomeNeural. 2:22 (141.5 s). Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote202-20261113/main/cu_menisco.mp4

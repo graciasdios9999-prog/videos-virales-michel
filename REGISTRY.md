@@ -2529,3 +2529,22 @@ Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
 
 ### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
 - meniscos de la rodilla (fibrocartílago, no es hueso). Perifollo / Anthriscus cerefolium y levístico / Levisticum officinale como comida, no como cura. No es sinovial, otolito, humor acuoso, fascia ni rótula como tema. Título: 2026: Esa media luna no es hueso. Miniatura: NO ES HUESO. Voz es-CO-SalomeNeural. 2:22 (141.5 s). Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote202-20261113/main/cu_menisco.mp4
+
+
+## lote 205 (2026-11-14) — no repetir
+buffer get_account HTTP 429 en la primera llamada, Retry-After 536694 s. create_post no se llamó. list_channels no se llamó. nada publicado. no hay id de post. no reintentar antes de 2026-11-21T02:40:00Z.
+no es documental de 90 minutos. cortes únicos sin repetir foto.
+urls directas http 200 application/octet-stream:
+https://raw.githubusercontent.com/graciasdios9999-prog/lote205-20261114/main/ia_namaqua.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote205-20261114/main/fe_saba.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote205-20261114/main/cu_surfactante.mp4
+
+### ia al alcance (category 15) — no repetir
+- ganga de namaqua / pterocles namaqua. el macho empapa plumas del vientre y los polluelos beben. no es drongo, pardela, nerpa, kudu, hoacín, okapi ni camello. título: 2026 este padre esconde el agua en las plumas. miniatura: agua en plumas. voz es-mx-dalianeural. 00:02:12. vertical 720x1280.
+
+### refugio en la palabra (category 27) — no repetir
+- reina de sabá, paráfrasis de 1 reyes 10 y cita breve rv1909. preguntas, camellos, especias, no se fue vacía. no es emaús, filipos, sarepta, abigail, agar, hortelano, óbolo ni melquisedec. título: 2026 llegó con preguntas y no se fue vacía. miniatura: no fue vacía. voz es-mx-jorgeneural. 00:02:08. 1280x720.
+stripe solo aquí: https://buy.stripe.com/7sy28l6jrgsg72v7un7bw0b
+
+### cuerpo (solo instagram si existiera; no va a anatomía del engaño) — no repetir
+- surfactante pulmonar / alvéolos. sumac / rhus coriaria y cedrón / aloysia citrodora como comida, no como cura. no es sinovial, otolito, menisco, parpadeo, hioides ni humor acuoso. título: 2026 tus pulmones no se pegan al soltar el aire. miniatura: no se pegan. voz es-co-salomeneural. 00:01:39.

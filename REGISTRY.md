@@ -2649,3 +2649,23 @@ Drive folder creada pero la copia de mp4 falló por credencial: https://drive.go
 - ignorancia pluralista, Prentice y Miller 1993. Título: 2026 Nadie estaba de acuerdo y todos actuaron #Shorts
 - verdad por defecto, Levine. Título: 2026 El engaño entra porque llegas creyendo #Shorts
 - error de Otelo, Ekman; Bond y DePaulo 2006. Título: 2026 El nervioso no es la prueba #Shorts
+
+
+## Lote 211 (2026-11-15) — no repetir
+Buffer HTTP 429 en buffer___get_account, primera llamada de esta ejecución, 2026-11-15. Retry-After 469079 s. create_post no se llamó. list_channels no se llamó. Nada publicado. No hay id de post. No llamar a Buffer antes de 2026-11-21T03:10:00Z. Una sola tarea programada para después de ese plazo; si vuelve 429, no crear otra.
+No es documental de 90 minutos: el corte cada 2.6 s y el tope de archivo de GitHub (100 MB) no caben en 90 min. Forma ejecutada: vertical 1080x1920, gancho, subtítulos palabra a palabra amarillo/blanco, titular 2026, CTA a mitad y al final. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en Drive (LOTE_COMPLETO) y en este REGISTRY, no inventado.
+URLs directas HTTP 200 application/octet-stream:
+https://raw.githubusercontent.com/graciasdios9999-prog/lote211-20261115/main/ia_chousingha_2026.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote211-20261115/main/fe_vinia_2026.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote211-20261115/main/cu_langerhans_2026.mp4
+Manifest: https://raw.githubusercontent.com/graciasdios9999-prog/lote211-20261115/main/manifest.json
+El cuerpo no se publica en Anatomía del Engaño. Instagram solo si list_channels muestra un canal service instagram.
+
+### IA al Alcance (category 15) — no repetir
+- chousingha / antílope de cuatro cuernos / Tetracerus quadricornis. Macho con dos pares, hembra casi sin cuernos, bosque seco de la India, vulnerable. No es saiga, markhor, takin, nilgai, blackbuck, kudú ni ciervo almizclero. Título: 2026 Este antílope trae cuatro cuernos y casi nadie los ve. Miniatura: CUATRO CUERNOS. Voz es-MX-DaliaNeural. 2:35. 59 planos, promedio 2.63 s. https://raw.githubusercontent.com/graciasdios9999-prog/lote211-20261115/main/ia_chousingha_2026.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- Jornaleros de la viña, paráfrasis de Mateo 20, cita breve RV1909 Mateo 20:14: Quiero dar a este postrero como a ti. No es Mateo 15, Lucas 7, Naín, el frasco de alabastro, Daniel 3 ni la oveja perdida. Título: 2026 Llegaron a la última hora y no se fueron vacíos. Miniatura: LLEGARON TARDE. Voz es-MX-JorgeNeural. 2:17. https://raw.githubusercontent.com/graciasdios9999-prog/lote211-20261115/main/fe_vinia_2026.mp4
+
+### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
+- Islotes de Langerhans. Pimienta larga / Piper longum y agracejo / Berberis vulgaris como comida, no como cura. No es asa de Henle, podocitos, células de Paneth, cúrcuma, jengibre ni canela. Título: 2026 Hay islas en tu páncreas que no piden permiso. Miniatura: ISLAS ADENTRO. Voz es-CO-SalomeNeural. 2:58. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote211-20261115/main/cu_langerhans_2026.mp4

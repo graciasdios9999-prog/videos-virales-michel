@@ -2618,3 +2618,34 @@ Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
 
 ### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
 - podocitos del glomérulo. No es el asa de Henle. Acedera / Rumex acetosa y mahleb / Prunus mahaleb como comida, no como cura. Título: 2026 Unos pies frenan tu sangre. Miniatura: FRENAN LA SANGRE. Voz es-CO-SalomeNeural. 1:49. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote209-20261115/main/cu_podocito.mp4
+
+
+## Lote 210 (2026-11-15) — no repetir
+Buffer HTTP 429 en list_channels, primera llamada, ~2026-11-15T12:55Z. Retry-After 481119 s. create_post no se llamó. list_posts no se llamó. Nada publicado. No hay id de post. No llamar a Buffer antes de 2026-11-21T02:40:00Z.
+18 shorts 30-45 s. Voz edge-tts. Subtítulos amarillo/blanco. isAiGenerated true. madeForKids false. Tag michelgonza02-20.
+Release: https://github.com/graciasdios9999-prog/videos-virales-michel/releases/tag/lote210-20261115
+Drive folder creada pero la copia de mp4 falló por credencial: https://drive.google.com/drive/folders/1pUGKk0tNjJNpo2YOzl5HRGyoUzbmyn1f
+
+### IA al Alcance (category 15) — no repetir
+- hihi / Notiomystis cincta. Título: 2026 Ese pájaro no es un canario #Shorts
+- grisón mayor / Galictis vittata. Título: 2026 Esa raya no es de un hurón #Shorts
+- Odontomachus bauri, mandíbula trampa. Título: 2026 Esa mandíbula no muerde: dispara #Shorts
+- antechinus. Título: 2026 Ese macho no envejece: se apaga #Shorts
+- Rheobatrachus silus. Título: 2026 Esta madre daba a luz por la boca #Shorts
+- Pseudis paradoxa. Título: 2026 La cría es más grande que el adulto #Shorts
+
+### Refugio en la Palabra (category 27) — no repetir
+- Lucas 18:13 publicano, RVR1960. Título: 2026 El que bajó la mirada fue oído #Shorts
+- Colosenses 1:17. Título: 2026 El mundo no se sostiene solo #Shorts
+- Hechos 20:10 Eutico. Título: 2026 Cayó del tercer piso y dijeron muerto #Shorts
+- Marcos 5:41 Talita cumi. Título: 2026 Talita cumi: una mano y una orden #Shorts
+- 2 Corintios 4:7 vasos de barro. Título: 2026 El tesoro no está en el vaso #Shorts
+- Lucas 22:32. Título: 2026 Alguien rogó antes de la sacudida #Shorts
+
+### Anatomía del Engaño (category 22) — no repetir
+- ceguera a la elección, Johansson Hall Sikström Olsson 2005. Título: 2026 Defendiste la cara que no elegiste #Shorts
+- influencia continuada, Johnson y Seifert 1994. Título: 2026 Te corrigieron y sigues usándolo #Shorts
+- autoimpedimento, Berglas y Jones 1978. Título: 2026 El obstáculo lo pusiste tú #Shorts
+- ignorancia pluralista, Prentice y Miller 1993. Título: 2026 Nadie estaba de acuerdo y todos actuaron #Shorts
+- verdad por defecto, Levine. Título: 2026 El engaño entra porque llegas creyendo #Shorts
+- error de Otelo, Ekman; Bond y DePaulo 2006. Título: 2026 El nervioso no es la prueba #Shorts

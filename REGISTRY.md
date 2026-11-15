@@ -2548,3 +2548,13 @@ stripe solo aquí: https://buy.stripe.com/7sy28l6jrgsg72v7un7bw0b
 
 ### cuerpo (solo instagram si existiera; no va a anatomía del engaño) — no repetir
 - surfactante pulmonar / alvéolos. sumac / rhus coriaria y cedrón / aloysia citrodora como comida, no como cura. no es sinovial, otolito, menisco, parpadeo, hioides ni humor acuoso. título: 2026 tus pulmones no se pegan al soltar el aire. miniatura: no se pegan. voz es-co-salomeneural. 00:01:39.
+
+
+## lote206 2026-11-14
+### IA al Alcance — no repetir
+- Halobates / patinador oceánico / Halobates micans / Halobates germanus. No es Periophthalmus ni saltarín del fango. Título: 2026 Este insecto nunca toca tierra y no sabe nadar. 2:47. es-MX-DaliaNeural. Sin post id (Buffer 429). https://raw.githubusercontent.com/graciasdios9999-prog/lote206-20261114/main/ia_halobates.mp4
+### Refugio en la Palabra — no repetir
+- Sunamita, 2 Reyes 4, frase breve RV1909. No es la viuda de Sarepta ni el hacha de Eliseo. Título: 2026 Ella preparó un cuarto y no se fue vacía. 2:42. es-MX-JorgeNeural. Sin post id. https://raw.githubusercontent.com/graciasdios9999-prog/lote206-20261114/main/fe_sunamita.mp4
+### Cuerpo / Instagram — no repetir. No Anatomía del Engaño. Sin Cuba.
+- Apófisis xifoides. Asafétida (Ferula assa-foetida) y alcaravea (Carum carvi) como cocina, no como cura. Título: 2026 Esa punta bajo el pecho no es un hueso suelto. 2:25. es-CO-SalomeNeural. Sin post id. https://raw.githubusercontent.com/graciasdios9999-prog/lote206-20261114/main/cu_xifoides.mp4
+Buffer 429 Retry-After 523065 s desde la primera llamada (~2026-11-15T01:15Z). No llamar antes de 2026-11-21T02:40:00Z. Tag michelgonza02-20.

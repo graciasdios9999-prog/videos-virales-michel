@@ -2558,3 +2558,23 @@ stripe solo aquí: https://buy.stripe.com/7sy28l6jrgsg72v7un7bw0b
 ### Cuerpo / Instagram — no repetir. No Anatomía del Engaño. Sin Cuba.
 - Apófisis xifoides. Asafétida (Ferula assa-foetida) y alcaravea (Carum carvi) como cocina, no como cura. Título: 2026 Esa punta bajo el pecho no es un hueso suelto. 2:25. es-CO-SalomeNeural. Sin post id. https://raw.githubusercontent.com/graciasdios9999-prog/lote206-20261114/main/cu_xifoides.mp4
 Buffer 429 Retry-After 523065 s desde la primera llamada (~2026-11-15T01:15Z). No llamar antes de 2026-11-21T02:40:00Z. Tag michelgonza02-20.
+
+
+## Lote 207 (2026-11-15) — no repetir
+Buffer HTTP 429 en buffer___get_account, primera llamada, ~2026-11-15T05:25:00Z. Retry-After 507921 s. create_post no se llamó. list_channels no se llamó. Nada publicado. No hay id de post. No llamar a Buffer antes de 2026-11-21T03:00:00Z.
+No es documental de 90 minutos. Cortes únicos ~2.6 s. Voz edge-tts. Subtítulos amarillo/blanco palabra por palabra. Titular 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en MEMORIA_PUBLICACION.md.
+URLs directas:
+https://raw.githubusercontent.com/graciasdios9999-prog/lote207-20261115/main/ia_alimoche.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote207-20261115/main/fe_jairo.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote207-20261115/main/cu_paneth.mp4
+El cuerpo no se publica en Anatomía del Engaño. Instagram solo si list_channels lo muestra.
+
+### IA al Alcance (category 15) — no repetir
+- alimoche común / Neophron percnopterus. Usa piedra contra huevo de avestruz. No es quebrantahuesos ni Gypaetus. Título: 2026 Este buitre no usa el pico: busca una piedra. Miniatura: BUSCA PIEDRA. Voz es-MX-DaliaNeural. 1:38. https://raw.githubusercontent.com/graciasdios9999-prog/lote207-20261115/main/ia_alimoche.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- Jairo, paráfrasis de Lucas 8, cita breve de dominio público: No temas: cree solamente. No es Emaús, Filipos, sunamita, eunuco ni reina de Sabá. Título: 2026 Le dijeron que ya era tarde y siguió. Miniatura: SIGUIÓ IGUAL. Voz es-MX-JorgeNeural. 1:56. https://raw.githubusercontent.com/graciasdios9999-prog/lote207-20261115/main/fe_jairo.mp4
+Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
+- células de Paneth. Verdolaga / Portulaca oleracea y capuchina / Tropaeolum majus como comida, no como cura. No es bazo, xifoides, meibomio, borraja ni surfactante. Título: 2026 Unas células de tu intestino disparan gránulos. Miniatura: DISPARAN DENTRO. Voz es-CO-SalomeNeural. 2:14. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote207-20261115/main/cu_paneth.mp4

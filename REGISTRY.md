@@ -2578,3 +2578,23 @@ Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
 
 ### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
 - células de Paneth. Verdolaga / Portulaca oleracea y capuchina / Tropaeolum majus como comida, no como cura. No es bazo, xifoides, meibomio, borraja ni surfactante. Título: 2026 Unas células de tu intestino disparan gránulos. Miniatura: DISPARAN DENTRO. Voz es-CO-SalomeNeural. 2:14. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote207-20261115/main/cu_paneth.mp4
+
+
+## Lote 208 (2026-11-15) — no repetir
+Buffer HTTP 429 en buffer___get_account, primera llamada, 2026-11-15T09:14:24Z. Retry-After 494334 s. create_post no se llamó. list_channels no se llamó. Nada publicado. No hay id de post. No llamar a Buffer antes de 2026-11-21T02:33:18Z.
+No es documental de 90 minutos. Cortes únicos. Voz edge-tts. Subtítulos amarillo/blanco palabra por palabra. Titular 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en MEMORIA_PUBLICACION.md y en Drive.
+URLs directas HTTP 200 application/octet-stream:
+https://raw.githubusercontent.com/graciasdios9999-prog/lote208-20261115/main/ia_hydropotes.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote208-20261115/main/fe_tabita.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote208-20261115/main/cu_henle.mp4
+El cuerpo no se publica en Anatomía del Engaño. Instagram solo si list_channels lo muestra.
+
+### IA al Alcance (category 15) — no repetir
+- ciervo acuático / Hydropotes inermis. Macho con colmillos, sin astas. No es kudú, ciervo rojo, wapití, pudú ni ciervo almizclero. Título: 2026 Este ciervo no trae astas: trae colmillos. Miniatura: TRAJO COLMILLOS. Voz es-MX-DaliaNeural. 1:57. 44 planos, promedio 2.66 s. https://raw.githubusercontent.com/graciasdios9999-prog/lote208-20261115/main/ia_hydropotes.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- Tabita / Dorcas en Jope, paráfrasis de Hechos 9:36-42, cita breve de dominio público. No es el camino a Damasco (Hechos 9:3-6), ni Jairo, ni sunamita, ni reina de Sabá. Título: 2026 Las túnicas hablaron cuando ella ya no podía. Miniatura: LAS TÚNICAS. Voz es-MX-JorgeNeural. 1:42. https://raw.githubusercontent.com/graciasdios9999-prog/lote208-20261115/main/fe_tabita.mp4
+Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
+- asa de Henle. Perilla frutescens / shiso y Eryngium foetidum / culantro como cocina, no como cura. No es timo, mesenterio, cerumen, Paneth, bazo ni xifoides. Título: 2026 Tu riñón dobla un tubo para no perder el agua. Miniatura: DOBLA EL TUBO. Voz es-CO-SalomeNeural. 1:28. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote208-20261115/main/cu_henle.mp4

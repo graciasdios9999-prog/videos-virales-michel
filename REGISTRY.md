@@ -2598,3 +2598,23 @@ Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
 
 ### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
 - asa de Henle. Perilla frutescens / shiso y Eryngium foetidum / culantro como cocina, no como cura. No es timo, mesenterio, cerumen, Paneth, bazo ni xifoides. Título: 2026 Tu riñón dobla un tubo para no perder el agua. Miniatura: DOBLA EL TUBO. Voz es-CO-SalomeNeural. 1:28. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote208-20261115/main/cu_henle.mp4
+
+
+## Lote 209 (2026-11-15) — no repetir
+Buffer HTTP 429 en buffer___get_account, primera llamada, ~2026-11-15T09:28:00Z. Retry-After 493403 s. create_post no se llamó. list_channels no se llamó. Nada publicado. No hay id de post. No llamar a Buffer antes de 2026-11-21T02:31:23Z.
+No es documental de 90 minutos. Cortes únicos: falaropo 41 planos (2.62 s), Simeón 36 (3.13 s), podocitos 42 (2.60 s). Voz edge-tts. Subtítulos amarillo/blanco palabra por palabra. Titular 2026. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en este REGISTRY (no inventado).
+URLs directas HTTP 200 application/octet-stream:
+https://raw.githubusercontent.com/graciasdios9999-prog/lote209-20261115/main/ia_falaropo.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote209-20261115/main/fe_simeon.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote209-20261115/main/cu_podocito.mp4
+El cuerpo no se publica en Anatomía del Engaño. Instagram solo si list_channels lo muestra.
+
+### IA al Alcance (category 15) — no repetir
+- falaropo picofino / Phalaropus lobatus. Hembra con cuello rojo, macho empolla, gira en el agua. No es gaviota, alimoche, hydropotes ni drongo. Título: 2026 Ella brilla y él se queda a empollar. Miniatura: ÉL EMPOLLA. Voz es-MX-DaliaNeural. 1:47. https://raw.githubusercontent.com/graciasdios9999-prog/lote209-20261115/main/ia_falaropo.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- Simeón en el templo, paráfrasis de Lucas 2, cita breve RV1909: Ahora, Señor, despides a tu siervo en paz. No es Jairo, Tabita, sunamita ni reina de Sabá. Título: 2026 Esperó una vida por un minuto. Miniatura: SIGUIÓ ESPERANDO. Voz es-MX-JorgeNeural. 1:52. https://raw.githubusercontent.com/graciasdios9999-prog/lote209-20261115/main/fe_simeon.mp4
+Stripe solo aquí: https://buy.stripe.com/7sY28l6Jrgsg72V7Un7bW0B
+
+### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
+- podocitos del glomérulo. No es el asa de Henle. Acedera / Rumex acetosa y mahleb / Prunus mahaleb como comida, no como cura. Título: 2026 Unos pies frenan tu sangre. Miniatura: FRENAN LA SANGRE. Voz es-CO-SalomeNeural. 1:49. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote209-20261115/main/cu_podocito.mp4

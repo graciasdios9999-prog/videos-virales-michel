@@ -2669,3 +2669,24 @@ El cuerpo no se publica en Anatomía del Engaño. Instagram solo si list_channel
 
 ### Cuerpo (solo Instagram si existiera; no va a Anatomía del Engaño) — no repetir
 - Islotes de Langerhans. Pimienta larga / Piper longum y agracejo / Berberis vulgaris como comida, no como cura. No es asa de Henle, podocitos, células de Paneth, cúrcuma, jengibre ni canela. Título: 2026 Hay islas en tu páncreas que no piden permiso. Miniatura: ISLAS ADENTRO. Voz es-CO-SalomeNeural. 2:58. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote211-20261115/main/cu_langerhans_2026.mp4
+
+
+## Lote 224 (2026-11-19) — MP4 públicos, Buffer SIN id
+No repetir: siamang / Symphalangus syndactylus; Acsa y Caleb / Jueces 1; células de Kupffer + cubeba + amchur + tulsi.
+No es documental de 90 minutos: un corte único cada ~3 s durante 90 min no cabe en el tope de 100 MB de GitHub ni en un reel. Forma entregada: vertical 1080x1920, gancho, subtítulos palabra a palabra amarillo/blanco, titular que empieza por 2026, CTA a mitad y al final. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en este REGISTRY y en lote223, no inventado.
+Buffer: HTTP 429 en buffer get_account al inicio de la ejecución del 2026-11-19. Retry-After 155896 s. create_post no se llamó. list_channels no se llamó. No hay id de post. No llamar a Buffer antes de pasada esa ventana (~2026-11-21T02:28Z si el 429 fue ~2026-11-19T07:10Z). Una sola tarea programada para después; si vuelve 429, no crear otra.
+URLs directas HTTP 200 application/octet-stream (ftyp isom). media.githubusercontent.com dio 404; raw sí sirve el archivo:
+https://raw.githubusercontent.com/graciasdios9999-prog/lote224-20261119/main/ia_siamang.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote224-20261119/main/fe_acsa.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote224-20261119/main/cu_kupffer.mp4
+Manifest: https://raw.githubusercontent.com/graciasdios9999-prog/lote224-20261119/main/manifest.json
+El cuerpo va a Instagram solo si list_channels muestra un canal service instagram. Si no hay Instagram y sí existe Anatomía del engaño, ese mp4 va ahí (YouTube categoryId 27) y no a otro canal. Nunca el mismo archivo en dos canales.
+
+### IA al Alcance (category 15) — no repetir
+- siamang / Symphalangus syndactylus. Bolsa de garganta, dúo de pareja, dedos del pie unidos. No es gibón de manos blancas, aye-aye, urutau ni okapi. Título: 2026 Este primate grita con una bolsa en el cuello. Miniatura: BOLSA QUE GRITA. Voz es-MX-DaliaNeural. 2:21.92. 38 planos únicos. https://raw.githubusercontent.com/graciasdios9999-prog/lote224-20261119/main/ia_siamang.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- Acsa y Caleb, paráfrasis de Jueces 1, cita breve de dominio público RV1909 «Dame una bendición». Promesa: quien busca a Dios no se queda vacío. Agradecimiento a Jesucristo y a Jehová. No es Bartimeo, Getsemaní, la viña ni Talita cumi. Título: 2026 Pidió manantiales y no se fue vacía. Miniatura: PIDIÓ Y RECIBIÓ. Voz es-MX-JorgeNeural. 2:18.63. 44 planos únicos. https://raw.githubusercontent.com/graciasdios9999-prog/lote224-20261119/main/fe_acsa.mp4
+
+### Cuerpo (Instagram si existe; si no, Anatomía del engaño category 27; nunca los dos) — no repetir
+- Células de Kupffer. Cubeba, amchur (mango verde) y tulsi / albahaca santa como alimento de cocina, no como cura ni orden médica. No es Langerhans, médula ósea, nervio entérico, cúrcuma ni jengibre. Título: 2026 Tu hígado se come la sangre vieja. Miniatura: SANGRE VIEJA. Voz es-CO-SalomeNeural. 2:15.17. 37 planos únicos. Sin Cuba. https://raw.githubusercontent.com/graciasdios9999-prog/lote224-20261119/main/cu_kupffer.mp4

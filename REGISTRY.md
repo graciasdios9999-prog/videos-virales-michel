@@ -2690,3 +2690,22 @@ El cuerpo va a Instagram solo si list_channels muestra un canal service instagra
 
 ### Cuerpo (Instagram si existe; si no, Anatomía del engaño category 27; nunca los dos) — no repetir
 - Células de Kupffer. Cubeba, amchur (mango verde) y tulsi / albahaca santa como alimento de cocina, no como cura ni orden médica. No es Langerhans, médula ósea, nervio entérico, cúrcuma ni jengibre. Título: 2026 Tu hígado se come la sangre vieja. Miniatura: SANGRE VIEJA. Voz es-CO-SalomeNeural. 2:15.17. 37 planos únicos. https://raw.githubusercontent.com/graciasdios9999-prog/lote224-20261119/main/cu_kupffer.mp4
+
+
+## Lote 235 (2026-11-20) — MP4 públicos, Buffer SIN id
+No repetir: rata de crin / Lophiomys imhausi / Acokanthera; Barzilai / Barzillai de Galaad / Quimham, 2 Samuel 17 y 19; conducto nasolagrimal + ajo negro + citronela (Cymbopogon) + pimienta de Sichuan (Zanthoxylum).
+No es documental de 90 minutos: un corte único cada ~2.5 s durante 90 min no cabe en el tope de 100 MB de GitHub ni en un reel. Forma entregada: vertical 1080x1920, gancho, subtítulos palabra a palabra amarillo/blanco, titular que empieza por 2026, CTA a mitad y al final. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en este REGISTRY, no inventado.
+Buffer: HTTP 429 en buffer___get_account al inicio, 2026-11-20T01:09Z aprox. Retry-After 91152 s. create_post no se llamó. list_channels no se llamó. No hay id de post. No llamar a Buffer antes de 2026-11-21T02:35:00Z. Una sola tarea programada para después; si vuelve 429, no crear otra.
+URLs directas HTTP 200 application/octet-stream:
+https://raw.githubusercontent.com/graciasdios9999-prog/lote235-20261120/main/ia_lophiomys.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote235-20261120/main/fe_barzilai.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote235-20261120/main/cu_lagrima.mp4
+
+### IA al Alcance (category 15) — no repetir
+- Lophiomys imhausi / rata de crin. Roba cardenólidas del árbol Acokanthera y las lleva en pelos huecos. No es fossa, siamang, tuátara, mixino ni camarón mantis. Título: 2026 Esta rata no fabrica el veneno: se lo roba a un árbol. Miniatura: VENENO AJENO. Voz es-MX-DaliaNeural. 2:27. https://raw.githubusercontent.com/graciasdios9999-prog/lote235-20261120/main/ia_lophiomys.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- Barzilai de Galaad, paráfrasis de 2 Samuel 17 y 19. Pidió volver a morir junto al sepulcro de sus padres y pasó el favor a Quimham. No es la zarza, el óbolo, Acsa, Elías, la viña ni Zaqueo. Título: 2026 Alimentó a un fugitivo y rechazó el palacio. Miniatura: RECHAZÓ EL PALACIO. Voz es-MX-JorgeNeural. 2:24. https://raw.githubusercontent.com/graciasdios9999-prog/lote235-20261120/main/fe_barzilai.mp4
+
+### Cuerpo (Instagram si existe; si no, Anatomía del engaño category 27; nunca los dos) — no repetir
+- Conducto nasolagrimal. Ajo negro, citronela y pimienta de Sichuan como comida, no como cura ni orden médica. No es Kupffer, Langerhans, cebolla, canela, piloerección ni trompa de Eustaquio. Sin Cuba. Título: 2026 Tu lágrima tiene un túnel hacia la nariz. Miniatura: BAJA A LA NARIZ. Voz es-CO-SalomeNeural. 2:13. https://raw.githubusercontent.com/graciasdios9999-prog/lote235-20261120/main/cu_lagrima.mp4

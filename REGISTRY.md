@@ -2709,3 +2709,23 @@ https://raw.githubusercontent.com/graciasdios9999-prog/lote235-20261120/main/cu_
 
 ### Cuerpo (Instagram si existe; si no, Anatomía del engaño category 27; nunca los dos) — no repetir
 - Conducto nasolagrimal. Ajo negro, citronela y pimienta de Sichuan como comida, no como cura ni orden médica. No es Kupffer, Langerhans, cebolla, canela, piloerección ni trompa de Eustaquio. Sin Cuba. Título: 2026 Tu lágrima tiene un túnel hacia la nariz. Miniatura: BAJA A LA NARIZ. Voz es-CO-SalomeNeural. 2:13. https://raw.githubusercontent.com/graciasdios9999-prog/lote235-20261120/main/cu_lagrima.mp4
+
+
+## Lote 236 (2026-11-23) — MP4 públicos, Buffer programado con id
+No repetir: Euprymna scolopes / calamar bobtail de Hawái / Vibrio fischeri / contra-iluminación; Ebed-melec / Jeremías 38 / aljibe de Malquías / trapos; placas de Peyer / células M / íleon + pimienta rosa Schinus + granos del paraíso Aframomum melegueta + macis.
+No es documental de 90 minutos. Forma: vertical 720x1280, gancho, subtítulos palabra a palabra amarillo/blanco, titular que empieza por 2026, CTA a mitad y al final. isAiGenerated true. madeForKids false. category IA 15, Refugio y Anatomía 27. Tag Amazon michelgonza02-20 leído en posts viejos de Buffer, no inventado.
+shareNow en IA AL ALCANCE devolvió 400: límite diario de YouTube de 2 posts. Sin 429. Se programó customScheduled, una sola vez, otro día.
+No hay canal Instagram. El cuerpo fue a Anatomía del Engaño (YouTube).
+URLs directas HTTP 200 application/octet-stream:
+https://raw.githubusercontent.com/graciasdios9999-prog/lote236-20261123/main/ia_euprymna.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote236-20261123/main/fe_ebed.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote236-20261123/main/cu_peyer.mp4
+
+### IA al Alcance — post 6b0513909a4bd32ca3f34176 scheduled 2026-11-27T16:00:00Z
+- Euprymna scolopes. Título: 2026 Este calamar borra su sombra con un cultivo. Miniatura: BORRA SU SOMBRA. Voz es-MX-DaliaNeural. 2:14. 51 planos. 
+
+### Refugio en la Palabra — post 6b0513989a4bd32ca3f34625 scheduled 2026-11-27T22:30:00Z
+- Ebed-melec, Jeremías 38, RV1909. Título: 2026 Lo subieron del foso con trapos, no con corona. Miniatura: TRAPOS QUE SALVAN. Voz es-MX-JorgeNeural. 2:11.
+
+### Anatomía del Engaño (YouTube, no Instagram) — post 6b0513a19a4bd32ca3f34a1a scheduled 2026-11-28T16:00:00Z
+- Placas de Peyer. Título: 2026 El intestino tiene puestos que prueban el bocado. Miniatura: PRUEBAN EL BOCADO. Voz es-CO-SalomeNeural. 2:11. Sin Cuba. Comida, no cura.

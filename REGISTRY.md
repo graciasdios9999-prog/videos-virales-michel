@@ -2748,3 +2748,23 @@ https://raw.githubusercontent.com/graciasdios9999-prog/lote273-dolicho-20261126/
 
 ### Cuerpo (sin Instagram; destino previsto Anatomía del Engaño category 27, sin id) — no repetir
 - Fóvea. Pandan y lima kafir como cocina, no como cura. Sin Cuba. Título: 2026: Hay un hoyo en tu retina y por eso lees. Miniatura: HOYO QUE ENFOCA. Voz es-CO-SalomeNeural. 2:52. https://raw.githubusercontent.com/graciasdios9999-prog/lote273-dolicho-20261126/main/cu.mp4
+
+
+## Lote 276 (2026-11-26) — MP4 públicos, Buffer SIN id
+No repetir: foca barbuda / Erignathus barbatus (no es foca de casco ni león marino); Josías / Hilcías / Safán / Hulda / 2 Reyes 22 (no es el pozo de Juan 4 ni la viuda de Lucas 18 ni Ana de Lucas 2); cristalino sin vasos + loomi (lima seca del Golfo) + kokum / Garcinia indica (cáscara seca, cocina de la costa oeste de la India). La asafétida NO se usó aquí: ya estaba en el lote 206 con la apófisis xifoides.
+No es documental de 90 minutos. Buffer YouTube: short hasta 3 min, regularVideo hasta 15 min. Forma entregada: vertical 720x1280. IA 2:30, Refugio 2:24, Anatomía 2:14. Gancho, subtítulos palabra a palabra amarillo/blanco, titular que empieza por 2026, CTA a mitad y al final. isAiGenerated true. madeForKids false. category IA 15, Refugio y Anatomía 27. Tag Amazon michelgonza02-20 leído en posts viejos de Buffer, no inventado.
+Buffer: buffer___get_account, buffer___list_channels y buffer___create_post devolvieron unauthenticated bad-credentials el 2026-11-26. No es HTTP 429. No hay Retry-After. create_post no devolvió id. No hay post publicado. No reintentar en ráfaga.
+No hay canal Instagram. El cuerpo iba a Anatomía del Engaño (YouTube, category 27) y no se publicó por el fallo de credenciales. Canales vistos en sesiones anteriores, no reconfirmados en esta llamada porque la autenticación del conector falló antes: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Organización recordada: My organization. Start Page michel bloqueada, no usada.
+URLs directas video/mp4 (jsDelivr, commit f3d6f712d00bbcc3a9e5a16cb3019df29b1fad5c):
+https://cdn.jsdelivr.net/gh/graciasdios9999-prog/lote276-20261126@f3d6f712d00bbcc3a9e5a16cb3019df29b1fad5c/ia_foca_barbuda.mp4
+https://cdn.jsdelivr.net/gh/graciasdios9999-prog/lote276-20261126@f3d6f712d00bbcc3a9e5a16cb3019df29b1fad5c/fe_josias.mp4
+https://cdn.jsdelivr.net/gh/graciasdios9999-prog/lote276-20261126@f3d6f712d00bbcc3a9e5a16cb3019df29b1fad5c/cu_cristalino.mp4
+
+### IA al Alcance (category 15) — no repetir
+- Erignathus barbatus. Título: 2026: Esos bigotes leen el lodo ártico. Miniatura: BIGOTES QUE LEEN. Voz es-MX-DaliaNeural. 2:30. Sin post id.
+
+### Refugio en la Palabra (category 27) — no repetir
+- Josías, 2 Reyes 22, cita breve RV1909. Título: 2026: El libro estaba dentro del templo. Miniatura: HALLÓ EL LIBRO. Voz es-MX-JorgeNeural. 2:24. Sin post id.
+
+### Cuerpo (sin Instagram; destino previsto Anatomía del Engaño category 27, sin id) — no repetir
+- Cristalino. Loomi y kokum como cocina, no como cura. Sin Cuba. Sin asafétida. Título: 2026: Tu lente enfoca y no tiene sangre. Miniatura: LENTE SIN SANGRE. Voz es-CO-SalomeNeural. 2:14. Sin post id.

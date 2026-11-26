@@ -2768,3 +2768,22 @@ https://cdn.jsdelivr.net/gh/graciasdios9999-prog/lote276-20261126@f3d6f712d00bbc
 
 ### Cuerpo (sin Instagram; destino previsto Anatomía del Engaño category 27, sin id) — no repetir
 - Cristalino. Loomi y kokum como cocina, no como cura. Sin Cuba. Sin asafétida. Título: 2026: Tu lente enfoca y no tiene sangre. Miniatura: LENTE SIN SANGRE. Voz es-CO-SalomeNeural. 2:14. Sin post id.
+
+## Lote 277 (2026-11-26) — MP4 públicos, Buffer SIN id
+No repetir: Sacculina carcini / rizocéfalo / cangrejo verde Carcinus maenas como huésped del percebe parásito (no es cangrejo ermitaño, herradura, yeti ni camarón mantis); Rebeca en el pozo / Génesis 24 / cántaro y camellos (no es Agar, ni el pozo de Juan 4, ni la viuda de Sarepta); palmar largo / palmaris longus + cardamomo negro Amomum subulatum + amla Phyllanthus emblica + hoja santa Piper auritum. Comida, no cura. Sin Cuba.
+No es documental de 90 minutos. Buffer YouTube: short hasta 3 min, regularVideo hasta 15 min. Forma entregada: vertical 720x1280. IA 2:37, Refugio 2:39, Anatomía 2:50. 54 planos únicos por video, cortes ~2.9–3.1 s. Gancho, subtítulos palabra a palabra amarillo/blanco, titular que empieza por 2026, CTA a mitad y al final. isAiGenerated true. madeForKids false. category IA 15, Refugio y Anatomía 27. Tag Amazon michelgonza02-20 leído en posts viejos de Buffer, no inventado.
+Buffer: buffer___get_account, buffer___list_channels y buffer___list_posts funcionaron al inicio (organización My organization, id 6ab1dd0b88b55d24ffd171d7). buffer___create_post devolvió unauthenticated bad-credentials. Un reintento de get_account, tras una sola pausa, devolvió el mismo error. No es HTTP 429. No hay Retry-After. create_post no devolvió id. No hay post publicado. No se reintentó en ráfaga.
+No hay canal Instagram en list_channels. El cuerpo iba a Anatomía del Engaño (YouTube 6aed1047e29c69a171780e87, category 27) y no se publicó por el fallo de credenciales. Canales confirmados antes del fallo: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Start Page michel bloqueada, no usada.
+URLs directas video/mp4 (jsDelivr, commit 5e4d2dc876a51fc1b2ba60ace50623011a7222ae):
+https://cdn.jsdelivr.net/gh/graciasdios9999-prog/lote277-20261126@5e4d2dc876a51fc1b2ba60ace50623011a7222ae/ia_sacculina.mp4
+https://cdn.jsdelivr.net/gh/graciasdios9999-prog/lote277-20261126@5e4d2dc876a51fc1b2ba60ace50623011a7222ae/fe_rebeca.mp4
+https://cdn.jsdelivr.net/gh/graciasdios9999-prog/lote277-20261126@5e4d2dc876a51fc1b2ba60ace50623011a7222ae/cu_palmar.mp4
+
+### IA al Alcance (category 15) — no repetir
+- Sacculina carcini. Título: 2026 Ese cangrejo cría al invasor. Miniatura: CRÍA AL INVASOR. Voz es-MX-DaliaNeural. 2:37. Sin post id.
+
+### Refugio en la Palabra (category 27) — no repetir
+- Rebeca, Génesis 24, cita breve RV1909. Título: 2026 Pidió un cántaro y no volvió vacío. Miniatura: NO VOLVIÓ VACÍO. Voz es-MX-JorgeNeural. 2:39. Sin post id.
+
+### Cuerpo (sin Instagram; destino previsto Anatomía del Engaño category 27, sin id) — no repetir
+- Palmaris longus. Cardamomo negro, amla y hoja santa como cocina, no como cura. Sin Cuba. Título: 2026 Aprieta: puede faltarte un tendón. Miniatura: FALTA UN TENDÓN. Voz es-CO-SalomeNeural. 2:50. Sin post id.

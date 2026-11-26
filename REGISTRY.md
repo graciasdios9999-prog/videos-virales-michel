@@ -2729,3 +2729,22 @@ https://raw.githubusercontent.com/graciasdios9999-prog/lote236-20261123/main/cu_
 
 ### Anatomía del Engaño (YouTube, no Instagram) — post 6b0513a19a4bd32ca3f34a1a scheduled 2026-11-28T16:00:00Z
 - Placas de Peyer. Título: 2026 El intestino tiene puestos que prueban el bocado. Miniatura: PRUEBAN EL BOCADO. Voz es-CO-SalomeNeural. 2:11. Sin Cuba. Comida, no cura.
+
+## Lote 273 (2026-11-26) — MP4 públicos, Buffer SIN id
+No repetir: Dolichopteryx longipes / pez fantasma de hocico marrón / ojo con espejo de guanina (no es Macropinna); Ana la profetisa de Lucas 2 (no es Ana madre de Samuel ni Simeón); fóvea central + pandan / Pandanus amaryllifolius + lima kafir / Citrus hystrix.
+No es documental de 90 minutos. Buffer YouTube: short hasta 3 min, regularVideo hasta 15 min. Forma entregada: vertical 720x1280, ~2:52, gancho, subtítulos palabra a palabra amarillo/blanco, titular que empieza por 2026, CTA a mitad y al final. isAiGenerated true. madeForKids false. Tag Amazon michelgonza02-20 leído en posts viejos de Buffer, no inventado.
+Buffer: buffer___get_account y buffer___create_post devolvieron unauthenticated bad-credentials el 2026-11-26 tras producir los mp4. No es HTTP 429. No hay Retry-After. create_post no devolvió id. No hay post publicado. No reintentar en ráfaga.
+No hay canal Instagram en list_channels (organización My organization). El cuerpo iba a Anatomía del Engaño (YouTube, category 27) y no se publicó por el fallo de credenciales. Canales vistos antes del fallo: IA AL ALCANCE 6abb15f5ea19ca0bde1c22f5, Refugio en la Palabra 6ab1ecc9ea19ca0bdeaf3f13, Anatomía del Engaño 6aed1047e29c69a171780e87. Start Page michel bloqueada, no usada.
+URLs directas HTTP 200 application/octet-stream:
+https://raw.githubusercontent.com/graciasdios9999-prog/lote273-dolicho-20261126/main/ia.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote273-dolicho-20261126/main/fe.mp4
+https://raw.githubusercontent.com/graciasdios9999-prog/lote273-dolicho-20261126/main/cu.mp4
+
+### IA al Alcance (category 15) — no repetir
+- Dolichopteryx longipes. Título: 2026: Este pez enfoca con un espejo, no con un lente. Miniatura: ESPEJO EN EL OJO. Voz es-MX-DaliaNeural. 2:52. https://raw.githubusercontent.com/graciasdios9999-prog/lote273-dolicho-20261126/main/ia.mp4
+
+### Refugio en la Palabra (category 27) — no repetir
+- Ana la profetisa, Lucas 2, paráfrasis, cita breve de dominio público. Título: 2026: Llevaba décadas en el templo y no se fue vacía. Miniatura: NO QUEDÓ VACÍA. Voz es-MX-JorgeNeural. 2:52. https://raw.githubusercontent.com/graciasdios9999-prog/lote273-dolicho-20261126/main/fe.mp4
+
+### Cuerpo (sin Instagram; destino previsto Anatomía del Engaño category 27, sin id) — no repetir
+- Fóvea. Pandan y lima kafir como cocina, no como cura. Sin Cuba. Título: 2026: Hay un hoyo en tu retina y por eso lees. Miniatura: HOYO QUE ENFOCA. Voz es-CO-SalomeNeural. 2:52. https://raw.githubusercontent.com/graciasdios9999-prog/lote273-dolicho-20261126/main/cu.mp4

@@ -2787,3 +2787,22 @@ https://cdn.jsdelivr.net/gh/graciasdios9999-prog/lote277-20261126@5e4d2dc876a51f
 
 ### Cuerpo (sin Instagram; destino previsto Anatomía del Engaño category 27, sin id) — no repetir
 - Palmaris longus. Cardamomo negro, amla y hoja santa como cocina, no como cura. Sin Cuba. Título: 2026 Aprieta: puede faltarte un tendón. Miniatura: FALTA UN TENDÓN. Voz es-CO-SalomeNeural. 2:50. Sin post id.
+
+
+## lote 278 (2026-11-27) — publicado en Buffer
+Organización: My organization (6ab1dd0b88b55d24ffd171d7).
+No es documental de 90 minutos. Buffer YouTube: short hasta 3 min y tope diario de 2 publicaciones inmediatas por canal. Forma entregada: vertical 720x1280. IA 2:42, Refugio 2:19. Voz IA es-MX-DaliaNeural. Voz Refugio es-MX-JorgeNeural. isAiGenerated true. madeForKids false. category IA 15, Refugio 27. Tag Amazon michelgonza02-20 leído en posts viejos, no inventado.
+No hay canal Instagram en list_channels. No se inventó id. Anatomía del Engaño existe como YouTube (6aed1047e29c69a171780e87) y hoy publica tácticas de manipulación, no cuerpo ni plantas: no se mezcló el nicho. Start Page michel está bloqueada.
+Wikimedia devolvió 429 en algunas descargas; no se reintentó en ráfaga. Buffer no devolvió 429.
+
+### IA AL ALCANCE — addToQueue porque shareNow chocó con el tope diario de YouTube (2). No es HTTP 429.
+- Sicyopterus stimpsoni / oopu nopili / gobio de cascada de Hawái. No es hoacín, guácharo, pez arquero, manta, tiburón ballena ni guacamayo.
+- Post 6b0940dc062ed764a8fa7e4f. status scheduled. dueAt 2026-11-29T00:36:00.000Z. 2:42 (162576 ms).
+- Título: 2026: El pez que trepa una cascada con la boca. Miniatura: TREPA CON LA BOCA.
+- URL: https://github.com/graciasdios9999-prog/buffer-media-cdn/releases/download/lote-20261127-gobio-ezequias/ia-gobio-2026.mp4
+
+### Refugio en la Palabra — shareNow sent
+- Ezequías, Isaías 38 y 2 Reyes 20, RV1909. Reloj de Acaz, quince años, higos. No es Gedeón como tema principal, ni Josías, ni Rebeca, ni Zaqueo, ni Lidia.
+- Post 6b0940c8776ce21276fdb0db. status sent. 2:19 (139368 ms).
+- Título: 2026: El sol retrocedió y sumó quince años. Miniatura: EL SOL VOLVIO.
+- URL: https://github.com/graciasdios9999-prog/buffer-media-cdn/releases/download/lote-20261127-gobio-ezequias/fe-ezequias-2026.mp4
